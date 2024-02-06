@@ -75,13 +75,13 @@ sections:
       show_organizations: false
 
   - block: portfolio
-    id: research
+    id: projects
     content:
-      title: Research
+      title: Projects
       filters:
         # Folders to display content from
         folders:
-          - research
+          - projects
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
@@ -139,6 +139,26 @@ sections:
       page_type: publication
     design:
       view: compact
+      columns: '2'
+
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      #subtitle: About Us
+      text: |
+        ### Theses and Projects
+
+        Information regarding theses and projects coming soon.
+
+        ---
+
+        ### Courses
+
+        Information regarding courses coming soon.
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
 
   - block: markdown
