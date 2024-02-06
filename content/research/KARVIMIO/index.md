@@ -34,9 +34,9 @@ The overall goal of KARVIMIO is the research and development of an Artificial in
 {{< spoiler text="ELSI Workshop @ IAT 29.09.2023" >}}
 After a little more than one year in the project, the workshop is a good opportunity to review the current status and next plans together from a legal, ethical and social perspective. Many thanks to the IAT for the organization and all partners’ participants for the successful collaboration!
 
-![People at ELSI Workshop](ELSI-workshop-IMG_2330-scaled.jpg "ELSI Workshop")
+![People at ELSI Workshop](KARVIMIO/ELSI-workshop-IMG_2330-scaled.jpg "ELSI Workshop")
 
-{{< figure src="ELSI-workshop-IMG_2330-scaled.jpg" caption="ELSI workshop" numbered="true" >}}
+{{< figure src="KARVIMIO/ELSI-workshop-IMG_2330-scaled.jpg" caption="ELSI workshop" numbered="true" >}}
 
 
 {{< /spoiler >}}
