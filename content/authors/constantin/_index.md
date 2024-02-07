@@ -79,4 +79,6 @@ user_groups:
 
 Constantin is a PhD candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. His research interests include Virtual and Augmented Reality, 3D Rendering, Interactivity and AI. Before embarking on the trip to receive a PhD, he worked as a software developer and consultant for Accenture and Capgemini after receiving finishing a Masters in Human Computer Interaction at the University of Würzburg.
 
+Constantin is supported by a scholarship from Siemens Healthineers and the Digital Health Innovation Platform (d.hip). Thank you!
 
+{{< figure src="scholarship.png" >}}
