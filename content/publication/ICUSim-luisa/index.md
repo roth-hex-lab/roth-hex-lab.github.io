@@ -1,5 +1,5 @@
 ---
-title: "Indoor synthetic data generation: A systematic review"
+title: "Investigating the Effects of Selective Information Presentation in Intensive Care Units Using Virtual Reality"
 authors:
 - Luisa Theelke
 - Fynn-Lennardt Metzler
