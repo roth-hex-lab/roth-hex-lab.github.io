@@ -10,7 +10,7 @@ last_name: Kreimeier
 superuser: false
 
 # Role/position
-role: Senior Research Scientists
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
