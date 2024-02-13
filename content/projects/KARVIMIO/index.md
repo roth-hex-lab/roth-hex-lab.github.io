@@ -121,7 +121,7 @@ After a little more than one year in the project, the workshop is a good opportu
 {{< spoiler text="Technische Universität München (Project Lead)" >}}
 **[Prof. Dr. Daniel Roth](https://hex-lab.io/author/daniel-roth/)** \
 \
-**[Dr. Julian Kreieier](https://hex-lab.io/author/julian-kreimeier/)**\
+**[Dr. Julian Kreimeier](https://hex-lab.io/author/julian-kreimeier/)**\
 \
 **[Shiyu Li](https://hex-lab.io/author/shiyu-li/)**
 
