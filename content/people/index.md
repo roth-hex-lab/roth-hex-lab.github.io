@@ -14,7 +14,7 @@ sections:
           - Head
           - Senior Research Scientists
           - Researchers
-          - External Researchers
+          - External Affiliated Researchers
           - Team Support
           - Visitors
           - Alumni
