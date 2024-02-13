@@ -118,10 +118,12 @@ After a little more than one year in the project, the workshop is a good opportu
 
 # Project Partners
 
-{{< spoiler text="TUM" >}}
-Prof. Dr. Daniel Roth
-Dr. Julian Kreieier
-Shiyu Li
+{{< spoiler text="TUM (Project Lead)" >}}
+**Prof. Dr. Daniel Roth** \
+\
+**Dr. Julian Kreieier**\
+\
+**Shiyu Li**
 
 {{< /spoiler >}}
 
@@ -129,20 +131,48 @@ Shiyu Li
 {{< spoiler text="Medability GmbH" >}}
 Medability is a leading German company specializing in the development and production of high-end surgical simulators. Our innovative simulators empower medical professionals to enhance their skills and build confidence in using the latest surgical instruments. Our simulators are designed to facilitate professional education and sales, providing a valuable resource for surgeons seeking to advance their knowledge and expertise. With a commitment to excellence and a focus on innovation, Medability is dedicated to delivering the highest quality simulators to customers.
 
-{{< figure src="KARVIMIO/Medability.png" caption="ELSI workshop" >}}
+{{< figure src="KARVIMIO/Medability.png" >}}
 
-{{< figure src="KARVIMIO/XXXXXXX">}}
-
-Philipp Stefan | philipp.stefan@medability.de
-Medability GmbH
-Geretsrieder Strasse 10A
-81379 Munich
+**Philipp Stefan** | philipp.stefan@medability.de\
+Medability GmbH\
+Geretsrieder Strasse 10A\
+81379 Munich\
 www.medability.de
 
 {{< /spoiler >}}
 
 
+{{< spoiler text="LMU Klinikum München" >}}
+LMU Hospital is a leading healthcare institution known for its advanced research capabilities. Collaborating with global institutions, they continuously contribute to the advancement of healthcare and the improvement of countless lives. One of its areas of expertise is orthopedic and trauma surgery research, where it has made significant strides in improving surgical techniques and patient outcomes. Their dedicated team of experts focuses on studying the latest advancements in trauma care and implementing innovative approaches in the operating room.\
+\
+Additionally, LMU Hospital is actively involved in augmented reality research, exploring the potential applications of this technology in the medical field. Through cutting-edge simulations and studies, they are investigating how augmented reality can enhance surgical procedures, medical training, and patient education.\
+\
 
+{{< figure src="KARVIMIO/Sebastian.jpg">}}
+
+**Dr. med. Sebastian Andreß**\
+\
+Dr. Andreß is a fourth year orthopedic trauma resident at the LMU Hospital. Furthermore, he is taking part in an advanced training as a medical informatics specialist for the last two years. In his doctoral thesis, he researched the improvement of surgical treatment of acetabular fractures using 3D printers. During research stays at the John Hopkins University in Baltimore, Maryland, USA and the University of British Columbia, Canada, he developed medical augmented reality and deep learning computer vision applications.
+
+{{< figure src="KARVIMIO/JuliaHoegl.png">}}
+
+**Julia Högl**\
+\
+Julia Högl graduated in Medicine at Ludwig Maximilian University in 2022. She did her elective part of the intern year at the LMU Hospital in Orthopedics and Trauma Surgery and now is working as a resident in surgery. In her doctoral thesis, she researches in endovascular repair in complex aortic pathologies. She is passioned about technical development in surgery and improving patients‘ outcomes based on clinical analysis.
+
+{{< figure src="KARVIMIO/Cindy.png">}}
+
+**Cindy Walk**\
+\
+Cindy Walk is a experienced surgical assistant with 4 years in orthopedic and trauma surgery at LMU Hospital. Currently in her 5th semester of medical studies, her profile embodies a fusion of hands-on expertise and academic dedication.
+
+{{< figure src="KARVIMIO/Felix.png">}}
+
+**Felix Merkl**\
+\
+Felix Merkl is a research assistant and software developer and joined the LMU Hospital 2022. He finished his Master of Science at the Technische Universität München in Biomedical Computing. His research interests are medical augmented and mixed reality applications.
+
+{{< /spoiler >}}
 
 
 
