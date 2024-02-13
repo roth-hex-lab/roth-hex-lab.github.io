@@ -116,5 +116,35 @@ After a little more than one year in the project, the workshop is a good opportu
 {{< /spoiler >}}
 
 
+# Project Partners
+
+{{< spoiler text="TUM" >}}
+Prof. Dr. Daniel Roth
+Dr. Julian Kreieier
+Shiyu Li
+
+{{< /spoiler >}}
+
+
+{{< spoiler text="Medability GmbH" >}}
+Medability is a leading German company specializing in the development and production of high-end surgical simulators. Our innovative simulators empower medical professionals to enhance their skills and build confidence in using the latest surgical instruments. Our simulators are designed to facilitate professional education and sales, providing a valuable resource for surgeons seeking to advance their knowledge and expertise. With a commitment to excellence and a focus on innovation, Medability is dedicated to delivering the highest quality simulators to customers.
+
+{{< figure src="KARVIMIO/Medability.png" caption="ELSI workshop" >}}
+
+{{< figure src="KARVIMIO/XXXXXXX">}}
+
+Philipp Stefan | philipp.stefan@medability.de
+Medability GmbH
+Geretsrieder Strasse 10A
+81379 Munich
+www.medability.de
+
+{{< /spoiler >}}
+
+
+
+
+
+
 
 Funding agency: [Bundesministerium für Bildung und Forschung (BMBF)](https://www.interaktive-technologien.de/projekte/karvimio)
