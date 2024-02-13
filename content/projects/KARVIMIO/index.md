@@ -31,6 +31,22 @@ KARVIMIO (German: (KI-basierte Augmented Reality Visualisierung von Bedienungsan
 
 The overall goal of KARVIMIO is the research and development of an Artificial intelligence (AI) based Augmented Reality (AR) assistance system to support the operating room (OR) team in the hospital in order to increase process and treatment quality and patient safety. AI-based object recognition and tracking through static dynamic camera sensors will be used to automatically detect the medical instrument in focus and its condition. Through multimodal interaction with AR glasses, the medical staff will be able to quickly visualize the relevant operating instructions, in order to have the necessary information available at the point of use. This project aims to solve a common problem in the OR, that are difficulties in instrument handling. These typically require the gathering of necessary information in paper or PDF based manuals, an in turn a pause during the procedure that causes reduced patient care and safety. KARVIMIO therefore aligns with the goal of the WHO Global Patient Safety and Action Plan 2021-2030 to keep necessary instrument instructions always at spot.
 
+{{< spoiler text="XR Day Nuremberg 06.07.2023" >}}
+The FAU team showcased KARVIMIO at the public XR Day 2023 (organized by XR Hub Nürnberg, one of the central XR Hubs of the XR HUB Bavaria initiative) and presented it to the State Ministry for Digitalization represented by MRin Dr. Armbruster as well as Dr. Michael Fraas, Economics and Science Officer of the City of Nuremberg.  We would like to thank the  XR-Hub in Nuremberg for having us! The XR-Hub connects innovative start-ups, industry and research.
+
+{{< figure src="KARVIMIO/XRDayNuremberg1.jpeg" caption="XR Day Nuremberg 06.07.2023" >}}
+
+{{< /spoiler >}}
+
+
+{{< spoiler text="XR Day Siemens Healthineers 12.07.2023" >}}
+During his Keynote on on #AI driven XR interfaces (and all sorts of realities #asor) at the at the #XR day of Siemens Healthineers, Daniel Roth presented the KARVIMIO project to an interested audience of healthcare professionals and researchers. Thank you for the stage and the interesting talks!
+
+{{< figure src="KARVIMIO/XRDaySiemens1.jpg" caption="XR Day Siemens Healthineers" >}}
+{{< figure src="KARVIMIO/XRDaySiemens2.jpg" caption="XR Day Siemens Healthineers" >}}
+{{< figure src="KARVIMIO/XRDaySiemens3.jpg" caption="XR Day Siemens Healthineers" >}}
+
+{{< /spoiler >}}
 
 {{< spoiler text="Bavarian Business Night 17.07.2023" >}}
 We were very pleased to present KARVIMIO to stakeholders of the economy yesterday at the Bavarian business  night (vbw – Vereinigung der Bayerischen Wirtschaft e. V.). Thank you for many great conversations and lively exchanges and also many thanks for the organization XR HUB Bavaria and the support Bavarian State Ministry for Digital Affairs.
