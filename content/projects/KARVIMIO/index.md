@@ -31,10 +31,48 @@ KARVIMIO (German: (KI-basierte Augmented Reality Visualisierung von Bedienungsan
 
 The overall goal of KARVIMIO is the research and development of an Artificial intelligence (AI) based Augmented Reality (AR) assistance system to support the operating room (OR) team in the hospital in order to increase process and treatment quality and patient safety. AI-based object recognition and tracking through static dynamic camera sensors will be used to automatically detect the medical instrument in focus and its condition. Through multimodal interaction with AR glasses, the medical staff will be able to quickly visualize the relevant operating instructions, in order to have the necessary information available at the point of use. This project aims to solve a common problem in the OR, that are difficulties in instrument handling. These typically require the gathering of necessary information in paper or PDF based manuals, an in turn a pause during the procedure that causes reduced patient care and safety. KARVIMIO therefore aligns with the goal of the WHO Global Patient Safety and Action Plan 2021-2030 to keep necessary instrument instructions always at spot.
 
+
+{{< spoiler text="Internal Kick Off 01.08.2022" >}}
+Today we are very happy to internally kick off our new project KARVIMIO which is founded by the BMBF. Our HEX Lab team will lead the project in collaboration with the medical experts from the LMU Klinikum, medtec specialists from Medability, and our colleagues from IAT who focus on participatory, ethical and security aspects.
+
+{{< figure src="KARVIMIO/InternalKickOff.jpg" caption="Internal Kick Off" >}}
+
+{{< /spoiler >}}
+
+
+{{< spoiler text="Official Kick Off 29.11.2022" >}}
+We’re happy to officially kick off our project together with our project partners and all associated partners and collaborators. We are looking forward to working with all of you!
+
+{{< figure src="KARVIMIO/OfficialKickOff.jpeg" caption="Official Kick Off" >}}
+
+{{< /spoiler >}}
+
+
+{{< spoiler text="Co-Creation Workshop @ LMU 31.01.2023" >}}
+To get the perspectives of the different stakeholders (such as surgeons, surgeon’s assistant, medtech industry and clinical IT) we discussed in two focus groups how intercation possibilities can and should look like and what technical and administrative framework conditions are. We thank the 22 participants from different disciplines very much for their valueable feedback and are excited to incorporate all this valuable information into the further development process!
+
+{{< figure src="KARVIMIO/CoCreationLMU1.jpg" caption="Co-Creation Workshop @ LMU" >}}
+{{< figure src="KARVIMIO/CoCreationLMU2.jpg" caption="Co-Creation Workshop @ LMU" >}}
+{{< figure src="KARVIMIO/CoCreationLMU3.jpg" caption="Co-Creation Workshop @ LMU" >}}
+{{< figure src="KARVIMIO/CoCreationLMU4.jpg" caption="Co-Creation Workshop @ LMU" >}}
+{{< figure src="KARVIMIO/CoCreationLMU5.jpg" caption="Co-Creation Workshop @ LMU" >}}
+{{< figure src="KARVIMIO/CoCreationLMU6.jpg" caption="Co-Creation Workshop @ LMU" >}}
+
+{{< /spoiler >}}
+
+
+{{< spoiler text="Capital Congress Berlin 14.-16.06.2032" >}}
+The Institute for Work and Technology IAT (research focus Health & Quality of Life) successfully represented the KARVIMIO project at the Capital Congress in Berlin from 14.06.23 to 16.06.23.  In the exhibition area of the Network of German Health Regions “W.I.R. – Wissen.Innovation.Region” Elena Cramer and Alexander Kucharski presented the project to interested visitors.
+
+{{< figure src="KARVIMIO/CapitalCongress.jpg" caption="Capital Congress Berlin" >}}
+
+{{< /spoiler >}}
+
+
 {{< spoiler text="XR Day Nuremberg 06.07.2023" >}}
 The FAU team showcased KARVIMIO at the public XR Day 2023 (organized by XR Hub Nürnberg, one of the central XR Hubs of the XR HUB Bavaria initiative) and presented it to the State Ministry for Digitalization represented by MRin Dr. Armbruster as well as Dr. Michael Fraas, Economics and Science Officer of the City of Nuremberg.  We would like to thank the  XR-Hub in Nuremberg for having us! The XR-Hub connects innovative start-ups, industry and research.
 
-{{< figure src="KARVIMIO/XRDayNuremberg1.jpeg" caption="XR Day Nuremberg 06.07.2023" >}}
+{{< figure src="KARVIMIO/XRDayNuremberg1.jpeg" caption="XR Day Nuremberg" >}}
 
 {{< /spoiler >}}
 
@@ -47,6 +85,7 @@ During his Keynote on on #AI driven XR interfaces (and all sorts of realities #a
 {{< figure src="KARVIMIO/XRDaySiemens3.jpg" caption="XR Day Siemens Healthineers" >}}
 
 {{< /spoiler >}}
+
 
 {{< spoiler text="Bavarian Business Night 17.07.2023" >}}
 We were very pleased to present KARVIMIO to stakeholders of the economy yesterday at the Bavarian business  night (vbw – Vereinigung der Bayerischen Wirtschaft e. V.). Thank you for many great conversations and lively exchanges and also many thanks for the organization XR HUB Bavaria and the support Bavarian State Ministry for Digital Affairs.
@@ -67,6 +106,7 @@ ShiftMedical is the perfect place to network within academia, practitioners, and
 {{< figure src="KARVIMIO/ShiftMedical1.jpg" caption="ELSI Workshop" >}}
 
 {{< /spoiler >}}
+
 
 {{< spoiler text="ELSI Workshop @ IAT 29.09.2023" >}}
 After a little more than one year in the project, the workshop is a good opportunity to review the current status and next plans together from a legal, ethical and social perspective. Many thanks to the IAT for the organization and all partners’ participants for the successful collaboration!
