@@ -3,8 +3,8 @@
 title: Judith Friedl-Knirsch
 
 # Full name (for SEO)
-first_name: n
-last_name: n
+first_name: Judith
+last_name: Friedl-Knirsch
 
 # Username (this should match the folder name)
 authors:
@@ -18,21 +18,26 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Org
+  - name: University of Applied Sciences Upper Austria, TU Munich
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: todo
+bio: Judith is a PhD student at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the University of Applied Sciences Upper Austria, Human Interfaces & Virtual Environments research group.
+
 
 interests:
-  - todo
-  - todo
+  - Cross Reality
+  - Empiric Evaluation
+  - Human-Computer Interaction
 
 education:
   courses:
-    - course: todo 
-      institution: todo
-      year: todo
+    - course: MSc in Human-Centered Computing 
+      institution: University of Applied Sciences Upper Austria
+      year: 2018-2020
+    - course: BA in Communication and Knowledge Media 
+      institution: University of Applied Sciences Upper Austria
+      year: 2015-2018
 
 
 # Social/Academic Networking
@@ -42,16 +47,10 @@ education:
 social:
   #- icon: envelope
   #  icon_pack: fas
-  #  link: 'mailto:constantin.kleinbeck@tum.de'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
+  #  link: 'mailto:Judith.friedl-knirsch@fh-ooe.atde'
   #- icon: google-scholar
   #  icon_pack: ai
-  #  link: https://scholar.google.co.uk/citations?user=XnnWzYgAAAAJ
-  #- icon: github
-  #  icon_pack: fab
-  #  link: https://github.com/gcushen
+  #  link: https://scholar.google.com/citations?user=B3GgqIQAAAAJ&hl=de&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +67,6 @@ user_groups:
 
 ---
 
-Judith bio.
+Judith is a PhD student at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the University of Applied Sciences Upper Austria, Human Interfaces & Virtual Environments research group. During her PhD, she focuses on the empiric evaluation of cross-reality applications. During her work as a research associate, she has worked in foundational and industry research projects focusing on cross reality, data visualisation and interface design.
 
 
