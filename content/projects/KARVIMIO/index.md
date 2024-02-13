@@ -118,12 +118,12 @@ After a little more than one year in the project, the workshop is a good opportu
 
 # Project Partners
 
-{{< spoiler text="TUM (Project Lead)" >}}
-**Prof. Dr. Daniel Roth** \
+{{< spoiler text="Technische Universität München (Project Lead)" >}}
+**[Prof. Dr. Daniel Roth](https://hex-lab.io/author/daniel-roth/)** \
 \
-**Dr. Julian Kreieier**\
+**[Dr. Julian Kreieier](https://hex-lab.io/author/julian-kreimeier/)**\
 \
-**Shiyu Li**
+**[Shiyu Li](https://hex-lab.io/author/shiyu-li/)**
 
 {{< /spoiler >}}
 
@@ -137,7 +137,7 @@ Medability is a leading German company specializing in the development and produ
 Medability GmbH\
 Geretsrieder Strasse 10A\
 81379 Munich\
-www.medability.de
+[www.medability.de](www.medability.de)
 
 {{< /spoiler >}}
 
