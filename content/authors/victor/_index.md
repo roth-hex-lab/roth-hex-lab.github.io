@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interests: Surgery robotics, exoskeletons and inclusion of AI into human-robot-interaction.
+bio: My interests include surgery robotics, exoskeletons and inclusion of AI into human-robot-interaction.
 
 interests:
   - Robotics
