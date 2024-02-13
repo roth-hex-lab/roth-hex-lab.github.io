@@ -31,16 +31,21 @@ KARVIMIO (German: (KI-basierte Augmented Reality Visualisierung von Bedienungsan
 
 The overall goal of KARVIMIO is the research and development of an Artificial intelligence (AI) based Augmented Reality (AR) assistance system to support the operating room (OR) team in the hospital in order to increase process and treatment quality and patient safety. AI-based object recognition and tracking through static dynamic camera sensors will be used to automatically detect the medical instrument in focus and its condition. Through multimodal interaction with AR glasses, the medical staff will be able to quickly visualize the relevant operating instructions, in order to have the necessary information available at the point of use. This project aims to solve a common problem in the OR, that are difficulties in instrument handling. These typically require the gathering of necessary information in paper or PDF based manuals, an in turn a pause during the procedure that causes reduced patient care and safety. KARVIMIO therefore aligns with the goal of the WHO Global Patient Safety and Action Plan 2021-2030 to keep necessary instrument instructions always at spot.
 
+
+{{< spoiler text="ShiftMedical 20.-22.09.2023" >}}
+ShiftMedical is the perfect place to network within academia, practitioners, and industry regarding medical AR and VR applications. It was a pleasure to participate and present the KARVIMIO project! We met many old and new friends around our presentation and demo! Images are © Shift Medical GmbH/Patrick Paetz
+
+{{< figure src="KARVIMIO/ShiftMedical1.jpg" caption="ELSI Workshop" >}}
+
+{{< /spoiler >}}
+
 {{< spoiler text="ELSI Workshop @ IAT 29.09.2023" >}}
 After a little more than one year in the project, the workshop is a good opportunity to review the current status and next plans together from a legal, ethical and social perspective. Many thanks to the IAT for the organization and all partners’ participants for the successful collaboration!
 
-{{< figure src="KARVIMIO/ELSI-workshop-IMG_2330-scaled.jpg" caption="ELSI workshop" numbered="true" >}}
-
+{{< figure src="KARVIMIO/ELSI-workshop-IMG_2330-scaled.jpg" caption="ELSI workshop" >}}
 
 {{< /spoiler >}}
 
-{{< spoiler text="ShiftMedical 20-22.09.2023" >}}
-ShiftMedical is the perfect place to network within academia, practitioners, and industry regarding medical AR and VR applications. It was a pleasure to participate and present the KARVIMIO project! We met many old and new friends around our presentation and demo! Images are © Shift Medical GmbH/Patrick Paetz .
-{{< /spoiler >}}
+
 
 Funding agency: [Bundesministerium für Bildung und Forschung (BMBF)](https://www.interaktive-technologien.de/projekte/karvimio)
