@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Judith.friedl-knirsch@fh-ooe.atde'
+    link: 'mailto:Judith.friedl-knirsch@fh-ooe.at'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=B3GgqIQAAAAJ&hl=de&oi=ao
