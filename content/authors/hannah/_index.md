@@ -34,16 +34,16 @@ education:
   courses:   
     - course: Research Visit 
       institution: University of Otago, NZ
-      year: 2024
+      year: 02/2024 - 07/2024
     - course: PhD 
       institution: FAU Erlangen / TU Munich, Germany
-      year: 2021
+      year: 2021 - now
     - course: MSc in Computer Science, Germany
       institution: TH Ingolstadt
-      year: 2021
+      year: 2019 - 2021
     - course: BSc in Computer Science, Germany
       institution: HS Aalen
-      year: 2019
+      year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -81,3 +81,6 @@ user_groups:
 Hannah is a PhD student at the Department of Artificial Intelligence in Biomedical Engineering, Friedrich-Alexander University Erlangen-Nürnberg (FAU). There she currently researches the topic of smart remote extended reality teleconsultation and product guidance.
 Moreover, she is an research assistant at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. There she supports the KARVIMIO project. Prior that, she received her bachelor’s degree from HS Aalen, and her master’s degree from TH Ingolstadt, both in computer science. During her studies, she gained experience in the industry at MAPAL Dr. Kress KG, c-Com GmbH, Carl Zeiss AG and AUDI AG.
 
+Hannahs research in Germany is supported by a scholarship from the Digital Health Innovation Platform (d.hip). Here current research in New Zealand is funded by a DAAD scholarship for Computer Science Researchs. Thank you! 
+
+{{< figure src="scholarship.png" >}}
