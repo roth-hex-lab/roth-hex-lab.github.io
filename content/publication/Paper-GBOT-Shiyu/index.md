@@ -38,7 +38,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Poster
+- name: Paper
   url: https://arxiv.org/abs/2402.07677
 
 
@@ -76,5 +76,6 @@ slides: ""
 
 <br>
 
-
-
+{{% callout note %}}
+We gratefully acknowledge funding for this work by BMBF (project KARVIMIO, grant number 16SV8973).
+{{% /callout %}}
