@@ -21,7 +21,7 @@ organizations:
 bio: I studied medical engineering (Bachelor and Master) at FAU Erlangen and finished my PhD at TU Dresden and TH Nürnberg. My research interests include HCI and connections to AI, especially VR and AR as well as interdisciplinary applications.
 
 interests:
-  - Virtual & Augmented Reality
+  - Extended Reality
   - Artificial Intelligence
   - Interfaces & Interactivity
 

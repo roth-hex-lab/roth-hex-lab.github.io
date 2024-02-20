@@ -28,7 +28,7 @@ interests:
   - Computer Vision
   - Neural Rendering
   - Deep Learning
-  - Virtual & Augmented Reality
+  - Extended Reality
 
 education:
   courses:   
