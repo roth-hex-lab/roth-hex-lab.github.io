@@ -27,9 +27,15 @@ interests:
 
 education:
   courses:
-    - course: To Do
-      institution: To Do University
-      year: 1234
+    - course: Dr. rer. nat.
+      institution: University of Würzburg (Prof. Marc Erich Latoschik)
+      year: 2019
+    - course: MEng in Media- and Imaging Technology
+      institution: University of Applied Sciences Cologne (TH Köln)
+      year: 2014
+    - course: BEng in Media Technology
+      institution: University of Applied Sciences Cologne (TH Köln)
+      year: 2011
 
 
 # Social/Academic Networking
