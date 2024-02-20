@@ -24,6 +24,7 @@ interests:
   - Human-Centered Computing
   - Machine Intelligence
   - Extended Reality
+  - Robotics
 
 education:
   courses:
