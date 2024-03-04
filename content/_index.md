@@ -149,8 +149,8 @@ sections:
       text: |
         ### Theses and Projects
 
-        We currently offer theses in various research areas. If you are interested, please send your transcript of records, CV and motivation to the respective supervisor with CC to hex-thesis.ortho@mh.tum.de.
-        
+        We currently offer theses in various research areas:
+
         - [Capacitive Tangibles for Adaptive Rendering Interface](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240213_170713)
         - [In Silico Testing of Augmented Reality Interfaces - An Intensive Care Unit Simulation](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_113558)
         - [Medical Volumetric Path Tracing inside the Unity Game Engine](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240213_161038)
@@ -165,6 +165,9 @@ sections:
         - [Machine Learning for Early Risk Stratification in Candidemia - Leveraging Clinical Data to Enhance Patient Outcomes](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_120601)
         - [Hands-Free Augmented Reality Interaction](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240213_172732)
         - [Towards Eco-Embodiment: Assessing Virtual Reality for Building Climate Change Awareness](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240213_171808)
+
+
+        If you are interested, please send your transcript of records, CV and motivation to the respective supervisor with CC to hex-thesis.ortho@mh.tum.de.
 
 
         ---
