@@ -153,9 +153,17 @@ sections:
 
         ---
 
-        ### Courses
+        ### Course: Exergames in Medicine and Health
+        This course deals with the theory, design, engineering and development of exergames. In the course, students will be provided with theoretical game-design, gamification and medical foundations and work in small groups to realize working exergame prototypes. Sample topics for theoretical discussions may include Cyber-rehabilitation, Gamification and Game Design.
 
-        Information regarding courses coming soon.
+        Exemplary project themes could be:
+        - Designing exergames for rehabilitation and physiotherapy
+        - Designing gamified approaches for performance optimization in sports
+        - VR supported simulations for patients with motor impairments
+
+        The course is designed in an interactive project format. Based on initial discussions and theoretical input, students research, design, develop, and evaluate solutions in the form of projects and studies in small groups following user-centered design and agile software engineering principles. Intermediate presentations of the project group members take place at regular intervals.
+
+        More information on how to register for the course will follow soon. 
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
