@@ -149,7 +149,23 @@ sections:
       text: |
         ### Theses and Projects
 
-        Information regarding theses and projects coming soon.
+        We currently offer theses in various research areas. If you are interested, please send your transcript of records, CV and motivation to the respective supervisor with CC to hex-thesis.ortho@mh.tum.de.
+        
+        - [Capacitive Tangibles for Adaptive Rendering Interface](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240213_170713)
+        - [In Silico Testing of Augmented Reality Interfaces - An Intensive Care Unit Simulation](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_113558)
+        - [Medical Volumetric Path Tracing inside the Unity Game Engine](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240213_161038)
+        - [Segmenting Neural SDF Reconstruction](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_133722)
+        - [Preparation of an Exoskeleton for the Hand for Patient Trials](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_145811)
+        - [Dynamic RGB(D)-Based Patient Registration for Robot-Supported Orthopedic Surgery](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_145413)
+        - [Adaptation of a Kinematic Structure of an Exoskeleton to the Knee](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_144738)
+        - [Continuum Manipulators for Orthopaedic Robot-Assisted-Surgery](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_143836)
+        - [Automatic Robotic Object Detection and Retrieval](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_143138)
+        - [Augmented Reality Surgical Cockpit for Robot-Assisted Surgical Procedures](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_142024)
+        - [Assistant Position: Surgical instrument digitalization and dataset generation](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_140701)
+        - [Machine Learning for Early Risk Stratification in Candidemia - Leveraging Clinical Data to Enhance Patient Outcomes](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240214_120601)
+        - [Hands-Free Augmented Reality Interaction](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240213_172732)
+        - [Towards Eco-Embodiment: Assessing Virtual Reality for Building Climate Change Awareness](https://portal.mytum.de/schwarzesbrett/diplomarbeiten/NewsArticle_20240213_171808)
+
 
         ---
 
