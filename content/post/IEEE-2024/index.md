@@ -8,8 +8,8 @@ image:
 
 We are happy to present two papers and four posters at this year's IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2024. Great work and success by our PhDs and students.
 
-### Journal Papers
-**A Study on Collaborative Visual Data Analysis in Augmented Reality with Asymmetric Display Types **
+### Journal
+**A Study on Collaborative Visual Data Analysis in Augmented Reality with Asymmetric Display Types**
 Judith Friedl-Knirsch, Christian Stach, Fabian Pointecker, Christoph Anthes, Daniel Roth
 
 
