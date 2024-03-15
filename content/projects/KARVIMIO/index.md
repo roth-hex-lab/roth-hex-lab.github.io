@@ -103,7 +103,10 @@ We were very pleased to present KARVIMIO to stakeholders of the economy yesterda
 {{< spoiler text="ShiftMedical 20.-22.09.2023" >}}
 ShiftMedical is the perfect place to network within academia, practitioners, and industry regarding medical AR and VR applications. It was a pleasure to participate and present the KARVIMIO project! We met many old and new friends around our presentation and demo! Images are © Shift Medical GmbH/Patrick Paetz
 
-{{< figure src="KARVIMIO/ShiftMedical1.jpg" caption="ELSI Workshop" >}}
+{{< figure src="KARVIMIO/ShiftMedical2.jpg" caption="" >}}
+{{< figure src="KARVIMIO/ShiftMedical4.jpg" caption="" >}}
+{{< figure src="KARVIMIO/214b68ad-e11b-4072-84d6-ba42d71f93ab.jpg" caption="" >}}
+
 
 {{< /spoiler >}}
 
