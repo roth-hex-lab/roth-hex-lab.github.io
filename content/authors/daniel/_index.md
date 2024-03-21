@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistent professor at TU Munich and head of the HEX Lab
+bio: Assistant professor at TU Munich and head of the HEX Lab
 
 interests:
   - Human-Centered Computing
