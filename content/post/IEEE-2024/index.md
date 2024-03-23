@@ -6,7 +6,7 @@ image:
   focal_point: 'top'
 ---
 
-We are happy to present two papers and four posters at this year's IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2024. Great work and success by our PhDs and students.
+We are happy to present two papers and four posters at this year's IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2024. Great work and success by our PhDs and students. We're very happy to also receive a best poster award.
 
 ### Journal
 **A Study on Collaborative Visual Data Analysis in Augmented Reality with Asymmetric Display Types**
@@ -29,4 +29,4 @@ Constantin Kleinbeck, Tobias Hassel, Julian Kreimeier, Daniel Roth
 Kristoffer Waldow, Arnulph Fuhrmann, Daniel Roth
 
 **Investigating Incoherent Depth Perception Features in Virtual Reality using Stereoscopic Impostor-Based Rendering**
-Kristoffer Waldow, Lukas Decker, Martin Mišiak, ArnulphFuhrmann, Daniel Roth, Marc Erich Latoschik
+Kristoffer Waldow, Lukas Decker, Martin Mišiak, ArnulphFuhrmann, Daniel Roth, Marc Erich Latoschik (best poster award)
