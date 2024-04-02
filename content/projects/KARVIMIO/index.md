@@ -118,6 +118,13 @@ After a little more than one year in the project, the workshop is a good opportu
 
 {{< /spoiler >}}
 
+{{< spoiler text="NRW Cluster Conference 19.03.2024" >}}
+One of the main topics of the cluster conference of the Medicine. NRW cluster in Düsseldorf was the translation of research results into application. In addition to interesting workshops and networking, we were able to present our KARVIMIO project and take away interesting suggestions and impulses. Many thanks for that!
+
+{{< figure src="KARVIMIO/ElenaClusterConference.jpg" caption="" >}}
+
+{{< /spoiler >}}
+
 
 # Project Partners
 
