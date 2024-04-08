@@ -138,7 +138,7 @@ One of the main topics of the cluster conference of the Medicine. NRW cluster in
 
 # Project Partners
 
-{{< spoiler text="Technische Universität München (Project Lead)" >}}
+{{< spoiler text="Technische Universität München/Klinikum rechts der Isar (Project Lead)" >}}
 **[Prof. Dr. Daniel Roth](https://hex-lab.io/author/daniel-roth/)** \
 \
 **[Dr. Julian Kreimeier](https://hex-lab.io/author/julian-kreimeier/)**\
