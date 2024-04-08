@@ -119,19 +119,20 @@ After a little more than one year in the project, the workshop is a good opportu
 {{< /spoiler >}}
 
 
-{{< spoiler text="Paper on Graph-Based Object Tracking for AR Assembly Instructions @IEEE VR Conference 18.03.2024" >}}
-We are happy to present our paper "GBOT: Graph-Based 3D Object Tracking for Augmented Reality-Assisted Assembly Guidance" by Shiyu Li, Hannah Schieber, Niklas Corell, Bernhard Egger, Julian Kreimeier, and Daniel Roth at IEEE VR 2024 in Orlando. Beside augmented reality assembly guidance, tracking objects without markers and in different assembly states is a crucial part of the KARVIMIO project. We had inspiring discussions with many colleagues and look forward to future work and next year's conference!
-
-{{< figure src="KARVIMIO/IEEEVRGBOT2.jpg" caption="" >}}
-{{< figure src="KARVIMIO/IEEEVRGBOT1.jpg" caption="" >}}
-
-{{< /spoiler >}}
-
-
 {{< spoiler text="NRW Cluster Conference 19.03.2024" >}}
 One of the main topics of the cluster conference of the Medicine. NRW cluster in Düsseldorf was the translation of research results into application. In addition to interesting workshops and networking, we were able to present our KARVIMIO project and take away interesting suggestions and impulses. Many thanks for that!
 
 {{< figure src="KARVIMIO/ElenaClusterConference.jpg" caption="" >}}
+
+{{< /spoiler >}}
+
+# Publications
+
+{{< spoiler text="Graph-Based Object Tracking for AR Assembly Guidance @IEEE VR Conference 18.03.2024" >}}
+We are happy to present our paper "GBOT: Graph-Based 3D Object Tracking for Augmented Reality-Assisted Assembly Guidance" by Shiyu Li, Hannah Schieber, Niklas Corell, Bernhard Egger, Julian Kreimeier, and Daniel Roth at IEEE VR 2024 in Orlando. Beside augmented reality assembly guidance, tracking objects without markers and in different assembly states is a crucial part of the KARVIMIO project. We had inspiring discussions with many colleagues and look forward to future work and next year's conference!
+
+{{< figure src="KARVIMIO/IEEEVRGBOT2.jpg" caption="" >}}
+{{< figure src="KARVIMIO/IEEEVRGBOT1.jpg" caption="" >}}
 
 {{< /spoiler >}}
 
