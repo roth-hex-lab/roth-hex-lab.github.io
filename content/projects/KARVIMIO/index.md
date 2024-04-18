@@ -228,3 +228,5 @@ Elena Cramer has been a research associate of the research focus Health Economy 
 
 
 Funding agency: [Bundesministerium für Bildung und Forschung (BMBF)](https://www.interaktive-technologien.de/projekte/karvimio)
+
+{{< figure src="KARVIMIO/BMBF_Logo.svg.png">}}
