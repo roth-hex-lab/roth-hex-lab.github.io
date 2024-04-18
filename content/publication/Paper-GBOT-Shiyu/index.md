@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ': Our graph-based object tracking algorithm can track objects in their individual assembly states. We apply kinematic links between objects in different assembly states. For augmented reality based assembly tasks, the assembly state can be automatically detected by the constantly tracked object pose.'
+  caption: ''
   focal_point: ""
   preview_only: false
 
