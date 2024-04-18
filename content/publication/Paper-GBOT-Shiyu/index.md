@@ -12,7 +12,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2023"
-doi: "10.1109/ISMAR-Adjunct60411.2023.00130"
+doi: "10.1109/VR58804.2024.00072"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
@@ -39,7 +39,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: https://arxiv.org/abs/2402.07677
+  url: https://ieeexplore.ieee.org/document/10494181
 
 
 url_pdf: ''
