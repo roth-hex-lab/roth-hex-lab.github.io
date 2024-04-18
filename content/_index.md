@@ -147,7 +147,7 @@ sections:
       title: Teaching
       #subtitle: About Us
       text: |
-        ### Theses and Projects
+        ### Topic Areas
 
         We currently offer theses in various research areas:
 
