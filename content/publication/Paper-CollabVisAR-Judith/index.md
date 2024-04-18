@@ -19,7 +19,7 @@ publishDate: "2024-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["journal-article"]
+publication_types: ["journal article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Visualization and Computer Graphics*"
@@ -38,7 +38,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: https://arxiv.org/abs/2402.07677
+  url: https://ieeexplore.ieee.org/abstract/document/10458387
 
 
 url_pdf: ''
@@ -53,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ': Our graph-based object tracking algorithm can track objects in their individual assembly states. We apply kinematic links between objects in different assembly states. For augmented reality based assembly tasks, the assembly state can be automatically detected by the constantly tracked object pose.'
+  caption: ''
   focal_point: ""
   preview_only: false
 
