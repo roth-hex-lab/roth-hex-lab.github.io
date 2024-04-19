@@ -149,10 +149,15 @@ sections:
       text: |
         ### Topic Areas
 
-        We currently offer theses in various research areas:
+        We offer theses in various research areas. Applications for thesis are considered to the dates 1st of April for the Summer Semester and 1st of October for the Winter Semester. We offer topics in the following areas:
 
-        - Capacitive Tangibles for Adaptive Rendering Interface
-        - Assistant Position: Surgical instrument digitalization and dataset generation
+         - Human-Centered Computing / Human-Computer Interaction
+         - Machine Intelligence / Artificial Intelligence
+         - Computer Vision / Neural Rendering / Deep Learning
+         - Extended Reality
+         - Rendering, Interfaces & Interactivity
+         - Robotics & Exoskeletons
+         - Digital Health
 
         If you are interested, please send your transcript of records, CV and motivation to the respective supervisor with CC to hex-thesis.ortho@mh.tum.de.
 
