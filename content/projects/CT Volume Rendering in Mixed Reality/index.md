@@ -1,7 +1,7 @@
 ---
 title: CT Volume Rendering in Mixed Reality
 date: 2023-12-01
-summary: "Highly realistic medical data in 3D"
+summary: "Highly realistic visualization of medical data in 3D"
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
