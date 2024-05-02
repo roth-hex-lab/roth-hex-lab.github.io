@@ -1,6 +1,6 @@
 ---
 title: CT Volume Rendering in Mixed Reality
-date: 2023-12-02
+date: 2023-12-01
 summary: ""
 
 # Cover image
@@ -49,4 +49,4 @@ Future works in this research will focus on bringing such visualizations to a br
 Constantin is supported by a scholarship from Siemens Healthineers and the Digital Health Innovation Platform (d.hip). Thank you!
 
 
-{{< figure src="Constantin/scholarship.png">}}
+{{< figure src="scholarship.png">}}
