@@ -31,8 +31,6 @@ The objective of any clinical decision support system is to enhance and streamli
 In collaboration with UK Erlangen, we are conducting research into the potential of AI-based risk stratification for the early detection of infections, with a particular focus on candidemia, a type of sepsis with a high mortality rate. Conventional diagnostic methods are time-consuming, but newer rapid tests offer quicker results. However, their cost limits routine use. Our approach targets high-risk patients for these tests, maximizing efficiency and cost-effectiveness. The utilization of datasets such as MIMIC-IV facilitates enhanced comparability and reproducibility. Furthermore, the integration of the algorithm into clinical routines allows for the assessment of its impact on patient outcomes.
 The integration of novel systems and interfaces into healthcare settings is constrained by challenges related to usability, trust, and the assessment of real-world impact due to regulatory constraints. To overcome this, we advocate for the use of Virtual Reality simulation for in silico testing of these innovations. Virtual reality simulations create digital replicas of clinical environments, providing a safe and controlled environment in which to assess the usability, efficacy, and safety of new technologies.
 
-{{< figure src="Luisa/ICU.jpg">}}
-
 Luisa is supported by a scholarship from Siemens Healthineers and the Digital Health Innovation Platform (d.hip). Thank you!
 
 
