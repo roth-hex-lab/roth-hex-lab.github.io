@@ -1,5 +1,5 @@
 ---
-title: "A mixed reality guidance system for blind and visually impaired people"
+title: "Deep Learning in Surgical Workflow Analysis: A Review of Phase and Step Recognition"
 authors:
 - Kubilay Can Demir
 - Hannah Schieber
