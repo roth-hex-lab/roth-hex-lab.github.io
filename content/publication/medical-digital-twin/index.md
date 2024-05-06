@@ -48,7 +48,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: https://link.springer.com/article/10.1007/s11548-024-03143-w#citeas
+  url: https://link.springer.com/article/10.1007/s11548-024-03143-w
 
 url_pdf: ''
 url_code: ''
