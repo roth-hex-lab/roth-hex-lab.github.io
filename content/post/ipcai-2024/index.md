@@ -19,5 +19,5 @@ The paper is available at: https://link.springer.com/article/10.1007/s11548-024-
 
 ### Lecture Presentation
 
-**Deep Neural Labeling: Hybrid Hand Pose Estimation Using Unlabeled Motion Capture Data With Color Gloves in Context of German Sign Language**
+**Introducing AI to the Context: AR-Driven Operation Manuals for Surgical Instruments**
 Elena Cramer, Alexander Kucharski, Julian Kreimeier, Sebastian Andreß, Shiyu Li, Cindy Walk, Felix Merkl, Julia Högl, Patrick Wucherer, Philipp Stephan, Simon Weidert, Rüdiger von Eisenhardt-Rothe, Daniel Roth
