@@ -17,5 +17,7 @@ Constantin Kleinbeck, Han Zhang, Benjamin D. Killeen, Daniel Roth, Mathias Unber
 
 The paper is available at: https://link.springer.com/article/10.1007/s11548-024-03143-w 
 
+### Lecture Presentation
+
 **Deep Neural Labeling: Hybrid Hand Pose Estimation Using Unlabeled Motion Capture Data With Color Gloves in Context of German Sign Language**
 Elena Cramer, Alexander Kucharski, Julian Kreimeier, Sebastian Andreß, Shiyu Li, Cindy Walk, Felix Merkl, Julia Högl, Patrick Wucherer, Philipp Stephan, Simon Weidert, Rüdiger von Eisenhardt-Rothe, Daniel Roth
