@@ -21,7 +21,7 @@ sections:
 
         Examplary research areas include AI-based assistance systems for surgical procedures, systems for the assessment and diagnosis of diseases and disorders, telepresence procedures and robot-assisted rehabilitation measures.
 
-        We perform our research integratively as part of [TUM](https://www.tum.de/)'s School of Medicine and Health and the University Hospital [Klinikum rechts der Isar](https://www.mri.tum.de/), Department Clinical Medicine, with an affiliation to the [Clinic for Orthopedics and Sports Orthopedics](https://ortho.mri.tum.de/klinik.html).
+        We perform our research integratively as part of [TUM](https://www.tum.de/)'s School of Medicine and Health, [TUM](https://www.tum.de/)'s School of Computation, Information, and Technology, and the University Hospital [Klinikum rechts der Isar](https://www.mri.tum.de/), Department Clinical Medicine, with an affiliation to the [Clinic for Orthopedics and Sports Orthopedics](https://ortho.mri.tum.de/klinik.html).
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
