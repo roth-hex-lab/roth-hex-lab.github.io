@@ -30,7 +30,7 @@ publishDate: "2024-06-07T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* International Journal of Computer Assisted Radiology and Surgery*"
+publication: "*International Journal of Computer Assisted Radiology and Surgery*"
 publication_short: "IJCARS"
 
 abstract: |
