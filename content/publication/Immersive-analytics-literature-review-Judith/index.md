@@ -73,5 +73,6 @@ projects: []
 slides: ""
 ---
 
+{{< figure src="Judith/literature_review.png" caption="" >}}
 
 <br>
