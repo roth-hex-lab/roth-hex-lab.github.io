@@ -53,7 +53,7 @@ links:
 
 url_pdf: ''
 url_code: ''
-url_dataset: 'https://sites.google.com/view/housecat6d/dataset'
+url_dataset: ''
 url_poster: ''
 url_project: 'https://sites.google.com/view/housecat6d'
 url_slides: ''
