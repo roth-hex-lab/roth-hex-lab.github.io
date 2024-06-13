@@ -10,7 +10,7 @@ Great work and success! The paper is selected as a Highlight! We enjoyed the col
 
 ### Conference Papers
 **HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios**
-HyunJun Jung∗, Guangyao Zhai∗, Shun-Cheng Wu∗, Patrick Ruhkamp∗, Hannah Schieber∗, Giulia Rizzoli, Pengyuan Wang, Hongcheng Zhao, Lorenzo Garattoni, Sven Meier, Daniel Roth, Nassir Navab, Benjamin Busam
+HyunJun Jung, Guangyao Zhai, Shun-Cheng Wu, Patrick Ruhkamp, Hannah Schieber, Giulia Rizzoli, Pengyuan Wang, Hongcheng Zhao, Lorenzo Garattoni, Sven Meier, Daniel Roth, Nassir Navab, Benjamin Busam
 
 
 
