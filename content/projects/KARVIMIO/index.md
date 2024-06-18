@@ -146,7 +146,7 @@ We are happy to present our paper "GBOT: Graph-Based 3D Object Tracking for Augm
 
 {{< spoiler text="Requirement Analysis for an AI-based AR Assistance System for Surgical Tools in the Operating Room: Stakeholder Requirements and Technical Perspectives @IJCARS" >}}
 
-WWe are happy to share our insights on stakeholders' requirements and technical perspectives in this open-access journal article. This was a group effort from the whole KARVIMIO team, and we hope other researchers and practitioners can also utilize this knowledge.
+We are happy to share our insights on stakeholders' requirements and technical perspectives in this open-access journal article. This was a group effort from the whole KARVIMIO team, and we hope other researchers and practitioners can also utilize this knowledge.
 
 {{< figure src="KARVIMIO/IJCARS.jpeg" caption="" >}}
 
