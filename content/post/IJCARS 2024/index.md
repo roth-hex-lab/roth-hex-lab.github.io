@@ -1,8 +1,7 @@
 ---
 title: HEX-Lab & KARVIMIO @ IJCARS
 date: 2024-06-07
-summary: >
-We are happy to share our insights on stakeholders' requirements and technical perspectives of AR in the OR in this open-access journal article. This was a group effort from the KARVIMIO team; thank everyone for the support!
+summary: We are happy to share our insights on stakeholders' requirements and technical perspectives of AR in the OR in this open-access journal article. This was a group effort from the KARVIMIO team; thank everyone for the support!
 image:
   focal_point: 'top'
 ---
