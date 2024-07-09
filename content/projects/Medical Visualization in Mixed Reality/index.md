@@ -1,7 +1,7 @@
 ---
-title: CT Volume Rendering in Mixed Reality
+title: Medical Visualization in Mixed Reality
 date: 2023-12-01
-summary: "Highly realistic visualization of medical data in 3D"
+summary: "Realistic visualization of medical and surgical data in 3D"
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -27,11 +27,13 @@ comments: false  # Show comments?
 
 ---
 
+Three dimensional visualization of medical data can be used to make it spatially explorable and enable novices and experts to more easily learn or make decisions. Medical data, in this sense, can range from reconstructions of rooms procedures take place in, to medical volumetric data taken from patients.
+
 Medical volumetric data, like CT or MRT scanners produce, are commonly viewed in 2D slices on screens. However, it is possible to display this volumetric data in 3D via direct volume rendering. This improves the user's ability to understand the data in a 3D context, aids in understanding depth and explorability, and allows less experienced users to better understand the displayed data. Volumetric path tracing renders highly realistic images, possibly with accurate lighting and shadows, depth of field, etc., making small details, object order, and occlusions more easily visible.
 
 It is interesting to use immersive 3D display hardware, like Virtual or Augmented Reality headsets to fully use advanced volumetric visualization techniques advantages. With these head-mounted displays, more investigation into interaction metaphors is needed in the context of volume rendering. While controller-based interaction is commonly used, especially for explorative analysis, direct manipulation could improve the status quo. Using one's hands or haptic interaction with 3D-printed volumes could aid in detecting abnormalities [1]. With VR and tracking devices, it is now possible to see the scans and anatomical conditions on the user's body instead of free-floating. While this could help aid understanding and create awareness for specific medical conditions, it might also have negative consequences. The impact of potentially disturbing medical conditions on one's body has not been extensively researched. In a preliminary work, however, we found no adverse effects of minor injuries or anatomical avatars when embodied by participants [2]. Using state-of-the-art AI methods, we further investigated creating reconstructed environments from simple phone camera videos. Such reconstructions can be used for medical planning [3] and provide an environment for in-context learning.
 
-Future works in this research will focus on bringing such visualizations to a broader set of devices via optimizations and intermediate representations like Gaussian Splatting. Further research into the interaction affordances of such rendered anatomies is also planned. Using a game engine as a development platform allows us to look deeper into the affordances of cross-virtuality visualization, enabling a variety of mixed-reality and handheld devices to explore the same anatomy collaboratively
+Future works in this research will focus on bringing such visualizations to a broader set of devices via optimizations and intermediate representations like Gaussian Splatting. Further research into the interaction affordances of such rendered anatomies is also planned. Using a game engine as a development platform allows us to look deeper into the affordances of cross-virtuality visualization, enabling a variety of mixed-reality and handheld devices to explore the same anatomy collaboratively.
 
 {{< figure src="Constantin/slicingvolume.png">}}
 
