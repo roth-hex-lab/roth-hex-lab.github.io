@@ -1,7 +1,7 @@
 ---
 title: NVIDIA @ HEX Lab
 date: 2024-08-02
-summary: Constantin won the "NVIDIA Bench to Bedside Award" at IPCAI 2024. As an award for this he received a NVIDIA Clara AGX.
+summary: Constantin won the NVIDIA Bench to Bedside Award at IPCAI 2024. As an award for this he received a NVIDIA Clara AGX.
   focal_point: 'top'
 draft: true
 ---
