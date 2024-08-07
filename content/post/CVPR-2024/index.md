@@ -1,5 +1,5 @@
 ---
-title: A Great Collaboration makes it to CVPR 2024
+title: HEX-Lab @ CVPR 2024
 date: 2024-06-13
 summary: >
   We are happy to announce that the HouseCat6D dataset will be presented at CVPR 2024. The paper is selected as a Highlight!

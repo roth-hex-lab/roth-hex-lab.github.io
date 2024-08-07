@@ -126,6 +126,14 @@ One of the main topics of the cluster conference of the Medicine. NRW cluster in
 
 {{< /spoiler >}}
 
+{{< spoiler text="CARS Conference 18.06.2024" >}}
+During a lecture at the CARS conference in Barcelona at the University Pompeu Fabra, the Institute for Work and Technology (Research department: Health Economics and Quality of Life) presented the KARVIMIO project to a broad audience. Thank you for the opportunity and the interesting talks!
+
+{{< figure src="KARVIMIO/ElenaKARVIMIOCARS.jpg" caption="" >}}
+
+{{< /spoiler >}}
+
+
 # Publications
 
 {{< spoiler text="Graph-Based Object Tracking for AR Assembly Guidance @IEEE VR Conference 18.03.2024" >}}
@@ -133,6 +141,14 @@ We are happy to present our paper "GBOT: Graph-Based 3D Object Tracking for Augm
 
 {{< figure src="KARVIMIO/IEEEVRGBOT2.jpg" caption="" >}}
 {{< figure src="KARVIMIO/IEEEVRGBOT1.jpg" caption="" >}}
+
+{{< /spoiler >}}
+
+{{< spoiler text="Requirement Analysis for an AI-based AR Assistance System for Surgical Tools in the Operating Room: Stakeholder Requirements and Technical Perspectives @IJCARS" >}}
+
+We are happy to share our insights on stakeholders' requirements and technical perspectives in this open-access journal article. This was a group effort from the whole KARVIMIO team, and we hope other researchers and practitioners can also utilize this knowledge.
+
+{{< figure src="KARVIMIO/IJCARS.jpeg" caption="" >}}
 
 {{< /spoiler >}}
 
