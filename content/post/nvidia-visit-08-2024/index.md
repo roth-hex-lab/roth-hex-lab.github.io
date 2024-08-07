@@ -1,9 +1,9 @@
 ---
 title: NVIDIA @ HEX Lab
 date: 2024-08-02
-summary: Constantin won the NVIDIA Bench to Bedside Award at IPCAI 2024. As an award for this he received a NVIDIA Clara AGX.
+summary: Constantin won the NVIDIA Bench to Bedside Award at IPCAI 2024 and received a NVIDIA Clara AGX as reward.
+image:
   focal_point: 'top'
-draft: true
 ---
 
 On Friday, 07.08.2024, we had the pleasure to welcome Maximilian Ofir and Dr. Christine Eilers from NVIDIA. 
