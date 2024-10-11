@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab & KARVIMIO @ Shift Medical 2023
+title: HEX-Lab & KARVIMIO @ Shift Medical 2024
 date: 2023-09-20
 summary: ShiftMedical is the perfect place to network within academia, practitioners, and industry regarding medical AR and VR applications. It was a pleasure to participate and present the KARVIMIO project! We met many old and new friends around our presentation and demo.
 image:

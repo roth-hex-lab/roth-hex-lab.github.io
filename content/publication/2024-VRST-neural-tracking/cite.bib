@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3641825.3687751,
+author = {Roth, Daniel and Br\"{a}utigam, Valentin and Joshi, Nidhi and Kleinbeck, Constantin and Schieber, Hannah and Kreimeier, Julian},
+title = {Neural Motion Tracking: Formative Evaluation of Zero Latency Rendering},
+year = {2024},
+isbn = {9798400705359},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3641825.3687751},
+doi = {10.1145/3641825.3687751},
+abstract = {Low motion-to-photon latencies between physical movement and rendering updates are crucial for an immersive virtual reality (VR) experience and to avoidusers’ discomfort and sickness. Current methods aim to minimize the delay between the motion measurement and rendering at the cost of increasing technical complexity and possibly decreasing accuracy. By relying on capturing physical motion, these strategies will, by nature, not result in zero latency rendering or will be based on prediction and resulting uncertainty. This paper presents and evaluates a novel alternative and proof of principle for VR motion tracking that could enable motion-to-photon latencies of zero and below zero in time. We termed our concept Neural Motion Tracking, which we define as the sensing and assessment of motion through human neural activation of the somatic nervous system. In contrast to measuring physical activity, the key principle is that we aim to utilize the physiological timeframe between a user’s intention and the execution of motion. We aim to foresee upcoming motion ahead of the physical movement, by sampling preceding electromyographic signals before the muscle activation. The electromechanical delay (EMD) between potential change in the muscle activation and actual physical movement opens a gap in which measurement can be taken and evaluated before the physical motion. In a first proof of principle, we evaluated the concept with two activities, arm bending and head rotation, measured with a binary activation measure. Our results indicate that it is possible to predict movement and update a rendering up to 2&nbsp;ms before its physical execution, which is assessed by optical tracking after approximately 4&nbsp;ms. However, to make the best use of this advantage, electromyography (EMG) sensor data should be as high quality as possible (i.e., low noise and from muscle-near electrodes). Our results empirically quantify this characteristic for the first time when compared to state-of-the-art optical tracking systems for VR. We discuss our results and potential pathways to motivate further work toward marker- and latency-less motion tracking.},
+booktitle = {Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology},
+articleno = {13},
+numpages = {11},
+keywords = {Virtual reality, augmented reality, electromyography, latency, mixed reality, tracking},
+location = {Trier, Germany},
+series = {VRST '24}
+}
