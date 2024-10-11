@@ -1,8 +1,9 @@
 ---
-title: HEX-Lab @ ACM VRST 2024 received a Honorable Mention Best Paper Award
+title: HEX-Lab @ ACM VRST 2024 
 date: 2024-10-11
 summary: >
-    We are happy to announce that our paper 'Neural Motion Tracking: Formative Evaluation of Zero Latency Rendering' is presented at VRST 2024. It received the Honorable Mention Best Paper Award.
+    Our work Neural Motion Tracking received a Honorable Mention Best Paper Award.
+    We are happy to announce that our paper 'Neural Motion Tracking: Formative Evaluation of Zero Latency Rendering' is presented at VRST 2024.
 image:
   focal_point: 'top'
 ---
