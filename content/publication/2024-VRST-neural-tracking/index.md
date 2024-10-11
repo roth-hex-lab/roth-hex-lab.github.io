@@ -1,5 +1,5 @@
 ---
-title: "ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation"
+title: "Neural Motion Tracking: Formative Evaluation of Zero Latency Rendering"
 authors:
 - Daniel Roth
 - Valentin Bräutigam
@@ -71,10 +71,11 @@ projects: []
 slides: ""
 ---
 
+
 <br>
 
 {{% callout note %}}
-We gratefully acknowledge funding for this study by d.hip campus and Bundesministerium für Bildung und Forschung (BMBF) with the grant number 16SV8973.
+Honorable Mention Best Paper Award
 {{% /callout %}}
 
 
