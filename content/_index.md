@@ -163,7 +163,7 @@ sections:
         ---
         ### Lectures and Seminars
 
-        **Exergames in Medicine and Health (SS)**\  
+        **Exergames in Medicine and Health (SS)**\
         This course deals with the theory, design, engineering and development of exergames. In the course, students will be provided with theoretical game-design, gamification and medical foundations and work in small groups to realize working exergame prototypes. Exemplary project themes could be:
 
         - Designing exergames for rehabilitation and physiotherapy
