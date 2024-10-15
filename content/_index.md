@@ -162,7 +162,7 @@ sections:
 
         ---
 
-        ### Course: Exergames in Medicine and Health
+        ### Lecture: Exergames in Medicine and Health 
         This course deals with the theory, design, engineering and development of exergames. In the course, students will be provided with theoretical game-design, gamification and medical foundations and work in small groups to realize working exergame prototypes. Sample topics for theoretical discussions may include Cyber-rehabilitation, Gamification and Game Design.
 
         Exemplary project themes could be:
@@ -172,7 +172,25 @@ sections:
 
         The course is designed in an interactive project format. Based on initial discussions and theoretical input, students research, design, develop, and evaluate solutions in the form of projects and studies in small groups following user-centered design and agile software engineering principles. Intermediate presentations of the project group members take place at regular intervals.
 
-        More information on how to register for the course will follow soon. 
+        More information can be found [here](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950762452?$scrollTo=toc_overview).
+
+        ### Lecture: XR: Virtual-, Mixed-, and Augmented Reality
+        In this lecture, you will expand your knowledge of advanced topics in virtual, augmented, and mixed reality. Key topics include among others:
+        - Real-time interactive systems, avatars, and virtual embodiment
+        - Social XR, collaborative environments
+        - Advanced 3D interfaces and visualization techniques
+        - Cross-reality and environment reconstruction
+        
+        In an accompanying practical exercise, you'll gain practical experience in developing advanced XR application
+        
+        Registration via [TUMonline](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950804473?$scrollTo=toc_overview)
+
+        ###Seminar: Computer Vision in the Operating Room (IN2107)
+        This seminar focuses on the latest methods in computer vision and deep learning for applications in the operating room. The course includes individual paper reviews and interactive presentations, helping you not only to develop technical expertise but also to build your scientific communication and discussion skills.
+
+        More information can be found [here](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950793211?$scrollTo=toc_overview).
+
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
