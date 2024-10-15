@@ -163,9 +163,9 @@ sections:
         ---
         ### Lectures and Seminars
 
-        *Exergames in Medicine and Health (SS)*  
+        **Exergames in Medicine and Health (SS)**  
         This course deals with the theory, design, engineering and development of exergames. In the course, students will be provided with theoretical game-design, gamification and medical foundations and work in small groups to realize working exergame prototypes. Exemplary project themes could be:
-        
+
         - Designing exergames for rehabilitation and physiotherapy
         - Designing gamified approaches for performance optimization in sports
         - VR supported simulations for patients with motor impairments
@@ -174,7 +174,7 @@ sections:
 
         More information can be found [here](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950762452?$scrollTo=toc_overview).
 
-        *XR: Virtual-, Mixed-, and Augmented Reality (WS)*
+        **XR: Virtual-, Mixed-, and Augmented Reality (WS)**
         In this lecture, students will expand their knowledge of advanced topics in virtual, augmented, and mixed reality. Key topics include among others:
         - Real-time interactive systems, avatars, and virtual embodiment
         - Social XR, collaborative environments
@@ -185,7 +185,7 @@ sections:
         
         Registration via [TUMonline](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950804473?$scrollTo=toc_overview)
 
-        *Computer Vision in the Operating Room (WS)*
+        **Computer Vision in the Operating Room (WS)**
         This seminar focuses on the latest methods in computer vision and deep learning for applications in the operating room. The course includes individual paper reviews and interactive presentations, helping students not only to develop technical expertise but also to build scientific communication and discussion skills.
 
         More information can be found [here](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950793211?$scrollTo=toc_overview).
