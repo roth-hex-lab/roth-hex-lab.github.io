@@ -185,7 +185,7 @@ sections:
         
         Registration via [TUMonline](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950804473?$scrollTo=toc_overview)
 
-        ###Seminar: Computer Vision in the Operating Room (IN2107)
+        ### Seminar: Computer Vision in the Operating Room (IN2107)
         This seminar focuses on the latest methods in computer vision and deep learning for applications in the operating room. The course includes individual paper reviews and interactive presentations, helping you not only to develop technical expertise but also to build your scientific communication and discussion skills.
 
         More information can be found [here](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950793211?$scrollTo=toc_overview).
