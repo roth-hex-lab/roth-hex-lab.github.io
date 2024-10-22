@@ -1,6 +1,6 @@
 ---
 title: HEX-Lab @ IEEE ISMAR 2024
-date: 2024-10-17
+date: 2024-10-16
 summary: >
     We are happy to announce that ASDF - Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation will be presented at ISMAR 2024.
 image:
