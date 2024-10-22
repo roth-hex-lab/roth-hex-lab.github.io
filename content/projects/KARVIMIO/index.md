@@ -136,13 +136,13 @@ During a lecture at the CARS conference in Barcelona at the University Pompeu Fa
 
 # Publications
 
-{{< spoiler text="ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation @IEEE ISMAR Conference 18.03.2024" >}}
-We are happy to present our paper "ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation" by Shiyu Li, Hannah Schieber, Niklas Corell, Bernhard Egger, Julian Kreimeier, and Daniel Roth at IEEE VR 2024 in Orlando. Beside augmented reality assembly guidance, tracking objects without markers and in different assembly states is a crucial part of the KARVIMIO project. We had inspiring discussions with many colleagues and look forward to future work and next year's conference!
+{{< spoiler text="ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation @IEEE ISMAR Conference 24.10.2024" >}}
+We are happy to present our paper "ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation" by Shiyu Li, Hannah Schieber, Niklas Corell, Bernhard Egger, Julian Kreimeier, and Daniel Roth at IEEE ISMAR 2024 in Seattle. 
 {{< figure src="KARVIMIO/asdf.png" caption="" >}}
 {{< /spoiler >}}
 
 {{< spoiler text="Graph-Based Object Tracking for AR Assembly Guidance @IEEE VR Conference 18.03.2024" >}}
-We are happy to present our paper "GBOT: Graph-Based 3D Object Tracking for Augmented Reality-Assisted Assembly Guidance" by Hannah Schieber,  Shiyu Li, Niklas Corell, Philipp Beckerle, Julian Kreimeier, and Daniel Roth at IEEE ISMAR 2024 in Seattle. 
+We are happy to present our paper "GBOT: Graph-Based 3D Object Tracking for Augmented Reality-Assisted Assembly Guidance" by Hannah Schieber,  Shiyu Li, Niklas Corell, Philipp Beckerle, Julian Kreimeier, and Daniel Roth at  IEEE VR 2024 in Orlando. Beside augmented reality assembly guidance, tracking objects without markers and in different assembly states is a crucial part of the KARVIMIO project. We had inspiring discussions with many colleagues and look forward to future work and next year's conference!
 
 {{< figure src="KARVIMIO/IEEEVRGBOT2.jpg" caption="" >}}
 {{< figure src="KARVIMIO/IEEEVRGBOT1.jpg" caption="" >}}
