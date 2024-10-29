@@ -208,7 +208,7 @@ sections:
 
         ---
         ### PhD / Postdoc
-       If you have a strong research / study background in the areas of XR, HCI, Computer Vision, Medical Engineering, or Robotics please drop us a mail and we'll get back to you.
+      If you have a strong research / study background in the areas of XR, HCI, Computer Vision, Medical Engineering, or Robotics please drop us a mail and we'll get back to you.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
