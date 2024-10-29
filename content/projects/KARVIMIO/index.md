@@ -136,6 +136,11 @@ During a lecture at the CARS conference in Barcelona at the University Pompeu Fa
 
 # Publications
 
+{{< spoiler text="Visual Guidance for Assembly Processes @IEEE ISMAR Conference 24.10.2024" >}}
+We are happy to present our demo "Visual Guidance for Assembly Processes" by Julian Kreimeier, Hannah Schieber, Shiyu Li, Alejandro Martin-Gomez, and Daniel Roth at  IEEE ISMAR 2024 in Seattle. 
+{{< figure src="KARVIMIO/KARVIMOdemo.png" caption="" >}}
+{{< /spoiler >}}
+
 {{< spoiler text="ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation @IEEE ISMAR Conference 24.10.2024" >}}
 We are happy to present our paper "ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation" by Hannah Schieber,  Shiyu Li, Niklas Corell, Philipp Beckerle, Julian Kreimeier, and Daniel Roth at  IEEE ISMAR 2024 in Seattle. 
 {{< figure src="KARVIMIO/asdf.png" caption="" >}}
