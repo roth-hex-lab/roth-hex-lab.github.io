@@ -134,6 +134,14 @@ During a lecture at the CARS conference in Barcelona at the University Pompeu Fa
 {{< /spoiler >}}
 
 
+{{< spoiler text="Deutscher Kongress für Orthopädie und Unfallchirurgie (DKOU 2024) 25.10.2024" >}}
+Julia Hoegl from LMU presented the benefit of AR manuals as with the KARVIMIO project to an orthopaedics and trauma surgery expert audience.
+
+{{< figure src="KARVIMIO/ElenaKARVIMIOCARS.jpg" caption="" >}}
+
+{{< /spoiler >}}
+
+
 # Publications
 
 {{< spoiler text="Visual Guidance for Assembly Processes @IEEE ISMAR Conference 24.10.2024" >}}
