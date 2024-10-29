@@ -208,7 +208,7 @@ sections:
 
         ---
         ### PhD / Postdoc
-        There are currently no open PhD or Postdoc positions. We will regularly update this page as positions open up, check back later!
+       If you have a strong research / study background in the areas of XR, HCI, Computer Vision, Medical Engineering, or Robotics please drop us a mail and we'll get back to you.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
