@@ -204,7 +204,7 @@ sections:
       text: |
         ---
         ### Student
-        <mark>Open Position:</mark> We are looking for a lab assistant (20hours a week) to support lab activities. Computer Scientist, strong coding and demo skills, preferably background in robotics or augmented / virtual reality.
+        We are currently not looking for student lab assistants. Please check back later or reach out to us.
 
         ---
         ### PhD / Postdoc
