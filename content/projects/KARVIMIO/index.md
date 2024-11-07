@@ -169,6 +169,13 @@ We are happy to share our insights on stakeholders' requirements and technical p
 {{< /spoiler >}}
 
 
+{{< spoiler text="Indoor Synthetic Data Generation: A Systematic Review @Computer Vision and Image Understanding" >}}
+
+We are happy to present insights on synthetic data generation, methods for 6d pose estimation, and domain randomization to bridge the sim-to-real gap in this open-access journal article. This authors are Hannah Schieber, Kubilay Can Demir, Constantin Kleinbeck, Seung Hee Yang, and Daniel Roth.
+
+{{< /spoiler >}}
+
+
 # Project Partners
 
 {{< spoiler text="Technische Universität München/Klinikum rechts der Isar (Project Lead)" >}}
