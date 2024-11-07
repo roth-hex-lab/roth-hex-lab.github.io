@@ -25,10 +25,9 @@ organizations:
 bio: I am master's' student in Biomedical Engineering and interested in haptics in robotics, XR, and sensory substitution.  
 
 interests:
-  - Computer Vision
-  - Extended Reality
-  - Human Computer Interaction
-  - BCI
+  - Robotics
+  - Haptic Feedback
+  - XR
 
 education:
   courses:   
