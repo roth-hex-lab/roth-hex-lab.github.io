@@ -18,7 +18,7 @@ role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Calgary (METU)
+  - name: University of Calgary
     url: ''
  
 # Short bio (displayed in user profile at end of posts)
