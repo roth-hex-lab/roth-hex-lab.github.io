@@ -26,8 +26,9 @@ bio: I am master's' student in Biomedical Engineering and interested in haptics 
 
 interests:
   - Robotics
-  - Haptic Feedback
-  - XR
+  - Haptics
+  - Tactile Sensing
+  - Extended and Mixed Reality
 
 education:
   courses:   
