@@ -38,10 +38,10 @@ education:
       institution: FAU Erlangen / TU Munich
       year: 2021 - now
     - course: MSc in Human Computer Interaction
-      institution: Massachusetts Institute of Technology
+      institution: University of Würzburg
       year: 2018
     - course: BSc in Human Computer Interaction
-      institution: Massachusetts Institute of Technology
+      institution: University of Würzburg
       year: 2014
 
 # Social/Academic Networking
