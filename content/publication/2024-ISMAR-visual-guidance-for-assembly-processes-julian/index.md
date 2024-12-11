@@ -11,7 +11,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2024"
-doi: ""
+doi: "10.1109/ISMAR-Adjunct64951.2024.00195"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-10-17T00:00:00Z"
@@ -38,7 +38,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: 
+  url: 'https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00195'
 
 
 url_pdf: ''
