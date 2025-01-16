@@ -1,5 +1,5 @@
 ---
-title: "Indoor synthetic data generation: A systematic review"
+title: "NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters"
 authors:
 - Hannah Schieber
 - Fabian Deuser
