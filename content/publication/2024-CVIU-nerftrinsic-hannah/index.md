@@ -10,7 +10,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024"
+date: "2024-03-01T00:00:00Z"
 doi: "10.1016/j.cviu.2024.104206"
 
 # Schedule page publish date (NOT publication's date).

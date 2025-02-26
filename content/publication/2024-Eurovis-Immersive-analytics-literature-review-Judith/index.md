@@ -11,7 +11,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024"
+date: "2024-05-27T00:00:00Z"
 doi: "10.1111/cgf.15111"
 
 # Schedule page publish date (NOT publication's date).

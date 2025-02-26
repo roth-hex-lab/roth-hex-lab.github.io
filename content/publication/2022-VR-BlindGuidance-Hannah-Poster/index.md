@@ -10,7 +10,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022"
+date: "2022-12-24T00:00:00Z"
 doi: "10.1109/VRW55335.2022.00214."
 
 # Schedule page publish date (NOT publication's date).

@@ -11,7 +11,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2023"
+date: "2024-01-01T00:00:00Z"
 doi: "10.1109/ISMAR-Adjunct60411.2023.00130"
 
 # Schedule page publish date (NOT publication's date).

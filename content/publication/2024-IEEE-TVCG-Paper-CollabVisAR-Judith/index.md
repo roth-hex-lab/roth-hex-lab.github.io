@@ -10,7 +10,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024"
+date: "2024-01-01T00:00:00Z"
 doi: "10.1109/TVCG.2024.3372103"
 
 # Schedule page publish date (NOT publication's date).

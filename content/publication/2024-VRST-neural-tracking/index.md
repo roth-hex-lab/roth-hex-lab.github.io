@@ -11,7 +11,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024"
+date: "2024-10-10T00:00:00Z"
 doi: "10.1145/3641825.3687751"
 
 # Schedule page publish date (NOT publication's date).
