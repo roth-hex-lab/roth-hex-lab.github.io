@@ -140,6 +140,14 @@ Julia Hoegl from LMU presented a user study on the benefit of AR manuals over pa
 {{< /spoiler >}}
 
 
+{{< spoiler text="ELSI Workshop @ TUM/MRI 19.02.2025" >}}
+In the third and last year of the KARVIMIO project, we reviewed the current status and next final steps and considered legal, ethical, and social perspectives. We thank the IAT for guiding us through the agenda and are happy to have industry and clinical practitioners' feedback on our demos.
+
+{{< figure src="KARVIMIO/ELSIWorkshop2.jpg" caption="ELSI workshop" >}}
+
+{{< /spoiler >}}
+
+
 # Publications
 
 {{< spoiler text="Visual Guidance for Assembly Processes @IEEE ISMAR Conference 24.10.2024" >}}
