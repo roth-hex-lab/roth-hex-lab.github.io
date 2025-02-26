@@ -52,7 +52,11 @@ jobs:
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
           echo "Checking public directory:"
-          ls -la ./public
+          ls -la ./public || echo "⚠️ public directory not found!"
+      - name: Upload Debug Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          path: ./public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
