@@ -17,12 +17,12 @@ _Kristoffer Waldow, Constantin Kleinbeck, Arnulph Fuhrmann, Daniel Roth_
 
 This paper also received a honorable mention! Congratulations to Kris and Team for this achievement.
 
-*Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization*
+*Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization*, [Project Page](https://hex-lab.io/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization/)
 
 _Constantin Kleinbeck, Hannah Schieber, Klaus Engel, Ralf Gutjahr, Daniel Roth_
 
 ### Conference Paper
-*Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality*
+*Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality*, [Project Page](https://hannahhaensen.github.io/SCGS/)
 
 _Hannah Schieber, Jacob Young, Tobias Langlotz, Stefanie Zollmann, Daniel Roth_
 

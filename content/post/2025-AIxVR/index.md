@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ ACM AIxVR 2025 
+title: HEX-Lab @ IEEE AIxVR 2025 
 date: 2025-01-30
 summary: >
     Prof. Daniel Roth had the pleasure giving an invited talk at the Workshop on AI and AR/VR for Exergaming
