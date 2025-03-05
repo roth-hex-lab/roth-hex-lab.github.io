@@ -30,8 +30,8 @@ Extended Reality Teleconsultation for Medical Interventions: State of the Art an
 _Hannah Schieber, Luisa Theelke, Dirk Wilhelm, Cristina Piazza, Ulrich Eck, Julian Kreimeier, Daniel Roth_
 
 ### Demo
-ICU Simulation
-_Luisa Theelke, Daniel Roth_
+Advancing Critical Care Skills: Immersive VR Training Powered by Real-World Patient Data
+_Luisa Theelke, Diana Beksultanow, Lydia Marquardt, Philipp Gulde, Lisa Vallines, Daniel Roth_
 
 
 Many thanks to our callorbators from all over the world! 
