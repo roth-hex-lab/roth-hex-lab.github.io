@@ -12,7 +12,7 @@ We are happy to announce that the HouseCat6D dataset will be presented at CVPR 2
 ### Conference Papers
 **HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios**
 HyunJun Jung+, Guangyao Zhai+, Shun-Cheng Wu+, Patrick Ruhkamp+, Hannah Schieber+, Giulia Rizzoli, Pengyuan Wang, Hongcheng Zhao, Lorenzo Garattoni, Sven Meier, Daniel Roth, Nassir Navab, Benjamin Busam
-+ denotes equal contribution
+(+) denotes equal contribution
 
 The paper is available at: https://openaccess.thecvf.com/content/CVPR2024/papers/Jung_HouseCat6D_-_A_Large-Scale_Multi-Modal_Category_Level_6D_Object_Perception_CVPR_2024_paper.pdf
 

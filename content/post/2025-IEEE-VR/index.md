@@ -1,22 +1,31 @@
-HEX lab goes IEEE VR 2025 with contributing two TVCG papers, one conference paper, one workshop paper and one demo.
+HEX lab goes [IEEE VR 2025](http://ieeevr.org/2025/) with contributing two TVCG papers, one conference paper, one workshop paper and one demo.
 
 ### TVCG
 
 **Investigating the Impact of Video Pass-Through Embodiment on Presence and Performance in Virtual Reality
-- Kristoffer Waldow, Constantin Kleinbeck, Arnulph Fuhrmann, Daniel Roth 
+_Kristoffer Waldow, Constantin Kleinbeck, Arnulph Fuhrmann, Daniel Roth_
 
 This paper also received a honorable mention! Congratulations to Kris and Team for this achievement.
 
 **Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization
-Constantin Kleinbeck, Hannah Schieber, Klaus Engel, Ralf Gutjahr, Daniel Roth
+_Constantin Kleinbeck, Hannah Schieber, Klaus Engel, Ralf Gutjahr, Daniel Roth_
 
 ### Conference Paper
-Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality
-Hannah Schieber, Jacob Young, Tobias Langlotz, Stefanie Zollmann, Daniel Roth
+**Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality
+_Hannah Schieber, Jacob Young, Tobias Langlotz, Stefanie Zollmann, Daniel Roth_
 
 
 ### Workshop Paper
+[3rd Workshop on XR Technologies for Healthcare, Wellbeing, and Medicine 2025](https://sites.google.com/view/xrhealth/home)
 Extended Reality Teleconsultation for Medical Interventions: State of the Art and Perspectives
-Hannah Schieber, Luisa Theelke, Julian Kreimeier, Daniel Roth
+_Hannah Schieber, Luisa Theelke, Dirk Wilhelm, Cristina Piazza, Ulrich Eck, Julian Kreimeier, Daniel Roth_
+
+### Demo
+ICU Simulation
+_Luisa Theelke, Daniel Roth_
+
+
+Many thanks to our callorbators from all over the world! 
+
 
 
