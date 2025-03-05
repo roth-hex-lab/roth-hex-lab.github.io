@@ -210,7 +210,7 @@ sections:
         ### PhD / Postdoc
         If you have a strong research / study background in the areas of XR, HCI, Computer Vision, Medical Engineering, or Robotics  drop us a mail and we'll get back to you.
 
-        Please send all application related mail to hex-applications.ortho@mh.tum.de
+        Please send all application related mail to hex-application.ortho@mh.tum.de
 
     design:
       # See Page Builder docs for all section customization options.
