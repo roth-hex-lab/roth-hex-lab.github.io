@@ -1,8 +1,8 @@
 ---
-title: HEX-Lab @ ACM VRST 2024 
-date: 2024-10-11
+title: HEX-Lab @ ACM AIxVR 2025 
+date: 2025-01-30
 summary: >
-    We are happy to announce that our paper 'Neural Motion Tracking: Formative Evaluation of Zero Latency Rendering' was presented at VRST 2024 and received a Honorable Mention Best Paper Award.
+    Prof. Daniel Roth had the pleasure giving an invited talk at the Workshop on AI and AR/VR for Exergaming
 image:
   focal_point: 'top'
 ---

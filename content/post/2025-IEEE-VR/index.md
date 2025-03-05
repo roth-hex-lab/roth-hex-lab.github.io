@@ -1,3 +1,12 @@
+---
+title: HEX-Lab @ IEEE VR 2025 
+date: 2025-03-03
+summary: >
+    Prof. Roth, and Team are traveling to IEEE VR 2025. One of our papers received an Honorable Mention.
+image:
+  focal_point: 'top'
+---
+
 HEX lab goes [IEEE VR 2025](http://ieeevr.org/2025/) with contributing two TVCG papers, one conference paper, one workshop paper and one demo.
 
 ### TVCG
