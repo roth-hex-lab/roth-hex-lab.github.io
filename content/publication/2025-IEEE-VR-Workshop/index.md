@@ -12,11 +12,11 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2025-03-03-10T00:00:00Z"
+date: "2022-03-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-03T00:00:00Z"
+publishDate: "2025-03-24T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,9 @@ publication: "*IEEE VR Workshop*"
 publication_short: "Workshop VR 2025"
 
 abstract: | 
-  Advancements in 3D rendering like Gaussian Splatting (GS) allow novel view synthesis and real-time rendering in virtual reality (VR). However, GS-created 3D environments are often difficult to edit. For scene enhancement or to incorporate 3D assets, segmenting Gaussians by class is essential. Existing segmentation approaches are typically limited to certain types of scenes, e.g., ''circular'' scenes, to determine clear object boundaries. However, this method is ineffective when removing large objects in non-''circling'' scenes such as large outdoor scenes. We propose Semantics-Controlled GS (SCGS), a segmentation-driven GS approach, enabling the separation of large scene parts in uncontrolled, natural environments. SCGS allows scene editing and the extraction of scene parts for VR. Additionally, we introduce a challenging outdoor dataset, overcoming the ''circling'' setup. We outperform the state-of-the-art in visual quality on our dataset and in segmentation quality on the 3D-OVS dataset. We conducted an exploratory user study, comparing a 360-video, plain GS, and SCGS in VR with a fixed viewpoint. In our subsequent main study, users were allowed to move freely, evaluating plain GS and SCGS. Our main study results show that participants clearly prefer SCGS over plain GS. We overall present an innovative approach that surpasses the state-of-the-art both technically and in user experience.
+    Objective: Extended reality (XR) teleconsultation is used in surgery and medical emergencies, employing various technological approaches that differ in accuracy, timeliness, and user preference. 
+    Methods: We conducted a systematic literature review following  PRISMA. We searched the databases IEEE Xplore, Springer Link, ACM and added an additional manual search. In total, we found 187 studies and included 14 in our review.  
+    Conclusion: Our findings highlight the widespread use of video-based streaming and 3D reconstruction based on static RGB-D sensor. We found limitations in the reconstruction quality, where existing work would benefit from high-quality rendering. Interaction via annotations is common, addressing key usability needs for various surgeries and emergency situations. A standardized evaluation for interaction techniques would be beneficial for comparability. Our findings hold significant implications for improving teleconsultation and evaluation of XR telemedicine approaches.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
