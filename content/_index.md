@@ -163,7 +163,7 @@ sections:
         ---
         ### Lectures and Seminars
 
-        **Exergames in Medicine and Health (SS)**\
+        **Exergames in Medicine and Health (SoSe)**\
         This course deals with the theory, design, engineering and development of exergames. In the course, students will be provided with theoretical game-design, gamification and medical foundations and work in small groups to realize working exergame prototypes. Exemplary project themes could be:
 
         - Designing exergames for rehabilitation and physiotherapy
@@ -172,9 +172,9 @@ sections:
 
         The course is designed in an interactive project format. Based on initial discussions and theoretical input, students research, design, develop, and evaluate solutions in the form of projects and studies in small groups following user-centered design and agile software engineering principles.
 
-        More information can be found [here](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950762452?$scrollTo=toc_overview).
+        Registration via [TUMonline](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950803430?$scrollTo=toc_overview).
 
-        **XR: Virtual-, Mixed-, and Augmented Reality (WS)**\
+        **XR: Virtual-, Mixed-, and Augmented Reality (WiSe)**\
         In this lecture, students will expand their knowledge of advanced topics in virtual, augmented, and mixed reality. Key topics include among others:
         - Real-time interactive systems, avatars, and virtual embodiment
         - Social XR, collaborative environments
