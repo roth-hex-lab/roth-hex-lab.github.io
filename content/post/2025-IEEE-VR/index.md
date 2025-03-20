@@ -2,7 +2,7 @@
 title: HEX-Lab @ IEEE VR 2025 
 date: 2025-03-03
 summary: >
-    Prof. Roth, and Team are traveling to IEEE VR 2025. One of our papers received an Honorable Mention.
+    Prof. Daniel Roth and his team are traveling to IEEE VR 2025. One of our papers received an honorable mention for the best paper award.
 image:
   focal_point: 'top'
 ---
@@ -15,7 +15,7 @@ HEX lab goes to [IEEE VR 2025](http://ieeevr.org/2025/) with contributing two TV
 
 _Kristoffer Waldow, Constantin Kleinbeck, Arnulph Fuhrmann, Daniel Roth_
 
-This paper also received a honorable mention! Congratulations to Kris and the author team for this achievement.
+This paper also received a honorable mention for the best paper award! Congratulations to Kris and the author team for this achievement.
 
 **Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**, [Project Page](https://hex-lab.io/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization/)
 
