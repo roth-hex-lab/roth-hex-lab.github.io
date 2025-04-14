@@ -27,10 +27,13 @@ comments: false  # Show comments?
 
 ---
 
+#### Seminar Description
+This seminar course deals with the latest methods in the field of computer vision and deep learning and their application in the operating room. A list of selected papers will be proposed to be studied and discussed. The advantages and disadvantages of computer vision/deep learning methods will be discussed and placed in a historical perspective. Application areas include 2D and 3D surgical tool recognition, image/video/space segmentation, 3D reconstruction, multiview imaging, surgical phase recognition, semantic scene graphs in the operating room, action recognition, and multimodal imaging.
 
+### Objective
+By participating in the course, students expand their knowledge in the field of machine learning and computer vision in the context of medical applications in the operating room.  An interactive presentation prepares the student to present scientific content to a live audience. Active participation in the discussion teaches the ad hoc dialectic scientific discourse in the field.
 
-The course includes individual paper reviews and interactive presentations, helping students not only to develop technical expertise but also to build scientific communication and discussion skills.
-
+### TUM Online
 More information can be found [here](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950793211?$scrollTo=toc_overview).
 
-{{< figure src="featured.png">}}
+
