@@ -1,7 +1,7 @@
 ---
-title: Data Visualization & Decision Support for Multidisciplinary Clinical Decision Making
+title: Seminar - Computer Vision in the Operating Room (WS)
 date: 2023-12-01
-summary: "Enhancing and streamlining clinical decision-making"
+summary: "This seminar focuses on the latest methods in computer vision and deep learning for applications in the operating room."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -27,9 +27,9 @@ comments: false  # Show comments?
 
 ---
 
-**Computer Vision in the Operating Room (WS)**
 
-This seminar focuses on the latest methods in computer vision and deep learning for applications in the operating room. The course includes individual paper reviews and interactive presentations, helping students not only to develop technical expertise but also to build scientific communication and discussion skills.
+
+The course includes individual paper reviews and interactive presentations, helping students not only to develop technical expertise but also to build scientific communication and discussion skills.
 
 More information can be found [here](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950793211?$scrollTo=toc_overview).
 

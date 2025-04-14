@@ -1,7 +1,7 @@
 ---
-title: Data Visualization & Decision Support for Multidisciplinary Clinical Decision Making
+title: XR - Virtual-, Mixed-, and Augmented Reality (WiSe)
 date: 2023-12-01
-summary: "Enhancing and streamlining clinical decision-making"
+summary: "In this lecture, students will expand their knowledge of advanced topics in virtual, augmented, and mixed reality."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -27,7 +27,7 @@ comments: false  # Show comments?
 
 ---
 
-**XR: Virtual-, Mixed-, and Augmented Reality (WiSe)**
+
 
 In this lecture, students will expand their knowledge of advanced topics in virtual, augmented, and mixed reality. Key topics include among others:
 - Real-time interactive systems, avatars, and virtual embodiment

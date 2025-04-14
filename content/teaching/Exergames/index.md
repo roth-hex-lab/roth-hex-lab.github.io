@@ -1,7 +1,7 @@
 ---
-title: Data Visualization & Decision Support for Multidisciplinary Clinical Decision Making
+title: Exergames in Medicine and Health (SoSe)
 date: 2023-12-01
-summary: "Enhancing and streamlining clinical decision-making"
+summary: "This course deals with the theory, design, engineering and development of exergames."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -27,9 +27,7 @@ comments: false  # Show comments?
 
 ---
 
-**Exergames in Medicine and Health (SoSe)**\
 
-This course deals with the theory, design, engineering and development of exergames. 
 In the course, students will be provided with theoretical game-design, gamification and medical foundations and work in small groups to realize working exergame prototypes. 
 Exemplary project themes could be:
 
