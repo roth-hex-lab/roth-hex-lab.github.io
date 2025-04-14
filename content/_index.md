@@ -168,8 +168,7 @@ sections:
          - Digital Health
 
         If you are interested, please send your transcript of records, CV and motivation to the respective supervisor with CC to hex-thesis.ortho@mh.tum.de.
-        # Field to sort by, such as Date or Title
-      
+      # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
       # Default portfolio filter button
