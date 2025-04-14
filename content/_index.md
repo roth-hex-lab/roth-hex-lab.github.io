@@ -139,7 +139,7 @@ sections:
       view: compact
       columns: '2'
 
-  - block: portfolio
+  - block: teaching
     id: teaching
     content:
       title: Teaching
@@ -193,6 +193,10 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+      # Choose a listing view
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
 
   - block: markdown
     id: vacancies
