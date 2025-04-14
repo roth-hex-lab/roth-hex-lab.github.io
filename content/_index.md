@@ -57,7 +57,7 @@ sections:
         - Senior Research Scientists
         - Researchers
         - External Affiliated Researchers
-        - Team Support
+        - Student Assistants
         - Visiting Researchers
         - Alumni
       sort_by: Params.last_name
@@ -158,38 +158,6 @@ sections:
          - Digital Health
 
         If you are interested, please send your transcript of records, CV and motivation to the respective supervisor with CC to hex-thesis.ortho@mh.tum.de.
-
-
-        ---
-        ### Lectures and Seminars
-
-        **Exergames in Medicine and Health (SoSe)**\
-        This course deals with the theory, design, engineering and development of exergames. In the course, students will be provided with theoretical game-design, gamification and medical foundations and work in small groups to realize working exergame prototypes. Exemplary project themes could be:
-
-        - Designing exergames for rehabilitation and physiotherapy
-        - Designing gamified approaches for performance optimization in sports
-        - VR supported simulations for patients with motor impairments
-
-        The course is designed in an interactive project format. Based on initial discussions and theoretical input, students research, design, develop, and evaluate solutions in the form of projects and studies in small groups following user-centered design and agile software engineering principles.
-
-        Registration via [TUMonline](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950803430?$scrollTo=toc_overview).
-
-        **XR: Virtual-, Mixed-, and Augmented Reality (WiSe)**\
-        In this lecture, students will expand their knowledge of advanced topics in virtual, augmented, and mixed reality. Key topics include among others:
-        - Real-time interactive systems, avatars, and virtual embodiment
-        - Social XR, collaborative environments
-        - Advanced 3D interfaces and visualization techniques
-        - Cross-reality and environment reconstruction
-        
-        In an accompanying practical exercise, ythey will gain practical experience in developing advanced XR application.
-        
-        Registration via [TUMonline](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950804473?$scrollTo=toc_overview)
-
-        **Computer Vision in the Operating Room (WS)**\
-        This seminar focuses on the latest methods in computer vision and deep learning for applications in the operating room. The course includes individual paper reviews and interactive presentations, helping students not only to develop technical expertise but also to build scientific communication and discussion skills.
-
-        More information can be found [here](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950793211?$scrollTo=toc_overview).
-
 
     design:
       # See Page Builder docs for all section customization options.
