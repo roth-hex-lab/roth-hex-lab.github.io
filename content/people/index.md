@@ -15,7 +15,7 @@ sections:
           - Senior Research Scientists
           - Researchers
           - External Affiliated Researchers
-          - Team Support
+          - Student/Research Assistants
           - Visiting Researchers
           - Alumni
       sort_by: Params.last_name

@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Hafize Nur Şahbudak
+title: Doruk Bildibay
 
 # Full name (for SEO)
-first_name: Hafize Nur  
-last_name: Şahbudak
+first_name: Doruk  
+last_name: Bildibay
 
 # Username (this should match the folder name)
 authors:
-  - hafize
+  - doruk
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,17 +18,17 @@ role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Middle East Technical University(METU), Technical University of Munich(TUM)
+  - name: Middle East Technical University(METU), Technical University of Munich (TUM).
     url: ''
  
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer engineer and a master's student in the Informatics department at the Technical University of Munich. 
+bio: Doruk is an MSc student at the Department of Informatics, Technical University of Munich (TUM). 
 
 interests:
   - Computer Vision
+  - Computer Graphics
+  - Game Development and Interaction Design
   - Extended Reality
-  - Human Computer Interaction
-  - BCI
 
 education:
   courses:   
@@ -36,8 +36,8 @@ education:
       institution: Technical University of Munich(TUM)
       year: now
     - course: BSc in Computer Engineering, Turkey
-      institution: Middle East Technical University(METU)
-      year: 2019 - 2022
+      institution: Middle East Technical University (METU)
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,10 +46,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hafizenur.sahbudak@tum.de'
+    link: 'mailto:doruk.bildibay@tum.de'
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/in/hafizenursahbudak
+    link: https://www.linkedin.com/in/dbildibay/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,5 +66,5 @@ user_groups:
 
 ---
 
-Hafize is an MSc student at the Department of Informatics, Technical University of Munich (TUM). She is a student assistant at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab at TUM, where she supports various research projects. Prior to this, she received her bachelor’s degree in Computer Engineering from Middle East Technical University (METU). During her studies, she gained industry experience at BEKO R&D Center.
+Doruk is an MSc student at the Department of Informatics, Technical University of Munich (TUM). He is a student assistant at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab at TUM, where he supports various research projects. Prior to this, he received a bachelor’s degree in Computer Engineering from Middle East Technical University (METU). During his studies, he worked as a Game Developer on multiple projects and gained valuable industry experience.
 
