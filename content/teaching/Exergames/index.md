@@ -1,5 +1,5 @@
 ---
-title: Exergames in Medicine and Health (SoSe)
+title: Lecture - Exergames in Medicine and Health (SoSe)
 date: 2023-12-01
 summary: "This course deals with the theory, design, engineering and development of exergames."
 

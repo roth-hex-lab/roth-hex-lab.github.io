@@ -1,5 +1,5 @@
 ---
-title: XR - Virtual-, Mixed-, and Augmented Reality (WiSe)
+title: Lecture - XR - Virtual-, Mixed-, and Augmented Reality (WiSe)
 date: 2023-12-01
 summary: "In this lecture, students will expand their knowledge of advanced topics in virtual, augmented, and mixed reality."
 
