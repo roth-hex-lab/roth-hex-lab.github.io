@@ -139,7 +139,7 @@ sections:
       view: compact
       columns: '2'
 
-  - block: teaching
+  - block: portfolio
     id: teaching
     content:
       title: Teaching
