@@ -170,7 +170,7 @@ sections:
         If you are interested, please send your transcript of records, CV and motivation to the respective supervisor with CC to hex-thesis.ortho@mh.tum.de.
         # Field to sort by, such as Date or Title
       
-      sort_by: 'Name'
+      sort_by: 'Title'
       sort_ascending: false
       # Default portfolio filter button
       # 0 corresponds to the first button below and so on
