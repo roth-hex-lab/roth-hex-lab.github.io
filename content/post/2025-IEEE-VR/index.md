@@ -2,12 +2,12 @@
 title: HEX-Lab @ IEEE VR 2025 
 date: 2025-03-03
 summary: >
-    Prof. Roth, and Team are traveling to IEEE VR 2025. One of our papers received an Honorable Mention.
+    Prof. Daniel Roth and his team are traveling to IEEE VR 2025. One of our papers received an honorable mention for the best paper award.
 image:
   focal_point: 'top'
 ---
 
-HEX lab goes [IEEE VR 2025](http://ieeevr.org/2025/) with contributing two TVCG papers, one conference paper, one workshop paper and one demo.
+HEX lab goes to [IEEE VR 2025](http://ieeevr.org/2025/) with contributing two TVCG papers, one conference paper, one workshop paper, and one demo.
 
 ### TVCG
 
@@ -15,7 +15,7 @@ HEX lab goes [IEEE VR 2025](http://ieeevr.org/2025/) with contributing two TVCG 
 
 _Kristoffer Waldow, Constantin Kleinbeck, Arnulph Fuhrmann, Daniel Roth_
 
-This paper also received a honorable mention! Congratulations to Kris and Team for this achievement.
+This paper also received a honorable mention for the best paper award! Congratulations to Kris and the author team for this achievement.
 
 **Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**, [Project Page](https://hex-lab.io/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization/)
 
@@ -42,5 +42,16 @@ _Luisa Theelke, Diana Beksultanow, Lydia Marquardt, Philipp Gulde, Lisa Vallines
 
 Many thanks to our collaborators from all over the world! 
 
+{{< figure src="IEEE VR 2025/Luisa.jpg" caption="">}}
 
+{{< figure src="IEEE VR 2025/LuisaDemo.jpg" caption="">}}
 
+{{< figure src="IEEE VR 2025/HannahPoster.jpg" caption="">}}
+
+{{< figure src="IEEE VR 2025/HannahWS.jpg" caption="">}}
+
+{{< figure src="IEEE VR 2025/Kris.JPEG" caption="">}}
+
+{{< figure src="IEEE VR 2025/Hannah.jpg" caption="">}}
+
+{{< figure src="IEEE VR 2025/Constantin.jpg" caption="">}}
