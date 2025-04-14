@@ -15,7 +15,7 @@ image:
   focal_point: "top"
   preview_only: false
 
-tags: [funded]
+tags: []
 
 authors:
   - admin
