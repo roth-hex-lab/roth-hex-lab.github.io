@@ -28,9 +28,10 @@ comments: false  # Show comments?
 ---
 
 The Robotics Institute Germany (RIG) is an initiative that the Federal Ministry of Education and Research (BMBF) has been funding with 20 Million euros over four years since 2024. The RIG comprises 14 German universities and research institutions. There are also 19 associated partners. The aim is to connect leading robotics locations in Germany, increase international visibility, attract talent, and accelerate progress in AI-powered robotics.
-We are developing responsible and innovative robotics and AI for the benefit of society and the environment, thereby providing important impetus for the economy.
-RIG is driven by the shared vision of positioning Germany as a global leader in embodied AI and robotics. By fostering a vibrant ecosystem, we enable cutting-edge research, cultivate world-class talent and ensure that innovation translates into real-world solutions. Together we are shaping a sustainable and innovative future that benefits society and drives economic growth.
-Link to project: https://robotics-institute-germany.de/
+
+We are developing responsible and innovative robotics and AI for the benefit of society and the environment, thereby providing important impetus for the economy. RIG is driven by the shared vision of positioning Germany as a global leader in embodied AI and robotics. By fostering a vibrant ecosystem, we enable cutting-edge research, cultivate world-class talent and ensure that innovation translates into real-world solutions. Together we are shaping a sustainable and innovative future that benefits society and drives economic growth.
+
+https://robotics-institute-germany.de/
 
 ## Partners:
 - Federal Ministry of Education and Research
@@ -49,7 +50,7 @@ Link to project: https://robotics-institute-germany.de/
 - Max-Plank Institute for Intelligent Systems
 - Fraunhofer Institute
 
-## Associate Partners (Do not know if to list or not):
+## Associate Partners:
 - University of Lübeck
 - University of Hamburg
 - Leibniz University of Hannover
