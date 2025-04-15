@@ -1,7 +1,7 @@
 ---
 title: Data Visualization & Decision Support for Multidisciplinary Clinical Decision Making
 date: 2023-12-01
-summary: "Enhancing and streamlining clinical decision-making"
+summary: "Enhancing and streamlining clinical decision-making."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.

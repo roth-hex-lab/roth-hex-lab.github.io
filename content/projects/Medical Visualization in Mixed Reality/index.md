@@ -1,7 +1,7 @@
 ---
 title: Medical Visualization in Mixed Reality
 date: 2023-12-01
-summary: "Realistic visualization of medical and surgical data in 3D"
+summary: "Realistic visualization of medical and surgical data in 3D."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
