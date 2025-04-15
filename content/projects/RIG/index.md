@@ -1,5 +1,5 @@
 ---
-title: RIG
+title: Robotics Institute Germany
 date: 2025-01-02
 summary: "The Robotics Institute Germany (RIG) connects leading experts and talents in science, academia, and the industry to foster cutting-edge research, groundbreaking technologies, and transformative applications."
 
@@ -71,5 +71,7 @@ Link to project: https://robotics-institute-germany.de/
 - Baiosphere
 - Ludwigs-Maximilians University of Munich
 - University of Konstanz
+
+We are developing responsible and innovative robotics and AI for the benefit of society and the environment, thereby providing important impetus for the economy. RIG is driven by the shared vision of positioning Germany as a global leader in embodied AI and robotics. By fostering a vibrant ecosystem, we enable cutting-edge research, cultivate world-class talent and ensure that innovation translates into real-world solutions. Together we are shaping a sustainable and innovative future that benefits society and drives economic growth.
 
 
