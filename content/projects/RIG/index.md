@@ -49,7 +49,7 @@ Link to project: https://robotics-institute-germany.de/
 - Max-Plank Institute for Intelligent Systems
 - Fraunhofer Institute
 
-## Associate Partners (Do not know if to list or not):
+## Associate Partners 
 - University of Lübeck
 - University of Hamburg
 - Leibniz University of Hannover
