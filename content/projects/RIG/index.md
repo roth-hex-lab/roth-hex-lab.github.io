@@ -1,5 +1,5 @@
 ---
-title: RIG
+title: Robotics Institute Germany
 date: 2025-01-02
 summary: "The Robotics Institute Germany (RIG) connects leading experts and talents in science, academia, and the industry to foster cutting-edge research, groundbreaking technologies, and transformative applications."
 
