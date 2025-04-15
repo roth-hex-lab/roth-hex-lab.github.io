@@ -33,7 +33,7 @@ Medical volumetric data, like CT or MRT scanners produce, are commonly viewed in
 
 It is interesting to use immersive 3D display hardware, like Virtual or Augmented Reality headsets to fully use advanced volumetric visualization techniques advantages. With these head-mounted displays, more investigation into interaction metaphors is needed in the context of volume rendering. While controller-based interaction is commonly used, especially for explorative analysis, direct manipulation could improve the status quo. Using one's hands or haptic interaction with 3D-printed volumes could aid in detecting abnormalities [1]. With VR and tracking devices, it is now possible to see the scans and anatomical conditions on the user's body instead of free-floating. While this could help aid understanding and create awareness for specific medical conditions, it might also have negative consequences. The impact of potentially disturbing medical conditions on one's body has not been extensively researched. In a preliminary work, however, we found no adverse effects of minor injuries or anatomical avatars when embodied by participants [2]. Using state-of-the-art AI methods, we further investigated creating reconstructed environments from simple phone camera videos. Such reconstructions can be used for medical planning [3] and provide an environment for in-context learning.
 
-Future works in this research will focus on bringing such visualizations to a broader set of devices via optimizations and intermediate representations like Gaussian Splatting. Further research into the interaction affordances of such rendered anatomies is also planned. Using a game engine as a development platform allows us to look deeper into the affordances of cross-virtuality visualization, enabling a variety of mixed-reality and handheld devices to explore the same anatomy collaboratively.
+Current works in this research focus on bringing such visualizations to a broader set of devices via optimizations and intermediate representations like Gaussian Splatting [4]. Further research into the interaction affordances of such rendered anatomies is also planned. Using a game engine as a development platform allows us to look deeper into the affordances of cross-virtuality visualization, enabling a variety of mixed-reality and handheld devices to explore the same anatomy collaboratively.
 
 {{< figure src="Constantin/slicingvolume.png">}}
 
@@ -42,13 +42,15 @@ Future works in this research will focus on bringing such visualizations to a br
 {{< figure src="Constantin/volumeRendering.png">}}
 
 
-[1] C. Kleinbeck et al., „Adaptive Volumetric Anatomy Visualization in VR with Tangible Control“, in 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Sydney, Australia: IEEE, Oct. 2023, S. 613–614. doi: 10.1109/ISMAR-Adjunct60411.2023.00131.
+[1] C. Kleinbeck et al., "Adaptive Volumetric Anatomy Visualization in VR with Tangible Control", in 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Sydney, Australia: IEEE, Oct. 2023, S. 613–614. doi: 10.1109/ISMAR-Adjunct60411.2023.00131.
 
-[2] C. Kleinbeck, H. Schieber, J. Kreimeier, A. Martin-Gomez, M. Unberath, and D. Roth, „Injured Avatars: The Impact of Embodied Anatomies and Virtual Injuries on Well-being and Performance“, IEEE Trans. Visual. Comput. Graphics, S. 1–11, 2023, doi: 10.1109/TVCG.2023.3320224.
+[2] C. Kleinbeck, H. Schieber, J. Kreimeier, A. Martin-Gomez, M. Unberath, and D. Roth, "Injured Avatars: The Impact of Embodied Anatomies and Virtual Injuries on Well-being and Performance", IEEE Trans. Visual. Comput. Graphics, S. 1–11, 2023, doi: 10.1109/TVCG.2023.3320224.
 
-[3] C. Kleinbeck, H. Zhang, B. Killeen, D. Roth, M. Unberath, Neural Digital Twins: Reconstructing Complex Medical Environments for Spatial Planning in Virtual Reality. IJCARS 2024
+[3] C. Kleinbeck, H. Zhang, B. Killeen, D. Roth, M. Unberath, "Neural Digital Twins: Reconstructing Complex Medical Environments for Spatial Planning in Virtual Reality". IJCARS 2024
 
-Constantin is supported by a scholarship from Siemens Healthineers and the Digital Health Innovation Platform (d.hip). Thank you!
+[4] C. Kleinbeck, H. Schieber, K. Engel, R. Gutjahr and D. Roth, "Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2025.3549882
+
+Constantin was supported by a scholarship from Siemens Healthineers and the Digital Health Innovation Platform (d.hip) for parts of these works. Thank you!
 
 
 {{< figure src="scholarship.png">}}
