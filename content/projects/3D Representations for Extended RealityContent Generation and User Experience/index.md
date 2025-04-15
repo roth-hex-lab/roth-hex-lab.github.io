@@ -41,6 +41,11 @@ During the first year of her stipend, Hannah focused on XR guidance and detectin
 In the last period of the stipend, Hannah was working on integrating smart 3D reconstruction into the guidance workflow. 
 Therefore, she focuses on the second aspect of XR teleconsultation and product guidance involving reconstructing the local environment to the remote user. Standard mesh-based or point cloud-based 3D reconstructions are often non deep learning driven and enable fast data processing [12]. Combining classic 3D reconstruction methods we guide the user to the currently captured part of the scene [12]. However, approaches like neural rendering further allow novel views and provide a more high-fidelity reconstruction which can be beneficial for in-body 3D reconstruction. One essential aspect of neural rendering methods are the accurate camera poses [10, 11]. XR  setups, consisting of multiple varying cameras (XR glasses, RGB-D cameras etc.). These cameras further have different intrinsic camera parameters, our approach NeRFtrinsic Four [11] enables the optimization of multiple intrinsic and extrinsic camera parameters, thereby enhancing neural rendering.
 
+### Research Visit University of Otago
+
+During her 5 months research visit at the University of Otago, Hannah was funded by a DAAD stipend and paused her dhip stipend during that time. She continued researching on 3D representations for extended reality.
+
+
 [1] Kleinbeck, C., Schieber, H., Andress, S., Krautz, C., & Roth, D. (2022, March). ARTFM: Augmented Reality Visualization of Tool Functionality Manuals in Operating Rooms. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 736-737). IEEE.
 
 [2] Schieber, H., Li, S., Corell, N., Beckerle, P., Kreimeier, J., & Roth, D. (2024). ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation. arXiv preprint arXiv:2403.16400.
