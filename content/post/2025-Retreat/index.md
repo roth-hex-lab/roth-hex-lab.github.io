@@ -18,3 +18,7 @@ Thanks to everyone involved for the great exchange!
 - Munich Institute of Robotics and Machine Intelligence (MIRMI) at the Technical University of Munich
 - TUM Klinikum Rechts der Isar/TUM University Hospital
 
+{{< figure src="IMG_5202.jpg" caption="">}}
+
+{{< figure src="IMG_5210.jpg" caption="">}}
+
