@@ -11,7 +11,6 @@ Inspiring research exchange and fantastic weather approached us at the TUM Akade
 
 Our HEX-lab, Orthopedics Research and the clinic talked about exciting upcoming and current projects.
 We developed new ideas and combined our interdisciplinary forces for future research.
-Danke an Daniel Roth für die Einladung und an alle Beteiligten für den großartigen Austausch!
 
 Thanks to everyone involved for the great exchange!
 - Technische Universität München 
