@@ -12,7 +12,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-03-24T00:00:00Z"
+date: "2025-03-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Semantics Controlled Gaussian Splatting'
+  caption: 'Extended Reality Teleconsultation for Medical Interventions: State of the Art and Perspectives'
   focal_point: ""
   preview_only: false
 
