@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student
+role: Visiting Researcher, University of Calgary
 
 # Organizations/Affiliations
 organizations:
