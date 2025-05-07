@@ -207,14 +207,24 @@ sections:
       subtitle: ""
       text: |
         ---
-        ### Student
-        We are currently not looking for student lab assistants. Please check back later or reach out to us.
-
-        ---
+        ### PhD Position in Robotics (Aerial robotics, robotic navigation, and path planning)
+        The [Learning Systems and Robotics Lab](https://www.ce.cit.tum.de/lsy/home/), under the management of Prof. Angela Schoellig, and our Human-Centered Computing and Extended Reality Lab, under the management of Prof. Daniel Roth are seeking for a highly motivated PhD candidate to work on cutting-edge research in
+        Aerial Robotics. The candidate will conduct high-quality research, publish in top-tier venues, and collaborate with interdisciplinary teams across robotics, medicine, computation, and technology.
+        
+        links:
+        - name: PDF
+          url: 'PhDPositionAerialDrone'
+        
         ### PhD / Postdoc
         If you have a strong research / study background in the areas of XR, HCI, Computer Vision, Medical Engineering, or Robotics  drop us a mail and we'll get back to you.
 
         Please send all application related mail to hex-application.ortho@mh.tum.de
+        ---
+        ### Student
+        We are currently not looking for student lab assistants. Please check back later or reach out to us.
+
+
+        
 
     design:
       # See Page Builder docs for all section customization options.
