@@ -214,7 +214,7 @@ sections:
 
         [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionAerialDrone.pdf)   
         
-        Please apply to this position via hannah.schieber@tum.de
+        Please apply to this position via hannah.schieber@tum.de, (attach CV, two-page research statement, academic transcripts, research publications (if applicable), and two references)
         
         ### PhD / Postdoc
         If you have a strong research / study background in the areas of XR, HCI, Computer Vision, Medical Engineering, or Robotics  drop us a mail and we'll get back to you.
