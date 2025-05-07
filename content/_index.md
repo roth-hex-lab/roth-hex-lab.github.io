@@ -212,7 +212,7 @@ sections:
         Aerial Robotics. The candidate will conduct high-quality research, publish in top-tier venues, and collaborate with interdisciplinary teams across robotics, medicine, computation, and technology.
         Furthermore, the appointee will be collaborating with the _Mobile Robotics Lab at ETH Zurich_, being established by _Prof. Stefan Leutenegger_, formerly at TUM.
 
-        [Position Description](PhDPositionAerialDrone.pdf)   
+        [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionAerialDrone.pdf)   
         
         Please apply to this position via hannah.schieber@tum.de
         
