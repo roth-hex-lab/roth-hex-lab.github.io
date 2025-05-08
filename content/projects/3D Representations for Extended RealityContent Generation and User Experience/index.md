@@ -26,8 +26,9 @@ profile: false  # Show author profile?
 comments: false  # Show comments? 3D Representations for Extended Reality Content Generation and User Experience
 
 ---
+Hannah is researching the topic _3D Representations for Extended Reality Content Generation and User Experience_
 
-Parts of this research where funded by the dhip stipend:
+Parts of her research where funded by the d.hip stipend:
 *Smart remote extended reality (XR) teleconsultation and product guidance*
 
 Smart remote extended reality (XR) teleconsultation and product guidance has two important lines of work, 1) detection of machinery parts or objects in the scene, identifying the used tools or machinery and specifically tailored guidance for this machinery, and 2) reconstruction of the local scene to enable remote experts dialing in via teleconsultation to provide additional guidance. Teleconsultation and XR guidance can overcome the lack of workforce to guide and instruct maintenance or provide in-situ support.

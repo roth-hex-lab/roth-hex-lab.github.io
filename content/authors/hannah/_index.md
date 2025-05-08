@@ -78,9 +78,12 @@ user_groups:
 
 ---
 
-Hannah is a PhD student at the Department of Artificial Intelligence in Biomedical Engineering, Friedrich-Alexander University Erlangen-Nürnberg (FAU). There she currently researches the topic of smart remote extended reality teleconsultation and product guidance.
-Moreover, she is an research assistant at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. There she supports the KARVIMIO project. Prior that, she received her bachelor’s degree from HS Aalen, and her master’s degree from TH Ingolstadt, both in computer science. During her studies, she gained experience in the industry at MAPAL Dr. Kress KG, c-Com GmbH, Carl Zeiss AG and AUDI AG.
+Hannah is a PhD student at the Chair of Machine Intelligence in Orthopaedics / Human-Centered Computing and Extended Reality Lab at TU Munich. 
+She is currently researching 3D representations for extended reality content generation and user experience.
+She also supports KARVIMIO and SABERGUIDE. Previously, she completed her Bachelor's degree at the HS Aalen and her Master's degree at the TH Ingolstadt, both in Computer Science. During her studies, she gained industry experience at MAPAL Dr. Kress KG, c-Com GmbH, Carl Zeiss AG and AUDI AG.
 
-Hannahs research in Germany is supported by a scholarship from the Digital Health Innovation Platform (d.hip). Here current research in New Zealand is funded by a DAAD scholarship for Computer Science Researchs. Thank you! 
+Hannah's research in Germany was funded for three years by a scholarship from the Digital Health Innovation Platform (d.hip). Her research stay in New Zealand was funded by a DAAD scholarship for computer scientists. Many thanks to you!
+
+Translated with DeepL.com (free version)
 
 {{< figure src="scholarship.png" >}}
