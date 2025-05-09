@@ -10,11 +10,11 @@ sections:
       title: |
         
         {{< figure src="logo_hex-petrol.png" caption="" >}}
+        {{< figure src="Logo3.png" caption="" >}}
         HEX Lab
       subtitle: |
         About Us
         {{< figure src="team.jpg" caption="" >}}
-        {{< figure src="Logo3.png" caption="" >}}
       text: |
         ### <i>Imagineering novel languages for the communication between human(s) and machine(s)</i>
 
