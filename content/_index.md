@@ -14,6 +14,7 @@ sections:
       subtitle: |
         About Us
         {{< figure src="team.jpg" caption="" >}}
+        {{< figure src="LOGO.svg" caption="" >}}
       text: |
         ### <i>Imagineering novel languages for the communication between human(s) and machine(s)</i>
 
