@@ -10,7 +10,7 @@ sections:
       title: |
         
         {{< figure src="logo_hex-petrol.png" caption="" >}}
-        {{< figure src="Logo4.png" caption="" >}}
+        {{< figure src="Logo5.png" caption="" >}}
         HEX Lab
       subtitle: |
         About Us
