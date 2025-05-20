@@ -213,7 +213,7 @@ sections:
         Aerial Robotics. The candidate will conduct high-quality research, publish in top-tier venues, and collaborate with interdisciplinary teams across robotics, medicine, computation, and technology.
         Furthermore, the appointee will be collaborating with the *Mobile Robotics Lab at ETH Zurich*, being established by *Prof. Stefan Leutenegger*, formerly at TUM.
 
-        [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionAerialDrone.pdf)   
+        *More information can be found here:* [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionAerialDrone.pdf)   
         
         Please apply to this position via hannah.schieber@tum.de.
         
@@ -222,7 +222,7 @@ sections:
         We seek for a highly motivated PhD candidate to work on cutting-edge research in simulation-based learning, simulation engineering and biomechanics. 
         The candidate will conduct high-quality research, publish in top-tier venues, and collaborate with interdisciplinary teams across biomechanics, medicine, computation, and technology.
 
-        [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionSimulation.pdf)   
+        *More information can be found here:* [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionSimulation.pdf)   
         
         Please apply to this position via hex-application.ortho@mh.tum.de.
         
