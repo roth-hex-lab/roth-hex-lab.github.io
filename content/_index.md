@@ -225,13 +225,15 @@ sections:
 
         Please send all application related mail to hex-application.ortho@mh.tum.de.
         
+        *Two open positions can be found below.*
+        
         ---
         ### Student
         We are currently not looking for student lab assistants. Please check back later or reach out to us.
         
         ---
         
-        ### Currently we over two positions: 
+        ### Currently we over two positions (PhD Position): 
 
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
