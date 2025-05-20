@@ -1,5 +1,5 @@
 ---
-title: PhD Position in Robotics (Aerial robotics, robotic navigation, and path planning)
+title: PhD Position in Robotics (Aerial robotics, robotic navigation, and path planning) (link)
 date: 2023-12-01
 summary: "The Learning Systems and Robotics (LSY) Lab (https://www.ce.cit.tum.de/lsy/home/) and the Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (salary based on TVL-E13 pay grade, Bavaria)."
 
