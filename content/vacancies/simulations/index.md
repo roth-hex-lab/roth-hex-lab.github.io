@@ -1,6 +1,6 @@
 ---
 title: PhD Position in Simulation Engineering/Biomechanics (Biomechanic Simulation) (link)
-date: 2025-05-01
+date: 2025-05-02
 summary: "The Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (salary based on TVL-E13 pay grade, Bavaria)."
 
 # Cover image
