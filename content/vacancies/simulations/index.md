@@ -56,8 +56,6 @@ Interested applicants should submit:
 
 We welcome, embrace, and respect diversity of people, identities, and cultures. We therefore encourage all potential fitting candidates, regardless of their personal background, to apply for the opportunity. 
 
-*More information can be found here:* [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionSimulation.pdf)   
+*Job description can be found here as pdf:* [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionSimulation.pdf)   
         
 Please apply to this position via hex-application.ortho@mh.tum.de.
-
-
