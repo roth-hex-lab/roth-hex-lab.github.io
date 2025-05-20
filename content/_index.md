@@ -201,30 +201,14 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-  - block: markdown
+  - block: portfolio
     id: vacancies
     content:
       title: Open Positions
       subtitle: ""
       text: |
         ---
-        ### PhD Position in Robotics (Aerial robotics, robotic navigation, and path planning)
-        The [Learning Systems and Robotics Lab](https://www.ce.cit.tum.de/lsy/home/), under the management of *Prof. Angela Schoellig*, and our *Human-Centered Computing and Extended Reality Lab*, under the management of *Prof. Daniel Roth*, are seeking for a highly motivated PhD candidate to work on cutting-edge research in
-        Aerial Robotics. The candidate will conduct high-quality research, publish in top-tier venues, and collaborate with interdisciplinary teams across robotics, medicine, computation, and technology.
-        Furthermore, the appointee will be collaborating with the *Mobile Robotics Lab at ETH Zurich*, being established by *Prof. Stefan Leutenegger*, formerly at TUM.
-
-        *More information can be found here:* [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionAerialDrone.pdf)   
         
-        Please apply to this position via hannah.schieber@tum.de.
-        
-        ### PhD Position in Simulation Engineering/Biomechanics (Biomechanic Simulation)
-        The Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (salary based on TVL-E13 paygrade, Bavaria). 
-        We seek for a highly motivated PhD candidate to work on cutting-edge research in simulation-based learning, simulation engineering and biomechanics. 
-        The candidate will conduct high-quality research, publish in top-tier venues, and collaborate with interdisciplinary teams across biomechanics, medicine, computation, and technology.
-
-        *More information can be found here:* [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionSimulation.pdf)   
-        
-        Please apply to this position via hex-application.ortho@mh.tum.de.
         
         ### PhD / Postdoc
         If you have a strong research / study background in the areas of XR, HCI, Computer Vision, Medical Engineering, or Robotics, drop us a mail and we'll get back to you.
@@ -234,14 +218,37 @@ sections:
         ---
         ### Student
         We are currently not looking for student lab assistants. Please check back later or reach out to us.
-
-
         
-
+        ---
+        
+        ### Currently we over two positions: 
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+      # Default portfolio filter button
+      # 0 corresponds to the first button below and so on
+      # For example, 0 will default to showing all content as the first button below shows content with *any* tag
+      default_button_index: 0
+      # Filter button toolbar (optional).
+      # Add or remove as many buttons as you like.
+      # To show all content, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the button toolbar, delete the entire `buttons` block.
+      #buttons:
+      #  - name: All
+      #    tag: '*'
+      #  - name: Deep Learning
+      #    tag: Deep Learning
+      #  - name: Other
+      #    tag: Demo
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
+      # Choose a listing view
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
 
   - block: contact
     id: contact
