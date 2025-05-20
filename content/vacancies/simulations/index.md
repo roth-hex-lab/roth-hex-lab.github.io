@@ -9,6 +9,11 @@ summary: "The Human-Centered Computing and Extended Reality (HEX) Lab (https://h
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
+  #caption: "Caption text"
+  focal_point: "top"
+  preview_only: false
 
 tags: []
 
