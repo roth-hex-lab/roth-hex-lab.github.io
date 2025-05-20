@@ -217,6 +217,15 @@ sections:
         
         Please apply to this position via hannah.schieber@tum.de.
         
+        ### PhD Position in Robotics (Aerial robotics, robotic navigation, and path planning)
+        The Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (salary based on TVL-E13 paygrade, Bavaria). 
+        We seek for a highly motivated PhD candidate to work on cutting-edge research in simulation-based learning, simulation engineering and biomechanics. 
+        The candidate will conduct high-quality research, publish in top-tier venues, and collaborate with interdisciplinary teams across biomechanics, medicine, computation, and technology.
+
+        [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionSimulation.pdf)   
+        
+        Please apply to this position via hex-application.ortho@mh.tum.de.
+        
         ### PhD / Postdoc
         If you have a strong research / study background in the areas of XR, HCI, Computer Vision, Medical Engineering, or Robotics, drop us a mail and we'll get back to you.
 
