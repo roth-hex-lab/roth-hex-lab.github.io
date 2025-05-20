@@ -201,7 +201,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-  - block: portfolio
+  - block: markdown
     id: vacancies
     content:
       title: Open Positions
