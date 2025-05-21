@@ -1,7 +1,7 @@
 ---
 title: PhD Position in Robotics (Aerial robotics, robotic navigation, and path planning) (link)
 date: 2025-05-01
-summary: "The Learning Systems and Robotics (LSY) Lab (https://www.ce.cit.tum.de/lsy/home/) and the Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (salary based on TVL-E13 pay grade, Bavaria). [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionAerialDrone.pdf) "
+summary: "The Learning Systems and Robotics (LSY) Lab (https://www.ce.cit.tum.de/lsy/home/) and the Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (part-time employment is possible) (salary based on TVL-E13 pay grade, Bavaria). [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionAerialDrone.pdf) "
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -27,7 +27,7 @@ comments: false  # Show comments?
 
 ---
 
-The Learning Systems and Robotics (LSY) Lab (https://www.ce.cit.tum.de/lsy/home/) and the Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (salary based on TVL-E13 pay grade, Bavaria). 
+The Learning Systems and Robotics (LSY) Lab (https://www.ce.cit.tum.de/lsy/home/) and the Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (part-time employment is possible) (salary based on TVL-E13 pay grade, Bavaria). 
 The position is affiliated with the School of Computation, Information, and Technology. The Learning Systems and Robotics Lab, under the management of Prof. Angela Schoellig, is motivated by the vision of a seamless interaction of robotic systems with the physical world.
 In particular, LSY lab research interests are centered around the challenges associated with robots operating in increasingly unstructured, uncertain and changing environments, and over long periods of time. These situations challenge current robot designs, which rely on knowing the specifics of the environment and task ahead of time to operate safely and efficiently. 
 

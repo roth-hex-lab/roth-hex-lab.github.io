@@ -1,7 +1,7 @@
 ---
 title: PhD Position in Simulation Engineering/Biomechanics (Biomechanic Simulation)
 date: 2025-05-02
-summary: "The Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (salary based on TVL-E13 pay grade, Bavaria). [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionSimulation.pdf) "
+summary: "The Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (part-time employment is possible) (salary based on TVL-E13 pay grade, Bavaria). [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionSimulation.pdf) "
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -29,7 +29,7 @@ comments: false  # Show comments?
 
 ### PhD Position in Simulation Engineering/Biomechanics (Biomechanic Simulation)
 
-The Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (salary based on TVL-E13 paygrade, Bavaria). The position is affiliated with the School of Medicine and Health and TUM School of Computation, Information, and Technology.
+The Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (part-time employment is possible) (salary based on TVL-E13 paygrade, Bavaria). The position is affiliated with the School of Medicine and Health and TUM School of Computation, Information, and Technology.
 The Human-Centered Computing and Extended Reality Lab, under the management of Prof. Daniel Roth, aims to pioneer new technologies to enhance medical care and healthcare. We pursue fundamental, translational, and radical blue-sky research to improve medicine for patients and healthcare professionals alike. We adopt a holistic perspective on machine intelligence, emphasizing AI-driven technologies that enable meaningful collaboration between humans and machines. 
 
 ### About the Position: 
