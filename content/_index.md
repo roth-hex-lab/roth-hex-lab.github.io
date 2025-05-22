@@ -233,7 +233,7 @@ sections:
         
         ---
         
-        ### Currently we over two positions (PhD Position): 
+        ### Currently we offer two positions (PhD Position): 
 
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
