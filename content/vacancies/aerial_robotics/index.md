@@ -32,9 +32,9 @@ The position is affiliated with the School of Computation, Information, and Tech
 In particular, LSY lab research interests are centered around the challenges associated with robots operating in increasingly unstructured, uncertain and changing environments, and over long periods of time. These situations challenge current robot designs, which rely on knowing the specifics of the environment and task ahead of time to operate safely and efficiently. 
 
 The Human-Centered Computing and Extended Reality Lab, under the management of Prof. Daniel Roth, aims to pioneer new technologies to enhance medical care and healthcare. 
-We pursue fundamental, translational, and radical blue-sky research to improve medicine for patients and healthcare professionals. We adopt a holistic perspective on machine intelligence, emphasizing AI-driven technologies that enable meaningful collaboration between humans and machines. F
+We pursue fundamental, translational, and radical blue-sky research to improve medicine for patients and healthcare professionals. We adopt a holistic perspective on machine intelligence, emphasizing AI-driven technologies that enable meaningful collaboration between humans and machines. 
 
-urthermore, the appointee will be collaborating with the Mobile Robotics Lab at ETH Zurich, being established by Prof. Stefan Leutenegger, formerly at TUM: the lab has vast expertise in Spatial AI including SLAM, 3D scene reconstruction and understanding, as well as its use onboard drones navigating unknown and cluttered environments. 
+Furthermore, the appointee will be collaborating with the Mobile Robotics Lab at ETH Zurich, being established by Prof. Stefan Leutenegger, formerly at TUM: the lab has vast expertise in Spatial AI including SLAM, 3D scene reconstruction and understanding, as well as its use onboard drones navigating unknown and cluttered environments. 
 
 ## About the Position 
 Together, we seek a highly motivated PhD candidate to work on cutting-edge research in Aerial Robotics. The candidate will conduct high-quality research, publish in top-tier venues, and collaborate with interdisciplinary teams across robotics, medicine, computation, and technology. 
