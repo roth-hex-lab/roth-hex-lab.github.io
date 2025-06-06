@@ -35,6 +35,7 @@ Link to project: https://robotics-institute-germany.de/
 ## Partners:
 - Federal Ministry of Education and Research
 - Technical University of Munich
+- TUM University Hospital
 - Karlsruhe Institute of Technology
 - University of Bonn
 - University of Technology Nuremberg
