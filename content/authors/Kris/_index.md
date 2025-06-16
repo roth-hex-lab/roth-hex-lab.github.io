@@ -79,4 +79,4 @@ user_groups:
 Kristoffer is a PhD candidate at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the TH Köln, Computer Graphics research group. His field of interest is Mixed Reality (MR) technologies, especially human-computer interaction in MR environments to improve interpersonal communication and accessibility with avatars. He is currently researching in various funded projects to explore new technologies for human motion capture and sign language based on sensor fusion and machine learning.
 
 
-{{< figure src="2560px-TH_Koeln_Logo.svg.png" >}}
+{{< figure src="2560px-TH_Koeln_Logo.svg.png" width="20%" >}}
