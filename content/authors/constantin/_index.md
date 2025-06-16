@@ -81,4 +81,4 @@ Constantin is a PhD candidate at the Professorship for Machine Intelligence in O
 
 Constantin was supported by a scholarship from Siemens Healthineers and the Digital Health Innovation Platform (d.hip) from 2021-2023. Thank you!
 
-{{< figure src="scholarship.png" >}}
+{{< figure src="scholarship.png" width="40%">}}

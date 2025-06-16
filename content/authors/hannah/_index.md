@@ -84,4 +84,4 @@ She also supports KARVIMIO and SABERGUIDE. Previously, she completed her Bachelo
 
 Hannah's research in Germany was funded for three years (2021-2023) by a scholarship from the Digital Health Innovation Platform (d.hip). Her research stay in New Zealand was funded by a DAAD scholarship for computer scientists (02/2024-06/2024). Many thanks to you!
 
-{{< figure src="scholarship.png" >}}
+{{< figure src="scholarship.png" width="40%">}}
