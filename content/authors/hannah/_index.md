@@ -82,8 +82,6 @@ Hannah is a PhD student at the Chair of Machine Intelligence in Orthopaedics / H
 She is currently researching 3D representations for extended reality content generation and user experience.
 She also supports KARVIMIO and SABERGUIDE. Previously, she completed her Bachelor's degree at the HS Aalen and her Master's degree at the TH Ingolstadt, both in Computer Science. During her studies, she gained industry experience at MAPAL Dr. Kress KG, c-Com GmbH, Carl Zeiss AG and AUDI AG.
 
-Hannah's research in Germany was funded for three years by a scholarship from the Digital Health Innovation Platform (d.hip). Her research stay in New Zealand was funded by a DAAD scholarship for computer scientists. Many thanks to you!
-
-Translated with DeepL.com (free version)
+Hannah's research in Germany was funded for three years (2021-2023) by a scholarship from the Digital Health Innovation Platform (d.hip). Her research stay in New Zealand was funded by a DAAD scholarship for computer scientists (02/2024-06/2024). Many thanks to you!
 
 {{< figure src="scholarship.png" >}}
