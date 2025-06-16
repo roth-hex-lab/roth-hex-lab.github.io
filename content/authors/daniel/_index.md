@@ -10,7 +10,7 @@ last_name: Roth
 superuser: true
 
 # Role/position
-role: Head 
+role: Director 
 
 # Organizations/Affiliations
 organizations:
