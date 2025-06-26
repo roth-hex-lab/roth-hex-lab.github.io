@@ -1,7 +1,7 @@
 ---
-title: PhD Position in Robotics (Aerial robotics, robotic navigation, and path planning)
-date: 2025-05-01
-summary: "The Learning Systems and Robotics (LSY) Lab (https://www.ce.cit.tum.de/lsy/home/) and the Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (part-time employment is possible) (salary based on TVL-E13 pay grade, Bavaria). [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionAerialDrone.pdf) "
+title: PhD/PostDoc Position in Robotics (Aerial robotics, robotic navigation, and path planning)
+date: 2025-06-26
+summary: "The Learning Systems and Robotics (LSY) Lab (https://www.ce.cit.tum.de/lsy/home/) and the Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD/PostDoc position (part-time employment is possible) (salary based on TVL-E13 pay grade, Bavaria). [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionAerialDrone.pdf) "
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -27,7 +27,7 @@ comments: false  # Show comments?
 
 ---
 
-The Learning Systems and Robotics (LSY) Lab (https://www.ce.cit.tum.de/lsy/home/) and the Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (part-time employment is possible) (salary based on TVL-E13 pay grade, Bavaria). 
+The Learning Systems and Robotics (LSY) Lab (https://www.ce.cit.tum.de/lsy/home/) and the Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD/PostDoc position (part-time employment is possible) (salary based on TVL-E13 pay grade, Bavaria). 
 The position is affiliated with the School of Computation, Information, and Technology. The Learning Systems and Robotics Lab, under the management of Prof. Angela Schoellig, is motivated by the vision of a seamless interaction of robotic systems with the physical world.
 In particular, LSY lab research interests are centered around the challenges associated with robots operating in increasingly unstructured, uncertain and changing environments, and over long periods of time. These situations challenge current robot designs, which rely on knowing the specifics of the environment and task ahead of time to operate safely and efficiently. 
 
@@ -37,24 +37,22 @@ We pursue fundamental, translational, and radical blue-sky research to improve m
 Furthermore, the appointee will be collaborating with the Mobile Robotics Lab at ETH Zurich, being established by Prof. Stefan Leutenegger, formerly at TUM: the lab has vast expertise in Spatial AI including SLAM, 3D scene reconstruction and understanding, as well as its use onboard drones navigating unknown and cluttered environments. 
 
 ## About the Position 
-Together, we seek a highly motivated PhD candidate to work on cutting-edge research in Aerial Robotics. The candidate will conduct high-quality research, publish in top-tier venues, and collaborate with interdisciplinary teams across robotics, medicine, computation, and technology. 
-We are seeking a motivated PhD candidate to join our team(s) and collaborative project. 
-It focuses on smart rescue guidance leveraging drones for 3D mapping and high-quality rendering techniques as well as real-time algorithms for autonomous aerial exploration locally and remotely. 
-You as a candidate will focus on developing intelligent drone systems for emergency applications. In this role, you will design and optimize autonomous drone navigation in complex and dynamic environments. 
-You will contribute to a system for real-time capturing and reconstruction of traffic accidents, enabling accurate and efficient scene exploration. 
-A core part of your work will involve advanced autonomous drone navigation and control based on real-time state estimation and 3D reconstruction involving multi-sensor fusion and potentially modern learning-based approaches (e.g. DUST3R/MONST3R). 
-
-This position requires a high motivation to work at a high-level on robotics and machine intelligence. 
+Together, we seek a highly motivated candidate to work on cutting-edge research in Aerial Robotics.  The candidate will conduct high-quality research, publish in top-tier venues, and collaborate with interdisciplinary teams across robotics, medicine, computation, and technology.
+We are seeking a motivated candidate to join our team(s) and collaborative project. It focuses on smart rescue guidance leveraging drones for 3D mapping and high-quality rendering techniques as well as real-time algorithms for autonomous aerial exploration locally and remotely. 
+You as a candidate will focus on developing intelligent drone systems for emergency applications. In this role, you will design and optimize autonomous drone navigation in complex and dynamic environments. You will contribute to a system for real-time capturing and reconstruction of traffic accidents, enabling accurate and efficient scene exploration.
+A core part of your work will involve advanced autonomous drone navigation and control based on real-time state estimation and 3D reconstruction involving multi-sensor fusion and potentially modern learning-based approaches. This position requires a high motivation to work at a high-level on robotics and machine intelligence. 
 
 ## Requirements 
-Applicants must hold a Master’s degree (or equivalent) in Computer Science, Electrical Engineering, Robotics, AI, or a related field. 
-Strong programming skills in relevant languages, SDKs, and frameworks (e.g., ROS, Python, C++ , TensorFlow/PyTorch, OpenCV, ROS, Unity) are required. Experience with (and/or) machine learning/deep learning, real-time systems, hardware integration is required. 
-We are looking for a team player with strong problem-solving skills, an excellent research mindset, and a passion for interdisciplinary collaboration. Candidates should be willing to get engaged into team tasks and are encouraged to engage in teaching activities. 
+_PhD_: Applicants must hold a Master’s degree (or equivalent) in Computer Science, Electrical Engineering, Robotics, AI, or a related field.
+_PostDoc_: Applicants must hold a PhD in Computer Science, Electrical Engineering, Robotics, AI, or a related field. A track record publishing at top-tier conferences or journals like IEEE ICRA, IEEE/CVF CVPR/ICCV, IEEE T-RO or alike.
+
+_General Requirements_: We expect the candidate to have strong programming skills in relevant languages, SDKs, and frameworks (e.g., ROS, Python, C++, TensorFlow/PyTorch, OpenCV, ROS, Unity) are required. Experience with (and/or) machine learning/deep learning, real-time systems, hardware integration is required. 
+We are looking for a team player with strong problem-solving skills, an excellent research mindset, and a passion for interdisciplinary collaboration. Candidates should be willing to get engaged into team tasks and are encouraged to engage in teaching activities.
 
 # Application Process 
 Interested applicants should submit: 
 - One-page academic CV 
-- Two-page research statement outlining their proposed PhD thesis (identifying a research problem and planning their research approach while reflecting on their skills and past experiences, emphasizing a clear research vision and referencing to the state-of-the-art) 
+- Two-page research statement outlining their proposed PhD thesis / PostDoc research interest (identifying a research problem and planning their research approach while reflecting on their skills and past experiences, emphasizing a clear research vision and referencing to the state-of-the-art) 
 - Academic transcripts, research publications (if applicable), and two references 
 
 - 📩 Apply via email: hannah.schieber@tum.de 
