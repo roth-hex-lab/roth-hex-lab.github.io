@@ -44,6 +44,7 @@ A core part of your work will involve advanced autonomous drone navigation and c
 
 ## Requirements 
 _PhD_: Applicants must hold a Master’s degree (or equivalent) in Computer Science, Electrical Engineering, Robotics, AI, or a related field.
+
 _PostDoc_: Applicants must hold a PhD in Computer Science, Electrical Engineering, Robotics, AI, or a related field. A track record publishing at top-tier conferences or journals like IEEE ICRA, IEEE/CVF CVPR/ICCV, IEEE T-RO or alike.
 
 _General Requirements_: We expect the candidate to have strong programming skills in relevant languages, SDKs, and frameworks (e.g., ROS, Python, C++, TensorFlow/PyTorch, OpenCV, ROS, Unity) are required. Experience with (and/or) machine learning/deep learning, real-time systems, hardware integration is required. 
