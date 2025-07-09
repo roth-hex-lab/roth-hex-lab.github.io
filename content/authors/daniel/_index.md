@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant professor at TU Munich and head of the HEX Lab
+bio: Assistant professor at TU Munich and Director of the HEX Lab
 
 interests:
   - Human-Centered Computing
@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Head
+  - Director
 ---
 
-Daniel is assistant professor (W2) at Technical University of Munich, Klinikum rechts der Isar and head of the HEX Lab. Before, he was Junior Professor (W1) at Friedrich-Alexander University (FAU). Prior to his appointments, he was senior research scientist of Prof. Nassir Navab the [Chair for Computer Aided Medical Procedures and Augmented Reality, Technical University of Munich (TUM), Germany](https://www.in.tum.de/campar/members/). He received his doctoral degree in Computer Science in 2019 from the [University of Würzburg (HCI Group)](http://hci.uni-wuerzburg.de/) supervised by Prof. Marc Erich Latoschik. His thesis focused on intrapersonal, interpersonal, and hybrid aspects of virtual reality. He received his Engineering Masters degree in Media- and Imaging Technology from the [University of Applied Sciences Cologne (TH Köln)](https://www.th-koeln.de/studium/medientechnologie-master_1126.php).
+Daniel is assistant professor (W2) at Technical University of Munich, Klinikum rechts der Isar and Director of the HEX Lab. Before, he was Junior Professor (W1) at Friedrich-Alexander University (FAU). Prior to his appointments, he was senior research scientist of Prof. Nassir Navab the [Chair for Computer Aided Medical Procedures and Augmented Reality, Technical University of Munich (TUM), Germany](https://www.in.tum.de/campar/members/). He received his doctoral degree in Computer Science in 2019 from the [University of Würzburg (HCI Group)](http://hci.uni-wuerzburg.de/) supervised by Prof. Marc Erich Latoschik. His thesis focused on intrapersonal, interpersonal, and hybrid aspects of virtual reality. He received his Engineering Masters degree in Media- and Imaging Technology from the [University of Applied Sciences Cologne (TH Köln)](https://www.th-koeln.de/studium/medientechnologie-master_1126.php).
