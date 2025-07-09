@@ -1,7 +1,7 @@
 ---
-title: PhD Position in Simulation Engineering/Biomechanics (Biomechanic Simulation)
-date: 2025-05-02
-summary: "The Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (part-time employment is possible) (salary based on TVL-E13 pay grade, Bavaria). [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhDPositionSimulation.pdf) "
+title: PhD/PostDoc Position in XR (Mixed-, Virtual-, Augmented-, Cross-Reality)
+date: 2025-07-02
+summary: "The Human-Centered Computing and Extended Reality (HEX) Lab (https://hex-lab.io) at Technical University of Munich (TUM) is offering a fully funded, full-time PhD position (part-time employment is possible) (salary based on TVL-E13 pay grade, Bavaria). [Position Description (PDF)](https://github.com/roth-hex-lab/roth-hex-lab.github.io/raw/master/content/open_position/PhD_PostdocAR_VR.pdf) "
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
