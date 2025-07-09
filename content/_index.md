@@ -222,6 +222,10 @@ sections:
         
         ### PhD / Postdoc
         If you have a strong research / study background in the areas of XR, HCI, Computer Vision, Medical Engineering, or Robotics, drop us a mail and we'll get back to you.
+        Interested applicants should submit: 
+          - One-page academic CV 
+          - Two-page research statement outlining their proposed PhD thesis / PostDoc research interest (identifying a research problem and planning their research approach while reflecting on their skills and past experiences, emphasizing a clear research vision and referencing to the state-of-the-art) 
+          - Academic transcripts, research publications (if applicable), and two references 
 
         Please send all application related mail to hex-application.ortho@mh.tum.de.
         
