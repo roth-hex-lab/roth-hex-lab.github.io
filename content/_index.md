@@ -237,7 +237,7 @@ sections:
         
         ---
         
-        ### Currently we offer two positions: 
+        ### Currently we offer the following positions: 
 
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
@@ -261,7 +261,7 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '4'
       # Choose a listing view
       view: compact
       # For Showcase view, flip alternate rows?
