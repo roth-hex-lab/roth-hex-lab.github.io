@@ -228,8 +228,7 @@ sections:
           - One-page academic CV 
           - Two-page research statement outlining their proposed PhD thesis / PostDoc research interest (identifying a research problem and planning their research approach while reflecting on their skills and past experiences, emphasizing a clear research vision and referencing to the state-of-the-art) 
           - Academic transcripts, research publications (if applicable), and two references 
-
-        Please send all application related mail to hex-application.ortho@mh.tum.de.
+          - Please send all application related mail to hex-application.ortho@mh.tum.de.
        
         ---
         *Currently we offer the following positions:* 
@@ -256,7 +255,7 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       # Choose a listing view
       view: compact
       # For Showcase view, flip alternate rows?
