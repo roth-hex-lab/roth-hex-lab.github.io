@@ -218,8 +218,9 @@ sections:
           - page
       text: |
         ---
-        
-        
+        ### Student
+        We are currently not looking for student lab assistants. Please check back later or reach out to us.
+        ---
         ### PhD / Postdoc
         If you have a strong research / study background in the areas of XR, HCI, Computer Vision, Medical Engineering, or Robotics, drop us a mail and we'll get back to you.
         Interested applicants should submit: 
@@ -228,16 +229,8 @@ sections:
           - Academic transcripts, research publications (if applicable), and two references 
 
         Please send all application related mail to hex-application.ortho@mh.tum.de.
-        
-        *Two open positions can be found below.*
-        
         ---
-        ### Student
-        We are currently not looking for student lab assistants. Please check back later or reach out to us.
-        
-        ---
-        
-        ### Currently we offer the following positions: 
+        *Currently we offer the following positions:* 
 
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
@@ -261,7 +254,7 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '4'
+      columns: '1'
       # Choose a listing view
       view: compact
       # For Showcase view, flip alternate rows?
