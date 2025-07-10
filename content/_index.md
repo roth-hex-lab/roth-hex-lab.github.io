@@ -261,9 +261,9 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '4'
+      columns: '2'
       # Choose a listing view
-      view: showcase
+      view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
@@ -275,7 +275,7 @@ sections:
       text: |
         Prof. Dr. Daniel Roth<br>
         Technical University of Munich<br>
-        Klinikum rechts der Isar<br>
+        TUM University Hospital<br>
         Machine Intelligence in Orthopedics<br>
         Human-Centered Computing and Extended Reality Lab<br>
       # Contact details - edit or remove options as needed
