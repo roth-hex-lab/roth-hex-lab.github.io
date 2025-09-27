@@ -232,7 +232,7 @@ sections:
           - Please send all application related mail to hex-application.ortho@mh.tum.de.
        
         ---
-        *Currently we offer the following positions:* 
+      # *Currently we offer the following positions:* 
 
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
