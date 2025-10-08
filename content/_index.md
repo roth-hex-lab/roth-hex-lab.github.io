@@ -74,6 +74,8 @@ sections:
       show_role: true
       # Show user's organizations/affiliations?
       show_organizations: false
+      view: compact
+      columns: '2'
 
   - block: portfolio
     id: projects
@@ -204,7 +206,7 @@ sections:
   - block: portfolio
     id: vacancies
     content:
-      title: Open Positions
+      title: Apply
       filters:
         # Folders to display content from
         folders:
