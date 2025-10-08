@@ -77,7 +77,6 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: 3
-      spacing: md
 
   - block: portfolio
     id: projects
