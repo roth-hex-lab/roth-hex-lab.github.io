@@ -63,7 +63,7 @@ sections:
         - Student Assistants
         - Visiting Researchers
         - Alumni
-      sort_by: Params.last_name
+      sort_by: Params.first_name
       sort_ascending: true
     design:
       # Show user's social networking links? (true/false)
@@ -74,8 +74,6 @@ sections:
       show_role: true
       # Show user's organizations/affiliations?
       show_organizations: false
-      view: compact
-      columns: '2'
 
   - block: portfolio
     id: projects
