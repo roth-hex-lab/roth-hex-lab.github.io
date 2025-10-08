@@ -38,6 +38,8 @@ featured: true
 links:
 - name: Project Page
   url: 'https://hannahhaensen.github.io/SCGS/'
+- name: Paper
+  url: 'https://ieeexplore.ieee.org/abstract/document/10937476'
 
 url_pdf: ''
 url_code: ''
