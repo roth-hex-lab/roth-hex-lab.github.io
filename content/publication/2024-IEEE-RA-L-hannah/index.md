@@ -26,8 +26,8 @@ publishDate: "2024-11-17T00:00:00Z"
 publication_types: ["paper-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE RA-L*"
-publication_short: "RA-L 2024"
+publication: "*IEEE Robotics and Automation Letters*"
+publication_short: "IEEE RA-L 2024"
 
 abstract: | 
   The accurate reconstruction of dynamic scenes with neural radiance fields is significantly dependent on the estimation of camera poses. Widely used structure-from-motion pipelines encounter difficulties in accurately tracking the camera trajectory when faced with separate dynamics of the scene content and the camera movement. To address this challenge, we propose Dynamic Motion-Aware Fast and Robust Camera Localization for Dynamic Neural Radiance Fields (DynaMoN). DynaMoN utilizes semantic segmentation and generic motion masks to handle dynamic content for initial camera pose estimation and statics-focused ray sampling for fast and accurate novel-view synthesis. Our novel iterative learning scheme switches between training the NeRF and updating the pose parameters for an improved reconstruction and trajectory estimation quality. The proposed pipeline shows significant acceleration of the training process. We extensively evaluate our approach on two real-world dynamic datasets, the TUM RGB-D dataset and the BONN RGB-D Dynamic dataset. DynaMoN improves over the state-of-the-art both in terms of reconstruction quality and trajectory accuracy. We plan to make our code public to enhance research in this area.

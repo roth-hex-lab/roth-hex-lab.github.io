@@ -23,7 +23,7 @@ publication_types: ["journal article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Visualization and Computer Graphics*"
-publication_short: "TVCG"
+publication_short: "IEEE TVCG"
 
 abstract: |
   Collaboration is a key aspect of immersive visual data analysis. Due to its inherent benefit of seeing co-located collaborators, augmented reality is often useful in such collaborative scenarios. However, to enable the augmentation of the real environment, there are different types of technology available. While there are constant developments in specific devices, each of these device types provide different premises for collaborative visual data analysis. In our work we combine handheld, optical see-through and video see-through displays to explore and understand the impact of these different device types in collaborative immersive analytics. We conducted a mixed-methods collaborative user study where groups of three performed a shared data analysis task in augmented reality with each user working on a different device, to explore differences in collaborative behaviour, user experience and usage patterns. Both quantitative and qualitative data revealed differences in user experience and usage patterns. For collaboration, the different display types influenced how well participants could participate in the collaborative data analysis, nevertheless, there was no measurable effect in verbal communication. 

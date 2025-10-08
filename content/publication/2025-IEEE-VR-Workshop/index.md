@@ -24,8 +24,8 @@ publishDate: "2025-03-24T00:00:00Z"
 publication_types: ["workshop-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE VR Workshop*"
-publication_short: "Workshop VR 2025"
+publication: "*IEEE Conference on Virtual Reality and 3D User Interfaces Extended Abstracts and Workshops (VRW) 2025*"
+publication_short: "IEEE VRW 2025"
 
 abstract: | 
     Objective: Extended reality (XR) teleconsultation is used in surgery and medical emergencies, employing various technological approaches that differ in accuracy, timeliness, and user preference. 

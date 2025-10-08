@@ -22,8 +22,8 @@ publishDate: "2022-12-24T00:00:00Z"
 publication_types: ["poster-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE VR*"
-publication_short: "VR 2022"
+publication: "*IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2022*"
+publication_short: "IEEE VR 2022"
 
 abstract: |
   Persons affected by blindness or visual impairments are challenged by spatially understanding unfamiliar environments. To obtain such understanding, they have to sense their environment closely and carefully. Especially objects outside the sensing area of analog assistive devices, such as a white cane, are simply not perceived and can be the cause of collisions. This project proposes a mixed reality guidance system that aims at preventing such problems. We use object detection and the 3D sensing capabilities of a mixed reality head mounted device to inform users about their spatial surroundings.

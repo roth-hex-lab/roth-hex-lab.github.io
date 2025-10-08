@@ -22,8 +22,8 @@ publishDate: "2024-05-06T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Computer Assisted Radiology and Surgery*"
-publication_short: "IJCARS"
+publication: "*Sprigner International Journal of Computer Assisted Radiology and Surgery*"
+publication_short: "Springer IJCARS"
 
 abstract: |
   **Purpose** 

@@ -23,7 +23,7 @@ publishDate: "2024-10-10T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ACM VRST*"
+publication: "*ACM ACM Symposium on Virtual Reality Software and Technology (VRST) 2024*"
 publication_short: "VRST 2024"
 
 abstract: | 

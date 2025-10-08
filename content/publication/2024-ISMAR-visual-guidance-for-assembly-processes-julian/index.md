@@ -22,8 +22,8 @@ publishDate: "2024-10-17T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE ISMAR*"
-publication_short: "ISMAR 2024"
+publication: "*IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2024*"
+publication_short: "IEEE ISMAR Demo 2024"
 
 abstract: |
   Augmented reality (AR) can improve users' efficiency in various tasks. AR allows to guide a user with superimposed information, for example, during an assembly process. While paper-based assembly instructions are cumbersome and time-consuming, deep-learning driven AR-based instructions can dynamically adapt to the assembly scene and augmented 3D information over the physical objects (in-situ). We present KARVIMIO, an AR assembly guidance application for instruments based on 3D printed parts as reproducible testbed. Our approach utilizes purely synthetic training data for pose estimation to allow an easy generalization of the approach to new assembly groups and other areas of use. 

@@ -23,8 +23,8 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["poster-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*2023 IEEE International Symposium on Mixed and Augmented Reality*"
-publication_short: "ISMAR"
+publication: "*IEEE International Symposium on Mixed and Augmented Reality 2023*"
+publication_short: "IEEE ISMAR 2023"
 
 abstract: |
   To foster the understanding of the consequences of one’s actions on climate change, low-threshold accessible and understandable content is needed. Virtual Reality (VR) has emerged as a valuable tool in the field of sustainable development education. However, there remains a lack of practical approaches and empirical insights into fostering climate change awareness through an eco-embodiment perspective. Our prototype addresses this gap by immersing users in a VR experience that simulates an everyday life scenario. The player’s activities are calculated as if the entire population of Earth would exhibit such a behavior. At the end of the simulation, they are presented with the long-term scaled global consequences for the environment. Our preliminary evaluation demonstrates the effectiveness of this communication method but also reveals necessary gameplay optimizations toward longitudinal pre/post studies to quantify users’ learning and behavioral changes. 

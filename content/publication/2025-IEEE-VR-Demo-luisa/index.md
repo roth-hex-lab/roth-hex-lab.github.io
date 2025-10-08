@@ -23,8 +23,8 @@ publishDate: "2025-03-24T00:00:00Z"
 publication_types: ["demo-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE VR Demo*"
-publication_short: "Demo VR 2025"
+publication: "*IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2025*"
+publication_short: "IEEE VR Demo 2025"
 
 abstract: | 
     VR simulations are becoming essential for staff training in clinical care, specifically in environments that cannot be trained well during regular operation, such as critical care. This paper presents a novel system that aims at further closing the gap between simulation and reality by integrating real patient data into immersive training scenarios in the context of acute care. Focused on sepsis recognition, the VR simulation introduces trainees to clinical routines and to make informed decisions while observing the evolving patient conditions. By engaging with dynamic disease progression, it fosters understanding of critical conditions in a time-sensitive context. Preliminary feedback from a pilot assessment with nursing professionals highlighted its value for trainees and potential to enhance preparedness and decision-making skills in real-world scenarios.

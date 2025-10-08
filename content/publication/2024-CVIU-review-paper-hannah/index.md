@@ -22,8 +22,8 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computer Vision and Image Understanding*"
-publication_short: "CVIU"
+publication: "*Elsevier Computer Vision and Image Understanding*"
+publication_short: "Elsevier CVIU"
 
 abstract: |
   Objective: Deep learning-based object recognition, 6D pose estimation, and semantic scene under-

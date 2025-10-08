@@ -30,8 +30,8 @@ publishDate: "2024-06-13T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*"
-publication_short: "CVPR 2022"
+publication: "*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*"
+publication_short: "IEEE/CVF CVPR 2024"
 
 abstract: |
   Estimating 6D object poses is a major challenge in 3D computer vision. Building on successful instance-level approaches, research is shifting towards category-level pose estimation for practical applications. Current category-level datasets, however, fall short in annotation quality and pose variety. Addressing this, we introduce HouseCat6D, a new category-level 6D pose dataset. It features 1) multi-modality with Polarimetric RGB and Depth (RGBD+P), 2) encompasses 194 diverse objects across 10 household categories, including two photometrically challenging ones, and 3) provides high-quality pose annotations with an error range of only 1.35 mm to 1.74 mm. The dataset also includes 4) 41 large-scale scenes with comprehensive viewpoint and occlusion coverage, 5) a checkerboard-free environment, and 6) dense 6D parallel-jaw robotic grasp annotations. Additionally, we present benchmark results for leading category-level pose estimation networks.

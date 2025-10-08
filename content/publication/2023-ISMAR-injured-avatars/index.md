@@ -24,7 +24,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Visualization and Computer Graphics*"
-publication_short: "TVCG"
+publication_short: "IEEE TVCG"
 
 abstract: |
   Human cognition relies on embodiment as a fundamental mechanism. Virtual avatars allow users to experience the adaptation, control, and perceptual illusion of alternative bodies. Although virtual bodies have medical applications in motor rehabilitation and therapeutic interventions, their potential for learning anatomy and medical communication remains underexplored.

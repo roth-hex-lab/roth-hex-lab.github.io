@@ -22,8 +22,8 @@ publishDate: "2023-12-24T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE ISMAR*"
-publication_short: "ISMAR 2024"
+publication: "*IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2023*"
+publication_short: "IEEE ISMAR 2023"
 
 abstract: |
   Integrating the real-world through the power of 3D reconstruction plays an essential role in extended reality teleconsultation. Video streams and voxel-based representations are common techniques for teleconsultation visualization. However, video streaming applications miss 3D content information, and voxel-based representation can only provide visual details with increasing computational costs. To enhance the classical voxel-based representation and address the timeliness of voxels, we present a modular approach which provides a point cloud overlay to highlight the latest update in the current camera frustum. Our approach applies state-of-the-art algorithms and custom packages within ROS to enable 3D reconstruction with dynamic cameras. We present a modular approach allowing the flexible exchange of the individual part, i.e. the camera or SLAM algorithm. This work presents results from a pilot study involving five participants to gain an impression of what kind of visualization type would be preferred and whether the point cloud overlay would assist the user in recognizing changes in the surroundings. The point cloud overlay enabled the participants to perceive more changes. The pilot study revealed that 60% of the participants showed a preference for the point cloud overlay over the pure mesh representation.

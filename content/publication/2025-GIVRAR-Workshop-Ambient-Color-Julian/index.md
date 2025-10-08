@@ -21,7 +21,7 @@ publication_types: ["abstract-workshop"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*GI VR/AR Workshop 2025*"
-publication_short: "GI VR/AR"
+publication_short: "GI VR/AR 2025"
 
 abstract: |
   Augmented reality (AR) offers innovative possibilities to support assembly processes, particularly in highly specialized environments such as operating rooms. This paper investigates how ambient aware color adaptation can improve the readability and usability of assembly instructions. Based on existing challenges in color perception in optical see-through AR displays, an algorithm is developed and empirically evaluated that dynamically adapts the contrast of the menu background color to the physical environment. The implementation uses the HoloLens 2 and is based on a modified Michelson contrast calculation to ensure the best visibility of instructions in bright environments. The method is evaluated by a user study in which eight participants performed an assembly task under different lighting conditions. The results show that adaptive color matching had no significant disadvantages for usability, while general AR interaction and control were perceived as more challenging.

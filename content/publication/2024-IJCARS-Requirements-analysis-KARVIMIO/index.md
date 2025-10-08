@@ -30,8 +30,8 @@ publishDate: "2024-06-07T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Computer Assisted Radiology and Surgery*"
-publication_short: "IJCARS"
+publication: "*Springer International Journal of Computer Assisted Radiology and Surgery*"
+publication_short: "Springer IJCARS"
 
 abstract: |
   We aim to investigate the integration of augmented reality (AR) within the context of increasingly complex surgical procedures and instrument handling toward the transition to smart operating rooms (OR). In contrast to cumbersome paper-based surgical instrument manuals still used in the OR, we wish to provide surgical staff with an AR head-mounted display that provides in-situ visualization and guidance throughout the assembly process of surgical instruments. Our requirement analysis supports the development and provides guidelines for its transfer into surgical practice.
