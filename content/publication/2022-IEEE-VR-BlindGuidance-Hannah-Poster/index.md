@@ -70,5 +70,9 @@ projects: []
 slides: ""
 ---
 
+{{% callout note %}}
+We gratefully acknowledge funding for this study by d.hip campus.
+{{% /callout %}}
+
 
 
