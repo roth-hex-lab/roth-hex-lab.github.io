@@ -37,8 +37,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-# - name: Project Page
-#  url: 'https://hannahhaensen.github.io/SCGS/'
+- name: Paper
+  url: 'https://ieeexplore.ieee.org/abstract/document/10972859'
 
 url_pdf: ''
 url_code: ''
