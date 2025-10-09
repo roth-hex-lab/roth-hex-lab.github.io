@@ -221,7 +221,7 @@ sections:
           - page
       text: |
         ---
-           
+        Interested in working with us? Find out more here, depending on your career level, we offer different options. Interested in a thesis with us? Check out the student tab.
         ---
       # *Currently we offer the following positions:* 
 
@@ -247,7 +247,7 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       # Choose a listing view
       view: compact
       # For Showcase view, flip alternate rows?
