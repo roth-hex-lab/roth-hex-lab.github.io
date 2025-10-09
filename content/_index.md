@@ -173,7 +173,7 @@ sections:
          - Robotics & Exoskeletons
          - Digital Health
 
-        If you are interested, please send your transcript of records, CV and motivation to the respective supervisor with CC to hex-thesis.ortho@mh.tum.de.
+        If you are interested, please click on 'Apply' and check out the application details for a thesis or project with us.
         
         ### Lectures and Seminars
       # Field to sort by, such as Date or Title
