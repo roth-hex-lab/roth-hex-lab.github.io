@@ -17,7 +17,7 @@ publishDate: "2025-09-10T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["abstract-workshop"]
+publication_types: ["workshop"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*GI VR/AR Workshop 2025*"
