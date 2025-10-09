@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2020-11-24T00:00:00Z"
-doi: "10.1109/ISMAR50242.2020.00045}"
+doi: "10.1109/ISMAR50242.2020.00045"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-24T00:00:00Z"
