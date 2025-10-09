@@ -24,7 +24,7 @@ publishDate: "2020-11-24T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE International Symposium on Mixed and Augmented Reality 2020*"
+publication: "*IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2020*"
 publication_short: "IEEE ISMAR 2020"
 
 abstract: |
