@@ -247,7 +247,8 @@ sections:
         
         ---
         
-        ### PhD (Doctoral Candidate)/PostDoc (Senior Researcher) We regularly recruit outstanding talent. If you have a strong technical research/study background in the areas of XR, Robotics, HCI, Computer Vision, and Medical Engineering, and you would like to work in the medical context, feel encouraged to apply.
+        ### PhD (Doctoral Candidate)/PostDoc (Senior Researcher) 
+        We regularly recruit outstanding talent. If you have a strong technical research/study background in the areas of XR, Robotics, HCI, Computer Vision, and Medical Engineering, and you would like to work in the medical context, feel encouraged to apply.
         #### PhD Application Documents
         Interested applicants should submit:
           - One page motivation letter 
