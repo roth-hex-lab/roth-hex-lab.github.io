@@ -52,7 +52,7 @@ Interested applicants should submit:
   - Academic transcripts
   - A reference letter and two further references for contact (mentor/supervisor/collaborator)
         
-Please provide the documents in a single pdf in the order above. Please send all application related mail to hex-application.ortho@m[at].tum.de
+Please provide the documents in a single pdf in the order above. Please send all application related mail to hex-application.ortho[at]mh.tum.de
 
 Please note that incomplete applications will not be processed/responded to. You may ask for confirmation of completeness.
         
