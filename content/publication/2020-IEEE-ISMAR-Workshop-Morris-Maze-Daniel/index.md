@@ -1,5 +1,5 @@
 ---
-title: "Construction of the Virtual Embodiment Questionnaire (VEQ)"
+title: "A Virtual Morris Water Maze to Study Neurodegenarative Disorders"
 authors:
 - Daniel Roth
 - Christian Felix Purps
