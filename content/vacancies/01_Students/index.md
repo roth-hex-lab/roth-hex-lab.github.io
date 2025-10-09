@@ -27,7 +27,6 @@ comments: false  # Show comments?
 
 ---
 
-### Students
 #### Lab assistant/student assistant/teaching assistant
 We usually post available lab assistant/student assistant/teaching assistant positions here on our website. 
 If you can't find anything there and you see a strong overlap with our interests, feel free to send an email to: 

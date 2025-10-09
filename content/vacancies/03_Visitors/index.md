@@ -27,15 +27,14 @@ comments: false  # Show comments?
 
 ---
 
-### Visiting Researchers
 We encourage and embrace the visit and collaboration of junior and senior researchers for temporary stays in our lab. We support three common formats:
-#### Daily visit (Senior Researchers) 
+### Daily visit (Senior Researchers) 
 Short-term visits can be arranged on the basis of collaborative proposals or research talks. Please get in contact with daniel.roth[{at}]tum.de. Note that we cannot financially support short-term visits unless project-oriented funding is available.
         
-#### Short-term stay (Senior Researchers)
+### Short-term stay (Senior Researchers)
 Staying for a week or two with the lab is possible for senior researchers on sabbatical or research semesters, or for project-specific workshops and research projects. Funding should be taken care of by the visitor or applied for through national/international offers.
         
-#### Long-term stay (Junior and Senior Researchers)
+### Long-term stay (Junior and Senior Researchers)
 We encourage both junior and senior researchers to interact with us on a long-term basis. Funding can be acquired through various programs of TUM and national funding agencies. However, please be aware that planning should be performed well in advance.
         
 Please send all application-related mail to hex-application.ortho[at]mh.tum.de and CC daniel.roth[at]tum.de
