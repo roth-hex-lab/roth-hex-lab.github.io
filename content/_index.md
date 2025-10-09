@@ -221,7 +221,7 @@ sections:
           - page
       text: |
         
-        ### Interested in working with us? Find out more here, depending on your career level, we offer different options. Interested in a thesis with us? Check out the student tab.
+        ### Interested in working or researching with us? Find out more below. Depending on your career level, we offer different options.
         
         ---
       # *Currently we offer the following positions:* 
