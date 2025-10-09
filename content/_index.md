@@ -223,7 +223,6 @@ sections:
         
         ### Interested in working or researching with us? Find out more below. Depending on your career level, we offer different options.
         
-        ---
       # *Currently we offer the following positions:* 
 
       # Field to sort by, such as Date or Title
