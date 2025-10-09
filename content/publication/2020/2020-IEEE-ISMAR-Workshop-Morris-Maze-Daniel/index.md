@@ -17,7 +17,7 @@ publishDate: "2020-11-24T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["workshop"]
+publication_types: ["workshop-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "**IEEE International Symposium on Mixed and Augmented Reality Workshop (ISMARW)2020*"

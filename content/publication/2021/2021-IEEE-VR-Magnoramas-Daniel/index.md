@@ -23,7 +23,7 @@ publishDate: "2021-03-30T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper-conference"]
+publication_types: ["conference-paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2021*"

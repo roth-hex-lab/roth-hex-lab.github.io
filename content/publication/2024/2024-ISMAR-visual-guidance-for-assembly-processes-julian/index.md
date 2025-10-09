@@ -19,7 +19,7 @@ publishDate: "2024-10-17T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper-conference"]
+publication_types: ["conference-paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2024*"

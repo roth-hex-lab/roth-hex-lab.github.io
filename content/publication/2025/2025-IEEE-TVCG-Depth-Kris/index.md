@@ -1,5 +1,5 @@
 ---
-title: "Sonify Anything: Towards Context-Aware Sonic Interactions in AR"
+title: "Investigating the Impact of Video Pass-Through Embodiment on Presence and Performance in Virtual Reality"
 authors:
 - Kristoffer Waldow
 - Constantin Kleinbeck
@@ -10,7 +10,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2025-03-12T00:00:00Z"
-doi: ""
+doi: "10.1109/TVCG.2025.3549891"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-03-12T00:00:00Z"
@@ -18,7 +18,7 @@ publishDate: "2025-03-12T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper-journal"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Visualization and Computer Graphics*"
