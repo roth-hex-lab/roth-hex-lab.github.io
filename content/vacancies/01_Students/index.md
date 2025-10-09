@@ -1,7 +1,7 @@
 ---
 title: Students (Assistant/Thesis/Projects)
 date: 2025-10-01
-summary: "Check this out if you are interested in a lab assistant, student assistant, teaching assistant or thesis with us."
+summary: "Check this out if you are interested in a assistant position or thesis with us."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
