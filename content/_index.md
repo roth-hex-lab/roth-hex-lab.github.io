@@ -221,7 +221,8 @@ sections:
           - page
       text: |
         
-        ### Interested in working or researching with us? Find out more below. Depending on your career level, we offer different options.
+        ### 
+        Interested in working or researching with us? Find out more below. Depending on your career level, we offer different options.
         
       # *Currently we offer the following positions:* 
 
