@@ -287,7 +287,8 @@ sections:
         
         #### Long-term stay (Junior and Senior Researchers)
         We encourage both junior and senior researchers to interact with us on a long-term basis. Funding can be acquired through various programs of TUM and national funding agencies. However, please be aware that planning should be performed well in advance.
-        Please send all application-related mail to hex-application.ortho@mh.tum.de and CC daniel.roth]at[tum.de
+        
+        Please send all application-related mail to hex-application.ortho[at]mh.tum.de and CC daniel.roth]at[tum.de
                
         ---
       # *Currently we offer the following positions:* 
