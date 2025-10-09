@@ -252,7 +252,8 @@ sections:
       # Choose a listing view
       view: compact
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: false     
+      show_date: false
 
   - block: contact
     id: contact
