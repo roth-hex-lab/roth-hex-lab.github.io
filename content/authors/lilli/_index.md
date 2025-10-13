@@ -18,7 +18,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
-  - Medicine
+  - Clinical gait analysis
+  - Orthopedics/orthopedic biomechanics
+  - Artificial Intelligence
 education:
   courses:
     - course: Medicine
@@ -53,4 +55,4 @@ email: ''
 user_groups:
   - Researchers
 ---
-Liliana is in her ninth semester studying human medicine at LMU. 
+Liliana is in her ninth semester studying human medicine at LMU. She is interested in clinical gait analysis, orthopedics/orthopedic biomechanics, and Artificial Intelligence (AI) for gait analysis.
