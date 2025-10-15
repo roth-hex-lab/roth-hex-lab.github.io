@@ -1,6 +1,6 @@
 ---
 title: Live Broadcast
-date: 2025-10-21
+date: 2025-10-14
 summary: >
     Live Broadcast: Prof. Eric Topol – “AI’s Transformation of Medicine, Life Science, and our Healthspan”, 27 October 2025, Time: 18:15, Location: Lecture Hall A, TUM Klinikum Rechts der Isar.
 image:
