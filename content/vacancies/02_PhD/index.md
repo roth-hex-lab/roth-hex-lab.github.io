@@ -31,7 +31,7 @@ comments: false  # Show comments?
 We regularly recruit outstanding talent. If you have a strong technical research/study background in the areas of XR, Robotics, HCI, Computer Vision, and Medical Engineering, and you would like to work in the medical context, feel encouraged to apply.
 #### PhD Application Documents
 Interested applicants should submit:
-  - One page motivation letter 
+  - One-page motivation letter 
   - One-page academic CV
   - Two-page research statement outlining your proposed PhD thesis research interest (identifying a research problem and planning your research approach while reflecting on your skills and past experiences, emphasizing a clear research vision and referencing to the state-of-the-art)
   - Academic transcripts
@@ -45,7 +45,7 @@ Please note that incomplete applications will not be processed/responded to. You
 ### PostDoc (Senior Researcher)
 #### PostDoc Application Documents
 Interested applicants should submit:
-  - One page motivation letter
+  - One-page motivation letter
   - Up to two pages academic CV (including experience in teaching, supervision, and funding)
   - List of publications
   - Two-page research statement outlining your proposed PostDoc research interest and  growth strategy
