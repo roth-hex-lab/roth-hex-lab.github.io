@@ -30,7 +30,7 @@ comments: false  # Show comments?
 #### Lab assistant/student assistant/teaching assistant
 We usually post available lab assistant/student assistant/teaching assistant positions here on our website. 
 If you can't find anything there and you see a strong overlap with our interests, feel free to send an email to: 
-hex-thesis.ortho[at]mh.tum.de. The email should include:
+hex-application.ortho[at]mh.tum.de. The email should include:
   - One page motivation letter, please describe why you want to work with us and what skills/experience you can bring to the group as well as what are your learning expectations
   - One-page academic CV
   - Academic transcripts 
