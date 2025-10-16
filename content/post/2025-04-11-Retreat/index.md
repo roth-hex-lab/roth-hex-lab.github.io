@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ Reitenhaslach 2025
+title: HEX-Lab @ Raitenhaslach 2025
 date: 2025-04-11
 summary: >
     
