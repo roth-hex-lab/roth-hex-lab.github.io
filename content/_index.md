@@ -59,7 +59,7 @@ sections:
         - Director
         - Senior Research Scientists
         - Researchers
-        - External Affiliated Researchers
+        - Affiliated Researchers
         - Student Assistants
         - Visiting Researchers
         - Alumni

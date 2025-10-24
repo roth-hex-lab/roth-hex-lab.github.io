@@ -10,7 +10,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 # Role/position
-role: PhD Candidate
+role: Medical Student, Doctoral Candidate
 # Organizations/Affiliations
 organizations:
   - name: LMU Munich
@@ -53,6 +53,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Affiliated Researchers
 ---
-Liliana is in her ninth semester studying human medicine at LMU. She is interested in clinical gait analysis, orthopedics/orthopedic biomechanics, and Artificial Intelligence (AI) for gait analysis.
+Liliana is in her ninth semester studying human medicine at LMU and a doctoral candidate in medicine. She is interested in clinical gait analysis, orthopedics/orthopedic biomechanics, and Artificial Intelligence (AI) for gait analysis.
