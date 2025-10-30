@@ -73,7 +73,7 @@ slides: ""
 ---
 
 {{% callout note %}}
-The authors wish to thank Andreas Keller for his help in carrying out the user study. This work was supported by the German Federal Ministry of Education and Research (BMBF) as part of the project ArtekMed (Grant No. 16SV8092)
+The authors wish to thank Andreas Keller for his help in carrying out the user study. This work was supported by the German Federal Ministry of Research, Technology and Space (BMFTR) as part of the project ArtekMed (Grant No. 16SV8092)
 {{% /callout %}}
 
 

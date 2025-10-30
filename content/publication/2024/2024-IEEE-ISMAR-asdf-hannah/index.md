@@ -74,7 +74,7 @@ slides: ""
 <br>
 
 {{% callout note %}}
-We gratefully acknowledge funding for this study by d.hip campus and Bundesministerium für Bildung und Forschung (BMBF) with the grant number 16SV8973.
+We gratefully acknowledge funding for this study by d.hip campus and Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) with the grant number 16SV8973.
 {{% /callout %}}
 
 

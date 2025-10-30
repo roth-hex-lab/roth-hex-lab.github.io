@@ -72,7 +72,7 @@ slides: ""
 <br>
 
 {{% callout note %}}
-We gratefully acknowledge funding for this work by BMBF (project KARVIMIO, grant number 16SV8973).
+We gratefully acknowledge funding for this work by BMFTR (project KARVIMIO, grant number 16SV8973).
 {{% /callout %}}
 
 
