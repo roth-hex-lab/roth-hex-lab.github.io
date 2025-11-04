@@ -10,7 +10,7 @@ last_name: Li
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: PhD 
+    - course: Doctoral Candidate 
       institution: FAU Erlangen / TU Munich
       year: 2022 - now
     - course: MSc in Automotive Engineering
@@ -73,4 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Shiyu is a PhD candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. His research interests include 6D pose estimation, 3D object tracking and AR assembly guidance. He has some Engineering backgrounds in the fields of AI, Robotics, Mechanical Engineering during his bachelor and master study.
+Shiyu is a Doctoral candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. His research interests include 6D pose estimation, 3D object tracking and AR assembly guidance. He has some Engineering backgrounds in the fields of AI, Robotics, Mechanical Engineering during his bachelor and master study.

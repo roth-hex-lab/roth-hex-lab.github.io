@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ education:
     - course: Guest Researcher 
       institution: Johns hopkins University, Baltimore, ARCADE Lab
       year: 2023
-    - course: PhD 
+    - course: Doctoral Candidate 
       institution: FAU Erlangen / TU Munich
       year: 2021 - now
     - course: MSc in Human Computer Interaction
@@ -77,7 +77,7 @@ user_groups:
 
 ---
 
-Constantin is a PhD candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. His research interests include Virtual and Augmented Reality, 3D Rendering, Interactivity and AI. Before embarking on the trip to receive a PhD, he worked as a software developer and consultant for Accenture and Capgemini after receiving finishing a Masters in Human Computer Interaction at the University of Würzburg.
+Constantin is a Doctoral candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. His research interests include Virtual and Augmented Reality, 3D Rendering, Interactivity and AI. Before embarking on the trip to receive a PhD, he worked as a software developer and consultant for Accenture and Capgemini after receiving finishing a Masters in Human Computer Interaction at the University of Würzburg.
 
 Constantin was supported by a scholarship from Siemens Healthineers and the Digital Health Innovation Platform (d.hip) from 2021-2023. Thank you!
 

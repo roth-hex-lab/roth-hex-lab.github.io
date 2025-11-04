@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: 'https://cg.web.th-koeln.de/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kristoffer is a PhD candidate at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the TH Köln, Computer Graphics research group. His field of interest is Mixed Reality (MR) technologies, especially human-computer interaction in MR environments to improve interpersonal communication and accessibility with avatars.
+bio: Kristoffer is a Doctoral candidate at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the TH Köln, Computer Graphics research group. His field of interest is Mixed Reality (MR) technologies, especially human-computer interaction in MR environments to improve interpersonal communication and accessibility with avatars.
 
 interests:
   - Mixed Reality
@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-    - course: PhD 
+    - course: Doctoral Candidate 
       institution: FAU Erlangen / TU Munich / TH Köln
       year: 2022-now
     - course: MSc in Media Technology 
@@ -76,7 +76,7 @@ user_groups:
 
 ---
 
-Kristoffer is a PhD candidate at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the TH Köln, Computer Graphics research group. His field of interest is Mixed Reality (MR) technologies, especially human-computer interaction in MR environments to improve interpersonal communication and accessibility with avatars. He is currently researching in various funded projects to explore new technologies for human motion capture and sign language based on sensor fusion and machine learning.
+Kristoffer is a Doctoral candidate at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the TH Köln, Computer Graphics research group. His field of interest is Mixed Reality (MR) technologies, especially human-computer interaction in MR environments to improve interpersonal communication and accessibility with avatars. He is currently researching in various funded projects to explore new technologies for human motion capture and sign language based on sensor fusion and machine learning.
 
 
 {{< figure src="2560px-TH_Koeln_Logo.svg.png" width="20%" >}}

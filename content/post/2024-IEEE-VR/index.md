@@ -6,7 +6,7 @@ image:
   focal_point: 'top'
 ---
 
-We are happy to present two papers and four posters at this year's IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2024. Great work and success by our PhDs and students. We're very happy to also receive a best poster award.
+We are happy to present two papers and four posters at this year's IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2024. Great work and success by our Doctoral Candidates and students. We're very happy to also receive a best poster award.
 
 ### Journal
 **A Study on Collaborative Visual Data Analysis in Augmented Reality with Asymmetric Display Types**

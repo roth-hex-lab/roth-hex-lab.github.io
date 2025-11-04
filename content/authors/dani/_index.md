@@ -10,7 +10,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 # Role/position
-role: PhD Candidate
+role: Doctoral Candidate
 # Organizations/Affiliations
 organizations:
   - name: TU Munich
@@ -23,7 +23,7 @@ interests:
   - Wearables
 education:
   courses:
-    - course: PhD
+    - course: Doctoral Candidate
       institution: Technical Univeristy Munich (TUM)
       year: 2025 - now
     - course: M. Sc. in Informatics
@@ -61,4 +61,4 @@ email: ''
 user_groups:
   - Researchers
 ---
-Daniel is a PhD candidate at the Professorship for Machine Intelligence in Orthopaedics at the Technical University of Munich. His research interests lie in Artificial Intelligence, focusing on computer vision and the intersection between Machine Learning, wearable devices and sensor data. He received his bachelor’s degree in Computer Science from the University of Freiburg and completed his master’s degree in Informatics at the Technical University of Munich.
+Daniel is a Doctoral Candidate at the Professorship for Machine Intelligence in Orthopaedics at the Technical University of Munich. His research interests lie in Artificial Intelligence, focusing on computer vision and the intersection between Machine Learning, wearable devices and sensor data. He received his bachelor’s degree in Computer Science from the University of Freiburg and completed his master’s degree in Informatics at the Technical University of Munich.

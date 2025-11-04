@@ -10,7 +10,7 @@ last_name: Theelke
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: PhD
+    - course: Doctoral Candidate
       institution: FAU Erlangen-Nürnberg / TU Munich, Germany
       year: since Dec. 2021
     - course: M.Sc. in Medical Engineering
@@ -73,7 +73,7 @@ user_groups:
   - Researchers
 ---
 
-Luisa is a PhD candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. During her PhD, she focuses on infection prediction and decision support in acute care and investigates how new AI-driven human-computer interaction interfaces can be embedded into clinical routines. She received her bachelor's and master's degrees in medical engineering from FAU Erlangen-Nürnberg.
+Luisa is a Doctoral candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. During her doctorate, she focuses on infection prediction and decision support in acute care and investigates how new AI-driven human-computer interaction interfaces can be embedded into clinical routines. She received her bachelor's and master's degrees in medical engineering from FAU Erlangen-Nürnberg.
 
 Luisa was supported by a scholarship from Siemens Healthineers and the Digital Health Innovation Platform (d.hip). From 2021-2023. Thank you!
 

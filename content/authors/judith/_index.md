@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Judith is a PhD student at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the University of Applied Sciences Upper Austria, Human Interfaces & Virtual Environments research group.
+bio: Judith is a Doctoral Candidate at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the University of Applied Sciences Upper Austria, Human Interfaces & Virtual Environments research group.
 
 
 interests:
@@ -67,6 +67,6 @@ user_groups:
 
 ---
 
-Judith is a PhD student at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the University of Applied Sciences Upper Austria, Human Interfaces & Virtual Environments research group. During her PhD, she focuses on the empiric evaluation of cross-reality applications. During her work as a research associate, she has worked in foundational and industry research projects focusing on cross reality, data visualisation and interface design.
+Judith is a Doctoral Candidate at the Technical University of Munich, Human-Centered Computing and Extended Reality Lab and a research associate at the University of Applied Sciences Upper Austria, Human Interfaces & Virtual Environments research group. During her PhD, she focuses on the empiric evaluation of cross-reality applications. During her work as a research associate, she has worked in foundational and industry research projects focusing on cross reality, data visualisation and interface design.
 
 {{< figure src="austria.png" >}}

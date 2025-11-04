@@ -1,7 +1,7 @@
 ---
-title: PhD (Doctoral Candidate)/PostDoc (Senior Researcher)
+title: Doctoral Candidate/PostDoc Researchers
 date: 2025-10-01
-summary: "Find out more about our PhD and Postdoc application process."
+summary: "Find out more about our Doctoral Candidate and Postdoc application process."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -29,11 +29,11 @@ comments: false  # Show comments?
 
 ### PhD (Doctoral Candidate)
 We regularly recruit outstanding talent. If you have a strong technical research/study background in the areas of XR, Robotics, HCI, Computer Vision, and Medical Engineering, and you would like to work in the medical context, feel encouraged to apply.
-#### PhD Application Documents
+#### PhD (Doctoral Candidate) Application Documents
 Interested applicants should submit:
   - One-page motivation letter 
   - One-page academic CV
-  - Two-page research statement outlining your proposed PhD thesis research interest (identifying a research problem and planning your research approach while reflecting on your skills and past experiences, emphasizing a clear research vision and referencing to the state-of-the-art)
+  - Two-page research statement outlining your proposed thesis research interest (identifying a research problem and planning your research approach while reflecting on your skills and past experiences, emphasizing a clear research vision and referencing to the state-of-the-art)
   - Academic transcripts
   - List of publications (if applicable)
   - A reference letter and one further references to contact (previous mentor/supervisor)
