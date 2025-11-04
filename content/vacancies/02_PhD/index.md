@@ -1,7 +1,7 @@
 ---
-title: Doctoral Candidate/PostDoc
+title: Doctoral Candidate/PostDoc (Senior Researcher)
 date: 2025-10-01
-summary: "Find out more about our Doctoral Candidate and Postdoc application process."
+summary: "Find out more about our Doctoral Candidate and Postdoc (Senior Researcher) application process."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
