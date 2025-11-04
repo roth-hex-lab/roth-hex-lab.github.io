@@ -10,7 +10,7 @@ last_name: Kreimeier
 superuser: false
 
 # Role/position
-role: PostDoc Researchers
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:

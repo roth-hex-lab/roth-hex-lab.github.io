@@ -1,5 +1,5 @@
 ---
-title: Doctoral Candidate/PostDoc Researchers
+title: Doctoral Candidate/PostDoc
 date: 2025-10-01
 summary: "Find out more about our Doctoral Candidate and Postdoc application process."
 
