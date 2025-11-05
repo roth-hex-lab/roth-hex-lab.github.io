@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Luisa T
+title: Luisa Theelke
 
 # Full name (for SEO)
 first_name: Luisa
-last_name: T
+last_name: Theelke
 
 # Username (this should match the folder name)
 authors:
