@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'shiyu.li@fau.de'
+email: 'shiyu.li@tum.de'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
