@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -75,6 +75,6 @@ user_groups:
 
 ---
 
-Victor is a PhD candidate at the Professorship for Machine Intelligence in Orthopaedics of the TU Munich. His research interest include Human-Robot-Interactions and how to develop and train robots to be more adaptive to user interactions and their use-cases. He has received both his bachelor's and master's degree in mechanical engineering and robotics, cognition, intelligence, respectively, from the TU Munich.
+Victor is a Doctoral candidate at the Professorship for Machine Intelligence in Orthopaedics of the TU Munich. His research interest include Human-Robot-Interactions and how to develop and train robots to be more adaptive to user interactions and their use-cases. He has received both his bachelor's and master's degree in mechanical engineering and robotics, cognition, intelligence, respectively, from the TU Munich.
 
 
