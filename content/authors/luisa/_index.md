@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Julian Kreimeier
+title: Luisa Theelke
 
 # Full name (for SEO)
-first_name: Hannah
-last_name: Schieber
+first_name: Luisa
+last_name: Theelke
 
 # Username (this should match the folder name)
 authors:

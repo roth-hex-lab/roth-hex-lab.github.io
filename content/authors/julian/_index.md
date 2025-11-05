@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hannah Schieber
+title: Julian Kreimeier
 
 # Full name (for SEO)
 first_name: Hannah
@@ -8,7 +8,7 @@ last_name: Schieber
 
 # Username (this should match the folder name)
 authors:
-  - luisa
+  - julian
 
 # Is this the primary user of the site?
 superuser: false
