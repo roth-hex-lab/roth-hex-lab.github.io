@@ -11,7 +11,7 @@ superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Julian
+  - julian
 
 # Role/position
 role: Senior Researcher
@@ -22,7 +22,8 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: To Do
+bio: |
+  To Do
 
 interests:
   - Extended Reality

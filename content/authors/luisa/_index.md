@@ -11,7 +11,7 @@ superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Luisa
+  - luisa
 
 # Role/position
 role: Doctoral Candidate
@@ -22,7 +22,8 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Luisa is a Doctoral candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich.
+bio: |
+  Luisa is a Doctoral candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich.
 
 interests:
   - Digital Health
