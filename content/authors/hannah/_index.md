@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -35,7 +35,7 @@ education:
     - course: Research Visit 
       institution: University of Otago, NZ
       year: 02/2024 - 07/2024
-    - course: Doctoral Candidate 
+    - course: PhD 
       institution: FAU Erlangen / TU Munich, Germany
       year: 2021 - now
     - course: MSc in Computer Science, Germany
@@ -78,7 +78,7 @@ user_groups:
 
 ---
 
-Hannah is a Doctoral Candidate at the Chair of Machine Intelligence in Orthopaedics / Human-Centered Computing and Extended Reality Lab at TU Munich. 
+Hannah is a PhD student at the Chair of Machine Intelligence in Orthopaedics / Human-Centered Computing and Extended Reality Lab at TU Munich. 
 She is currently researching 3D representations for extended reality content generation and user experience.
 She also supports KARVIMIO and SABERGUIDE. Previously, she completed her Bachelor's degree at the HS Aalen and her Master's degree at the TH Ingolstadt, both in Computer Science. During her studies, she gained industry experience at MAPAL Dr. Kress KG, c-Com GmbH, Carl Zeiss AG and AUDI AG.
 
