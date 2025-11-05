@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I studied medical engineering (Bachelor and Master) at FAU Erlangen and finished my PhD at TU Dresden and TH Nuernberg. My research interests include HCI and connections to AI, especially VR and AR as well as interdisciplinary applications.
+bio: To Do
 
 interests:
   - Extended Reality
