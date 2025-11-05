@@ -8,7 +8,7 @@ last_name: Theelke
 
 # Username (this should match the folder name)
 authors:
-  - luisa
+  - Luisa Theelke
 
 # Is this the primary user of the site?
 superuser: false
