@@ -6,12 +6,12 @@ title: Luisa Theelke
 first_name: Luisa
 last_name: Theelke
 
-# Is this the primary user of the site?
-superuser: false
-
 # Username (this should match the folder name)
 authors:
   - luisa
+
+# Is this the primary user of the site?
+superuser: false
 
 # Role/position
 role: Doctoral Candidate
