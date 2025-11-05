@@ -8,7 +8,7 @@ last_name: Schaack
 
 # Username (this should match the folder name)
 authors:
-  - victor
+  - Victor Schaack
 
 # Is this the primary user of the site?
 superuser: false

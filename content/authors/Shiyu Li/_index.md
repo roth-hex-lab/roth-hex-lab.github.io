@@ -9,6 +9,8 @@ last_name: Li
 # Is this the primary user of the site?
 superuser: false
 
+authors:
+  - Shiyu Li
 # Role/position
 role: Doctoral Candidate
 

@@ -8,7 +8,7 @@ last_name: Friedl-Knirsch
 
 # Username (this should match the folder name)
 authors:
-  - judith
+  - Judith Friedl-Knirsch
 
 # Is this the primary user of the site?
 superuser: false

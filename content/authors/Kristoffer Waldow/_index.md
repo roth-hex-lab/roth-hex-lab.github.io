@@ -8,7 +8,7 @@ last_name: Waldow
 
 # Username (this should match the folder name)
 authors:
-  - kris
+  - Kristoffer Waldow
 
 # Is this the primary user of the site?
 superuser: false

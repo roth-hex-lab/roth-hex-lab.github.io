@@ -1,42 +1,43 @@
 ---
 # Display name
-title: Elisabeth Schiele
+title: Hafize Nur Şahbudak
 
 # Full name (for SEO)
-first_name: Elisabeth
-last_name: Schiele
+first_name: Hafize Nur  
+last_name: Şahbudak
 
 # Username (this should match the folder name)
 authors:
-  - elisabeth
+  -  Hafize Nur Şahbudak
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc Student
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Technical University of Munich(TUM)
+  - name: Middle East Technical University(METU), Technical University of Munich(TUM)
     url: ''
  
 # Short bio (displayed in user profile at end of posts)
-bio: Elisabeth studies Informatics at the Technical University of Munich (TUM) and is a student assistant for the Human-Centered Computing and Extended Reality Lab at the Professorship for Machine Intelligence in Orthopedics. At HEX Lab she focuses on Semantic Segmentation of Endoscopic Videos. During her studies she specialises in Deep Learning for Medical Applications.
+bio: I am a computer engineer and a master's student in the Informatics department at the Technical University of Munich. 
 
 interests:
-  - Machine Vision for Medical Applications
-  - Artificial Intelligence
+  - Computer Vision
+  - Extended Reality
   - Human Computer Interaction
+  - BCI
 
 education:
   courses:   
-    - course: B.Sc. in Informatics, Germany
+    - course: MSc in Informatics, Germany
       institution: Technical University of Munich(TUM)
       year: now
-    - course: Research Internship
-      institution: Perception and Intelligence Lab, Sapienza University of Rome
-      year: 2022 - 2023
+    - course: BSc in Computer Engineering, Turkey
+      institution: Middle East Technical University(METU)
+      year: 2019 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,7 +46,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:elisbaeth.schiele@tum.de'
+    link: 'mailto:hafizenur.sahbudak@tum.de'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://linkedin.com/in/hafizenursahbudak
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,5 +66,5 @@ user_groups:
 
 ---
 
-Elisabeth studies Informatics at the Technical University of Munich (TUM) and is a student assistant for the Human-Centered Computing and Extended Reality Lab at the Professorship for Machine Intelligence in Orthopedics. At HEX Lab she focuses on Semantic Segmentation of Endoscopic Videos. During her studies she specialises in Deep Learning for Medical Applications.
+Hafize is an MSc student at the Department of Informatics, Technical University of Munich (TUM). She is a student assistant at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab at TUM, where she supports various research projects. Prior to this, she received her bachelor’s degree in Computer Engineering from Middle East Technical University (METU). During her studies, she gained industry experience at BEKO R&D Center.
 

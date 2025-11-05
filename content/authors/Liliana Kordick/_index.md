@@ -6,7 +6,7 @@ first_name: Liliana
 last_name: Kordick
 # Username (this should match the folder name)
 authors:
-  - lilli
+  - Liliana Kordick
 # Is this the primary user of the site?
 superuser: false
 # Role/position

@@ -8,7 +8,7 @@ last_name: Bildibay
 
 # Username (this should match the folder name)
 authors:
-  - doruk
+  - Doruk Bildibay
 
 # Is this the primary user of the site?
 superuser: false
