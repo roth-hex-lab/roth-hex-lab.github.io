@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Julian Kreimeier
+title: Hannah Schieber
 
 # Full name (for SEO)
 first_name: Hannah
