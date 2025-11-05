@@ -6,12 +6,12 @@ title: Julian Kreimeier
 first_name: Julian
 last_name: Kreimeier
 
-# Is this the primary user of the site?
-superuser: false
-
 # Username (this should match the folder name)
 authors:
-  - julian
+  - hannah
+
+# Is this the primary user of the site?
+superuser: false
 
 # Role/position
 role: Senior Researcher
@@ -23,7 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  To Do
+  I research human-computer interaction, accesibility and extended reality.
 
 interests:
   - Extended Reality
@@ -69,13 +69,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Senior Researcher
+  - Researchers
+
 ---
 
 Julian joined the HEX Lab as postdoctoral researcher in September 2022. He holds a bachelor’s and master’s degree in medical engineering from [FAU Erlangen-Nuernberg](https://www.medical-engineering.study.fau.eu/). In his Ph.D. project at [TU Dresden](https://tu-dresden.de/ing/informatik/ai/mci/die-professur) and [TH Nuernberg](https://www.th-nuernberg.de/einrichtungen-gesamt/wissenschaftliche-und-forschungskooperationen/nuremberg-campus-of-technology/ambient-intelligence/), he has been researching human-computer interaction, especially accessibility, i.e., Virtual Reality (VR), to support blind and visually impaired people. He has also been author in projects and publications in [transportation and urban planning](https://www.th-nuernberg.de/einrichtungen-gesamt/wissenschaftliche-und-forschungskooperationen/nuremberg-campus-of-technology/intelligente-verkehrsplanung/) and [communication of sustainability](https://www.th-nuernberg.de/einrichtungen-gesamt/wissenschaftliche-und-forschungskooperationen/nuremberg-campus-of-technology/technik-wirtschaft-gesellschaft/) in terms of Augmented Reality (AR) and Virtual Reality (VR). His research at TUM focuses on an Artificial intelligence (AI) based guidance systems to support the operating room team through multimodal interaction with AR glasses.
