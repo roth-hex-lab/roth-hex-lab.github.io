@@ -8,7 +8,7 @@ last_name: Kreimeier
 
 # Username (this should match the folder name)
 authors:
-  - julian
+  - Julian Kreimeier
 
 # Is this the primary user of the site?
 superuser: false
