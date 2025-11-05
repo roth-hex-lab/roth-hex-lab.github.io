@@ -6,6 +6,8 @@ title: Daniel Roth
 first_name: Daniel
 last_name: Roth
 
+authors:
+  - Daniel Roth
 # Is this the primary user of the site?
 superuser: true
 

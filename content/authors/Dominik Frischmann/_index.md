@@ -8,7 +8,7 @@ last_name: Frischmann
 
 # Username (this should match the folder name)
 authors:
-  - dominik
+  - Dominik Frischmann
 
 # Is this the primary user of the site?
 superuser: false

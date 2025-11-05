@@ -8,7 +8,7 @@ last_name: Mukashev
 
 # Username (this should match the folder name)
 authors:
-  - dimash
+  - Dimash Mukashev
 
 # Is this the primary user of the site?
 superuser: false
