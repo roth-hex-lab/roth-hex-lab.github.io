@@ -53,7 +53,7 @@ We are happy to present our demo "Visual Guidance for Assembly Processes" by Jul
 
 # Project Partners
 
-{{< spoiler text="Technische Universität München/Klinikum rechts der Isar (Project Lead)" >}}
+{{< spoiler text="Technische Universität München/Klinikum rechts der Isar" >}}
 **[Prof. Dr. Daniel Roth](https://hex-lab.io/author/daniel-roth/)** \
 \
 **[Dr. Julian Kreimeier](https://hex-lab.io/author/julian-kreimeier/)**\
