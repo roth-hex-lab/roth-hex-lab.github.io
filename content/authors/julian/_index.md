@@ -22,8 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: |
-  I research human-computer interaction, accesibility and extended reality.
+bio: I research human-computer interaction, accesibility and extended reality.
 
 interests:
   - Extended Reality
