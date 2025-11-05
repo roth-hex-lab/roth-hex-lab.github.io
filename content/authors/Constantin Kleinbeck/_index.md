@@ -8,7 +8,7 @@ last_name: Kleinbeck
 
 # Username (this should match the folder name)
 authors:
-  - constantin
+  - Constantin Kleinbeck
 
 # Is this the primary user of the site?
 superuser: false
