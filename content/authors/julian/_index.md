@@ -9,6 +9,10 @@ last_name: Kreimeier
 # Is this the primary user of the site?
 superuser: false
 
+# Username (this should match the folder name)
+authors:
+  - julian
+
 # Role/position
 role: Senior Researcher
 
