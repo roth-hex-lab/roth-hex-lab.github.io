@@ -11,7 +11,7 @@ superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - luisa
+  - Luisa
 
 # Role/position
 role: Doctoral Candidate
