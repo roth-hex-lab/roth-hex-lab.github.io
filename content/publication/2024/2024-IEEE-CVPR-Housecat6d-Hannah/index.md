@@ -1,11 +1,11 @@
 ---
 title: "HouseCat6D: A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios"
 authors:
-- HyunJun Jung+
-- Guangyao Zhai+
-- Shun-Cheng Wu+
-- Patrick Ruhkamp+
-- Hannah Schieber+
+- HyunJun Jung
+- Guangyao Zhai
+- Shun-Cheng Wu
+- Patrick Ruhkamp
+- Hannah Schieber
 - Giulia Rizzoli
 - Pengyuan Wang
 - Hongcheng Zhao
@@ -16,7 +16,6 @@ authors:
 - Benjamin Busam
 
 #author_notes:
-- "+Equal contribution"
 #- "Equal contribution"
 date: "2024-06-13T00:00:00Z"
 doi: ""
