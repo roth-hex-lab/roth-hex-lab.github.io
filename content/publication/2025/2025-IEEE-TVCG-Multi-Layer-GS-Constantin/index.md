@@ -2,7 +2,7 @@
 title: "Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization"
 authors:
 - Constantin Kleinbeck
-- Hannah Schieber
+- hannah
 - Klaus Engel
 - Ralf Gutjahr
 - Daniel Roth
