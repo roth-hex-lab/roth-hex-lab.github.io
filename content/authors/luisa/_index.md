@@ -3,12 +3,12 @@
 title: Luisa Theelke
 
 # Full name (for SEO)
-first_name: Luisa
-last_name: Theelke
+first_name: Hannah
+last_name: Schieber
 
 # Username (this should match the folder name)
 authors:
-  - luisa
+  - hannah
 
 # Is this the primary user of the site?
 superuser: false
