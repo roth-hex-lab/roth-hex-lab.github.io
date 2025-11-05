@@ -2,7 +2,7 @@
 # Display name
 title: Julian Kreimeier
 
-# Full Name (for SEO)
+# Full name (for SEO)
 first_name: Julian
 last_name: Kreimeier
 

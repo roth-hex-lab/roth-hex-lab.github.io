@@ -2,7 +2,7 @@
 # Display name
 title: Luisa Theelke
 
-# Full Name (for SEO)
+# Full name (for SEO)
 first_name: Luisa
 last_name: Theelke
 

@@ -2,7 +2,7 @@
 # Display name
 title: Shiyu Li
 
-# Full Name (for SEO)
+# Full name (for SEO)
 first_name: Shiyu
 last_name: Li
 
