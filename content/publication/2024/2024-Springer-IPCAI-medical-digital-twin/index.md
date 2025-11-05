@@ -83,7 +83,7 @@ slides: ""
 
 Presented at IPCAI 2024 in Barcelona. See the video below for a quick visual introduction.
 
-{{< video src="Constantin/MedicalDigitalTwin.mp4" controls="yes" >}}
+{{< video src="ConstantinContent/MedicalDigitalTwin.mp4" controls="yes" >}}
 
 <br>
 

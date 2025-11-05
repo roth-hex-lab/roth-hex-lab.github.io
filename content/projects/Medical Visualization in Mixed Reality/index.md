@@ -35,11 +35,11 @@ It is interesting to use immersive 3D display hardware, like Virtual or Augmente
 
 Current works in this research focus on bringing such visualizations to a broader set of devices via optimizations and intermediate representations like Gaussian Splatting [4]. Further research into the interaction affordances of such rendered anatomies is also planned. Using a game engine as a development platform allows us to look deeper into the affordances of cross-virtuality visualization, enabling a variety of mixed-reality and handheld devices to explore the same anatomy collaboratively.
 
-{{< figure src="Constantin/slicingvolume.png">}}
+{{< figure src="ConstantinContent/slicingvolume.png">}}
 
-{{< figure src="Constantin/spatialPlanning.png">}}
+{{< figure src="ConstantinContent/spatialPlanning.png">}}
 
-{{< figure src="Constantin/volumeRendering.png">}}
+{{< figure src="ConstantinContent/volumeRendering.png">}}
 
 
 [1] C. Kleinbeck et al., "Adaptive Volumetric Anatomy Visualization in VR with Tangible Control", in 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Sydney, Australia: IEEE, Oct. 2023, S. 613–614. doi: 10.1109/ISMAR-Adjunct60411.2023.00131.

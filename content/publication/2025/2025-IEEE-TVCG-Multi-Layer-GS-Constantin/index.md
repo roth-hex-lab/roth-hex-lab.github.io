@@ -73,7 +73,7 @@ slides: ""
 
 Presented at IEEE VR 2025 in St.Malo, France. See the video below for a quick visual introduction.
 
-{{< video src="Constantin/Multi-Layer_Anatomy_GS_Teaser.mp4" controls="yes" >}}
+{{< video src="ConstantinContent/Multi-Layer_Anatomy_GS_Teaser.mp4" controls="yes" >}}
 
 <br>
 
