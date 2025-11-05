@@ -8,7 +8,8 @@ last_name: Theelke
 
 # Is this the primary user of the site?
 superuser: false
-
+authors:
+  - luisa
 # Role/position
 role: Doctoral Candidate
 

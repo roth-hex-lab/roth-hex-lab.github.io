@@ -5,7 +5,8 @@ title: Julian Kreimeier
 # Full Name (for SEO)
 first_name: Julian
 last_name: Kreimeier
-
+authors:
+  - julian
 # Is this the primary user of the site?
 superuser: false
 
