@@ -57,7 +57,6 @@ We are happy to present our demo "Visual Guidance for Assembly Processes" by Jul
 **[Prof. Dr. Daniel Roth](https://hex-lab.io/author/daniel-roth/)** \
 \
 **[Dr. Julian Kreimeier](https://hex-lab.io/author/julian-kreimeier/)** \
-\
 
 {{< /spoiler >}}
 
