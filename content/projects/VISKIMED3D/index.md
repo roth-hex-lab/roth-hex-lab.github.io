@@ -56,8 +56,8 @@ We are happy to present our demo "Visual Guidance for Assembly Processes" by Jul
 {{< spoiler text="Technische Universität München/Klinikum rechts der Isar" >}}
 **[Prof. Dr. Daniel Roth](https://hex-lab.io/author/daniel-roth/)** \
 \
-**[Dr. Julian Kreimeier](https://hex-lab.io/author/julian-kreimeier/)**\
-
+**[Dr. Julian Kreimeier](https://hex-lab.io/author/julian-kreimeier/)** \
+\
 
 {{< /spoiler >}}
 
@@ -67,7 +67,7 @@ We are happy to present our demo "Visual Guidance for Assembly Processes" by Jul
 GiftGRÜN, a German SME founded in 2008, specializes in digital solutions for the healthcare sector and contributes its expertise in UX/UI development, project management, and multimodal data processing.
 
 
-{{< figure src="VISKIMED3D/GiftGruen.png" >}}
+{{< figure src="VISKIMED/GiftGruen.png" >}}
 
 **Patrick Heinker** | post@giftgruen.com\
 giftGRÜN GmbH Digitalagentur\
