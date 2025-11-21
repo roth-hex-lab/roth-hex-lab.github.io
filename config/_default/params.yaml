@@ -109,6 +109,7 @@ extensions:
     name: github
     repo: roth-hex-lab/roth-hex-lab.github.io
     branch: master
+    client_id: Ov23liJ7PtnoFCL2Xf65
     local_backend: false
   academicons:
     enable: true
