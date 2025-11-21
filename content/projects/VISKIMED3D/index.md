@@ -1,6 +1,6 @@
 ---
 title: VISKIMED3D
-date: 2025-12-01
+date: 2025-11-01
 summary: "VISKIMED3D is a two-year project funded by the Federal Ministry for Economic Affairs and Energy."
 
 # Cover image
