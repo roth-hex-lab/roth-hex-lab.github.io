@@ -106,7 +106,9 @@ features:
 
 extensions:
   decap_cms:
-    branch: main
+    name: github
+    repo: roth-hex-lab/roth-hex-lab.github.io
+    branch: master
     local_backend: false
   academicons:
     enable: true
