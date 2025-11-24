@@ -27,6 +27,8 @@ comments: false  # Show comments?
 
 ---
 
+We welcome, embrace, and respect diversity of people, identities, and cultures. We therefore encourage all potential fitting candidates, regardless of their personal background, to apply for the opportunity.
+
 ### PhD (Doctoral Candidate)
 We regularly recruit outstanding talent. If you have a strong technical research/study background in the areas of XR, Robotics, HCI, Computer Vision, and Medical Engineering, and you would like to work in the medical context, feel encouraged to apply.
 #### PhD (Doctoral Candidate) Application Documents
