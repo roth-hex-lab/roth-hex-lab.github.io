@@ -222,7 +222,11 @@ sections:
       text: |
         
         ### 
+        
+
         Interested in working or researching with us? Find out more below. Depending on your career level, we offer different options.
+        
+        We welcome, embrace, and respect diversity of people, identities, and cultures. We therefore encourage all potential fitting candidates, regardless of their personal background, to apply for the opportunity.
         
       # *Currently we offer the following positions:* 
 
