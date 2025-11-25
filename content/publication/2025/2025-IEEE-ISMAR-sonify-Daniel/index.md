@@ -36,6 +36,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: Paper
+  url: 'https://doi.org/10.1109/ISMAR67309.2025.00030'
 - name: Preprint
   url: 'https://arxiv.org/abs/2508.01789'
 
