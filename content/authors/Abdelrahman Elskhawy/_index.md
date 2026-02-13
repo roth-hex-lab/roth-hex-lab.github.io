@@ -40,7 +40,7 @@ education:
       institution: Technical Univeristy Munich (TUM)
       year: 2017 -2020
     - course: B. Sc. in Electronics and Communication 
-      institution: Cairo University (TUM)
+      institution: Cairo University
       year: 2008 - 2013
 
 
