@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include surgery robotics, exoskeletons and inclusion of AI into human-robot-interaction.
+bio: Abdelrahman's research interest span different topics in computer vision such as 3D scene understanding, Multi-view 3D reconstruction  6D pose estimation, and digital twins. Abdelrahman is currently involved in the ViskiMed 3D project.
 
 interests:
   - Scene understanding
@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:vic.schaack@tum.de'
+    link: 'mailto:a.elskhawy@tum.de'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
