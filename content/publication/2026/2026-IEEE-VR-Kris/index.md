@@ -24,7 +24,7 @@ publication: "*IEEE Conference on Virtual Reality and 3D User Interfaces (VR) 20
 publication_short: "IEEE VR 2026"
 
 abstract: | 
-    TBA
+    
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
