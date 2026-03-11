@@ -1,6 +1,6 @@
 ---
 title: HEX-Lab @ GRC 2026
-date: 2026-03-11
+date: 2026-03-10
 summary: >
     We are extremely excited to demonstrate our KARVIMIO project at the RIG booth at GRC!
 image:
