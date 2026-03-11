@@ -14,16 +14,16 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2018-12-24T00:00:00Z"
-doi: "10.1109/VR.2018.8446221"
+date: "2019-12-24T00:00:00Z"
+doi: "10.1109/TVCG.2019.2932224"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-12-24T00:00:00Z"
+publishDate: "2019-12-24T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["conference-paper"]
+publication_types: ["journal-paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Visualization and Computer Graphics*"
