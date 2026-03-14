@@ -1,5 +1,5 @@
 ---
-title: "SEvaluating Cutout Rendering Techniques for Pass-Through Embodiment Using a Real-Mirror Metaphor"
+title: "Evaluating Cutout Rendering Techniques for Pass-Through Embodiment Using a Real-Mirror Metaphor"
 authors:
 - Kristoffer Waldow
 - Arnulph Fuhrmann
