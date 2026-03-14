@@ -16,7 +16,7 @@ We have Shyiu Li presenting: MultiCam: On-the-fly Multi-Camera Pose Estimation U
 On this paper Shiyu worked with Hannah Schieber (HEX, TUM), Kristoffer Waldow (TH Köln, HEX, TUM), Julian Kreimeier (HEX, TUM), Benjamin Busam (TUM), and Daniel Roth (HEX, TUM)
 
 We have Kristoffer Waldow presenting: Evaluating Cutout Rendering Techniques for Pass-Through Embodiment Using a Real-Mirror Metaphor
-On this paper Kris worked with Arnullph Fuhrmann (TH Köln, HEX, TUM), and Daniel Roth (HEX, TUM)
+On this paper Kris worked with Arnulph Fuhrmann (TH Köln, HEX, TUM), and Daniel Roth (HEX, TUM)
 
 and Prof. Danny Schott (Otto von Guericke University Magdeburg) presenting: The Influence of Environmental Fidelity on Virtual Presence, Intrinsic Motivation, Cognitive Load and Learning Outcomes in Medical VR, accepted as TVCG paper.
-On this paper Danny worked with Danny Schott, Matthias Kunz, Claudia Schrader, Elias Ringler, Alexander Schwadtke, Jonas Mandel, Patrick Müller , Constantin Kleinbeck , Daniel Roth , Anne Albrecht , Rüdiger C. Braun-Dullaeus , and Christian Hansen
+On this paper Danny worked with Matthias Kunz, Claudia Schrader, Elias Ringler, Alexander Schwadtke, Jonas Mandel, Patrick Müller , Constantin Kleinbeck , Daniel Roth , Anne Albrecht , Rüdiger C. Braun-Dullaeus , and Christian Hansen
