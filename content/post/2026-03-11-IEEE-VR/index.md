@@ -19,7 +19,7 @@ We have Kristoffer Waldow presenting: Evaluating Cutout Rendering Techniques for
 On this paper Kristoffer Waldow worked with Arnulph Fuhrmann (TH Köln, HEX, TUM), and Daniel Roth (HEX, TUM)
 
 Furthermore, Kristoffer Waldow shows a demo: Seeing the Real Me: Experiencing Real-Body Pass-Through Embodiment and Interaction
-On this paper Kristoffer Waldow worked with Arnullph Fuhrmann (TH Köln, HEX, TUM), and Daniel Roth (HEX, TUM)
+On this paper Kristoffer Waldow worked with Arnulph Fuhrmann (TH Köln, HEX, TUM), and Daniel Roth (HEX, TUM)
 
 and Prof. Danny Schott (Otto von Guericke University Magdeburg) presenting: The Influence of Environmental Fidelity on Virtual Presence, Intrinsic Motivation, Cognitive Load and Learning Outcomes in Medical VR, accepted as TVCG paper.
 On this paper Danny Schott worked with Matthias Kunz, Claudia Schrader, Elias Ringler, Alexander Schwadtke, Jonas Mandel, Patrick Müller , Constantin Kleinbeck , Daniel Roth , Anne Albrecht , Rüdiger C. Braun-Dullaeus , and Christian Hansen
