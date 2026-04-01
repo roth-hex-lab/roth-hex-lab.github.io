@@ -1,5 +1,5 @@
 ---
-title: "SEvaluating Cutout Rendering Techniques for Pass-Through Embodiment Using a Real-Mirror Metaphor"
+title: "Evaluating Cutout Rendering Techniques for Pass-Through Embodiment Using a Real-Mirror Metaphor"
 authors:
 - Kristoffer Waldow
 - Arnulph Fuhrmann
@@ -17,7 +17,7 @@ publishDate: "2026-03-10T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["workshop-conference"]
+publication_types: ["journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Conference on Virtual Reality and 3D User Interfaces (VR) 2026*"
@@ -50,8 +50,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-# - name: Paper
-#  url: 'https://ieeexplore.ieee.org/document/10972879'
+- name: Preprint
+  url: 'https://www.researchgate.net/publication/400345934_Evaluating_Cutout_Rendering_Techniques_for_Pass-Through_Embodiment_Using_a_Real-Mirror_Metaphor'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -84,7 +84,6 @@ slides: ""
 ---
 
 
-<br>
 
 
 
