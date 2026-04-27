@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ IEEE VR 2024
+title: HEX @ IEEE VR 2024
 date: 2024-03-15
 summary: We are happy to present two papers and four posters at this year's IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2024. Great work and success by our PhDs and students.
 image:

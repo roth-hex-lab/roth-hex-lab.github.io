@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ GI VR/AR
+title: HEX @ GI VR/AR
 date: 2025-10-01
 summary: >
     Our team presented an exciting work on ambient color augmentation at GI VR AR 2025

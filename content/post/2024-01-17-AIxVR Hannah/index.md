@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ IEEE AIxVR 2024
+title: HEX @ IEEE AIxVR 2024
 date: 2024-01-17
 summary: >
   Hannah Schieber and Kristoffer Waldow presented two papers at IEEE AIxVR 2024. Great work and success by our PhDs and students.

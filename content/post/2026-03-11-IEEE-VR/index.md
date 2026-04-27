@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ IEEE VR 2026
+title: HEX @ IEEE VR 2026
 date: 2026-03-11
 summary: >
     We are extremely happy to announce that we will contribute to multiple papers at IEEE VR 2026 in Daegu, South Korea. Looking forward to presenting our work and discussing the latest advances with the immersive technologies community. See you in Daegu!
