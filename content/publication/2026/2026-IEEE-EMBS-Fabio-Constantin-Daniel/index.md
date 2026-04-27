@@ -1,5 +1,5 @@
 ---
-title: "MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects"
+title: "Reliability in Focus: Trust, Agency, Ownership, and Gaze Behavior in a VR Prosthesis Simulator"
 authors:
 - Fabio Egle
 - Constantin Kleinbeck
