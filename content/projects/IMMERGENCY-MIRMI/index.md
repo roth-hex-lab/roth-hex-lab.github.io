@@ -1,6 +1,6 @@
 ---
-title: IMMER-GENCY
-date: 2024-12-01
+title: IMMER-Gency
+date: 2024-06-01
 summary: "Immersive, real-time XR teleguidance for emergency scenarios."
 
 # Cover image
