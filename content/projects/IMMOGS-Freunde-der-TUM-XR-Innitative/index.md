@@ -1,7 +1,7 @@
 ---
 title: ImmoGS
 date: 2025-06-01
-summary: "Immersive "
+summary: "Immersive Gaussian Splatting for virtual apartment tours."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
