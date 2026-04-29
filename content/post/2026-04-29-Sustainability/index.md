@@ -1,6 +1,6 @@
 ---
 title: HEX @ Sustainability Day 2026
-date: 2026-03-11
+date: 2026-29-04
 summary: >
     HEX participates at the Sustainability Day 2026 at TUM.
 image:

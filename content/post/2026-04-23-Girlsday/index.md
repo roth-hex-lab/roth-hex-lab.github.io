@@ -1,6 +1,6 @@
 ---
 title: HEX @ Girlsday 2026
-date: 2026-03-11
+date: 2026-23-04
 summary: >
     From Real ORs to Virtual Worlds – Girls’ Day Recap.
 image:
