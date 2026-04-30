@@ -1,7 +1,7 @@
 ---
 title: Seminar - Computer Vision in the Operating Room (WS)
 date: 2023-12-01
-summary: "This seminar focuses on the latest methods in computer vision for applications in the operating room."
+summary: "This seminar focuses on the latest methods for computer vision in the operating room."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
