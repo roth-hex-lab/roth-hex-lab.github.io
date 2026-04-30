@@ -199,9 +199,9 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       # Choose a listing view
-      view: showcase
+      # view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
