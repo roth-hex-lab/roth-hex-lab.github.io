@@ -22,3 +22,14 @@ div.people-person {
 a {
   color: #217589;
 }
+
+.custom-preprint-btn {
+  color: #217589;           /* text color */
+  border-color: #217589;    /* outline color */
+}
+
+.custom-preprint-btn:hover {
+  color: #ffffff;           /* text on hover */
+  background-color: #217589;
+  border-color: #217589;
+}

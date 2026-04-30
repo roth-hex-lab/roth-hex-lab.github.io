@@ -1,7 +1,7 @@
 ---
 title: Robotics Institute Germany
 date: 2025-01-02
-summary: "The Robotics Institute Germany connects leading experts and talents in science, academia, and the industry."
+summary: "The Robotics Institute Germany connects leading experts in science, academia, and the industry."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
