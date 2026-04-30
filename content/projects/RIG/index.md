@@ -1,7 +1,7 @@
 ---
 title: Robotics Institute Germany
 date: 2025-01-02
-summary: "The Robotics Institute Germany (RIG) connects leading experts and talents in science, academia, and the industry to foster cutting-edge research, groundbreaking technologies, and transformative applications."
+summary: "The Robotics Institute Germany connects leading experts and talents in science, academia, and the industry."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
