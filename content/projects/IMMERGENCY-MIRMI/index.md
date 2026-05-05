@@ -30,7 +30,10 @@ Our project delivers immersive, real-time XR teleguidance for emergency and medi
 
 ### Publications / Preprints
 
-Under Review: Schieber, H., Frischmann, D., Schaack, V., Boche, S., Schoellig, A., Leutenegger, S., & Roth, D. (2025). CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus. arXiv preprint arXiv:2509.04859.
+_Under Review_
+Schieber, H., Frischmann, D., Schaack, V., Boche, S., Schoellig, A., Leutenegger, S., & Roth, D. (2025). CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus. arXiv preprint arXiv:2509.04859.
 
+_IEEE VR 2025 - Workshop_
+Schieber, H., Theelke, L., Wilhelm, D., Piazza, C., Eck, U., Kreimeier, J., & Roth, D. (2025, March). Extended Reality Teleconsultation for Medical Interventions: State of the Art and Perspectives. In 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 919-924). IEEE.
 
 The project was supported by Munich Institute of Robotics and Machine Intelligence (MIRMI) within their seed fund scheme.
