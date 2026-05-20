@@ -35,7 +35,7 @@ The overall goal of DEREK is the research and development to develop a decision 
 {{< spoiler text="Internal Kick Off 18.05.2026" >}}
 We are very happy to internally kick off our new project DEREK in collaboration with our partner Moticon. We look forward to the collaboration and the impact ahead!
 
-{{< figure src="DEREK/InternalKickOff.jpg" caption="Internal Kick Off" >}}
+{{< figure src="DEREK/InternalKickOff.jpeg" caption="Internal Kick Off" >}}
 
 {{< /spoiler >}}
 
