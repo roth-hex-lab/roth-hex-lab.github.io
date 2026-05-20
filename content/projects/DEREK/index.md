@@ -31,15 +31,15 @@ DEREK (German: (Datengetriebene Entscheidungsunterstützung für die Roboter-ass
 
 The overall goal of DEREK is the research and development to develop a decision support system that uses peri- and intraoperative data to enable patient-specific alignment of the implant, theragnostic patient care, and thus optimization of medical outcomes in knee arthroplasty. Compared to existing alignment techniques, which are based purely on imaging or intraoperative measurements and lead to unsatisfactory results, we are pursuing an innovative approach. Based on multi-source data, DEREK will generate an artificial intelligence (AI)-driven, personalized data model (patient twin) that, for the first time, allows the patient's own anatomy to be taken into account precisely in the alignment of the knee prosthesis.
 
-<!-- 
-{{< spoiler text="Internal Kick Off 01.08.2022" >}}
-Today we are very happy to internally kick off our new project KARVIMIO which is founded by the BMFTR. Our HEX Lab team will lead the project in collaboration with the medical experts from the LMU Klinikum, medtec specialists from Medability, and our colleagues from IAT who focus on participatory, ethical and security aspects.
 
-{{< figure src="KARVIMIO/InternalKickOff.jpg" caption="Internal Kick Off" >}}
+{{< spoiler text="Internal Kick Off 18.05.2026" >}}
+We are very happy to internally kick off our new project DEREK in collaboration with our partner Moticon. We look forward to the collaboration and the impact ahead!
+
+{{< figure src="DEREK/InternalKickOff.jpg" caption="Internal Kick Off" >}}
 
 {{< /spoiler >}}
 
-
+<!-- 
 
 # Publications
 
