@@ -150,6 +150,11 @@ In the third and last year of the KARVIMIO project, we reviewed the current stat
 
 # Publications
 
+{{< spoiler text="MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects @IEEE VR Conference 25.03.2026" >}}
+We are happy to present our paper "MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects" by Shiyu Li, Hannah Schieber, Kristoffer Waldow, Benjamin Busam, Julian Kreimeier, and Daniel Roth at IEEE VR 2026 in Daegu. 
+{{< figure src="KARVIMIO/Mutlicam.jpg" caption="" >}}
+{{< /spoiler >}}
+
 {{< spoiler text="Visual Guidance for Assembly Processes @IEEE ISMAR Conference 24.10.2024" >}}
 We are happy to present our demo "Visual Guidance for Assembly Processes" by Julian Kreimeier, Hannah Schieber, Shiyu Li, Alejandro Martin-Gomez, and Daniel Roth at  IEEE ISMAR 2024 in Seattle. 
 {{< figure src="KARVIMIO/KARVIMOdemo.png" caption="" >}}
