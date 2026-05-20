@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ ISMAR 2023
+title: HEX @ ISMAR 2023
 date: 2023-10-16
 summary: We are happy to present three papers and four posters at this year's International Symposium on Mixed and Augmented Reality (ISMAR) 2023. Great work and success by our PhDs and students.
 image:

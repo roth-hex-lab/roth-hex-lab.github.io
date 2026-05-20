@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ Automatica 2025
+title: HEX @ Automatica 2025
 date: 2025-06-22
 summary: >
     🤖 As part of RIG, HEXlab presented the current state of the KARVIMIO project at AUTOMATICA 2025!

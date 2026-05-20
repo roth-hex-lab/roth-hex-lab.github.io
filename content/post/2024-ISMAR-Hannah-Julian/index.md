@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ IEEE ISMAR 2024
+title: HEX @ IEEE ISMAR 2024
 date: 2024-10-16
 summary: >
     We are happy to announce that we present a paper on assembly state detection and pose estimation and a Demo on AR assembly guidance at ISMAR 2024.

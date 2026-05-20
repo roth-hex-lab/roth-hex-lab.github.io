@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ IEEE ICRA 2025 
+title: HEX @ IEEE ICRA 2025 
 date: 2025-04-30
 summary: >
     🚀 Exciting news! Our paper DynaMoN: Motion-Aware Fast and Robust Camera Localization for Dynamic Neural Radiance Fields has been accepted to IEEE RA-L and will also be presented at #ICRA2025! 🎉

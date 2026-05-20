@@ -18,3 +18,18 @@
 div.people-person {
   margin-bottom: 25px;
 }
+
+a {
+  color: #217589;
+}
+
+.btn-outline-primary {
+  color: #217589;           /* text color */
+  border-color: #217589;    /* outline color */
+}
+
+.btn-outline-primary:hover {
+  color: #ffffff;           /* text on hover */
+  background-color: #217589;
+  border-color: #217589;
+}

@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ IEEE VR 2025 
+title: HEX @ IEEE VR 2025 
 date: 2025-03-03
 summary: >
     Prof. Daniel Roth and his team are traveling to IEEE VR 2025. One of our papers received an honorable mention for the best paper award.

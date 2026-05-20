@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ IPCAI/CARS 2024
+title: HEX @ IPCAI/CARS 2024
 date: 2024-05-08
 summary: >
   Constantin Kleinbeck is presenting a journal publication at IPCAI in Barcelona. Elena Cramer, with our KARVIMIO project partner IAT, is also presenting a work as part of the CARS conference there.

@@ -1,5 +1,5 @@
 ---
-title: 3D Representations for Extended Reality Content Generation and User Experience
+title: 3D Representations for XR
 date: 2023-12-01
 summary: "Neural rendering and reconstruction for guidance and user experience."
 

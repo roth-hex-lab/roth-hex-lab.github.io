@@ -63,8 +63,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Student Assistants
+  - Alumni
 
 ---
 
-Dominik is an MSc student at the School of CIT, Technical University of Munich (TUM). He is a student assistant at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab at TUM, where he supports various research projects. 
+Dominik is a master student at the School of CIT, Technical University of Munich (TUM). He was a student assistant at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab at TUM (until May 2026), where he supported various research projects. 

@@ -1,5 +1,5 @@
 ---
-title: HEX-Lab @ Wintersemester 2025/2026
+title: HEX @ Wintersemester 2025/2026
 date: 2025-10-07
 summary: >
     Get ready for the next semester with us! We offer a lecture + exercise (XR) and a seminar (Computer Vision in the OR).
