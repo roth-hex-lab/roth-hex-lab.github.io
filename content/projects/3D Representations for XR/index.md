@@ -46,6 +46,8 @@ Therefore, she focuses on the second aspect of XR teleconsultation and product g
 
 During her 5 months research visit at the University of Otago, Hannah was funded by a DAAD stipend and paused her dhip stipend during that time. She continued researching on 3D representations for extended reality.
 
+# Publications
+
 {{< spoiler text="ARTFM: Augmented Reality Visualization of Tool Functionality Manuals in Operating Rooms @ IEEE VR Poster 2022" >}}
 [1] Kleinbeck, C., Schieber, H., Andress, S., Krautz, C., & Roth, D. (2022, March). ARTFM: Augmented Reality Visualization of Tool Functionality Manuals in Operating Rooms. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 736-737). IEEE.
 {{< /spoiler >}}
