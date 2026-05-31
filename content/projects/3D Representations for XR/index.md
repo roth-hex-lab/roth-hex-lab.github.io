@@ -48,48 +48,48 @@ During her 5 months research visit at the University of Otago, Hannah was funded
 
 # Publications
 
-{{< spoiler text="ARTFM: Augmented Reality Visualization of Tool Functionality Manuals in Operating Rooms @ IEEE VR Poster 2022" >}}
-[1] Kleinbeck, C., Schieber, H., Andress, S., Krautz, C., & Roth, D. (2022, March). ARTFM: Augmented Reality Visualization of Tool Functionality Manuals in Operating Rooms. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 736-737). IEEE.
+{{< spoiler text="[1] ARTFM: Augmented Reality Visualization of Tool Functionality Manuals in Operating Rooms @ IEEE VR Poster 2022" >}}
+Kleinbeck, C., Schieber, H., Andress, S., Krautz, C., & Roth, D. (2022, March). ARTFM: Augmented Reality Visualization of Tool Functionality Manuals in Operating Rooms. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 736-737). IEEE.
 {{< /spoiler >}}
 
-{{< spoiler text="ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation @ IEEE ISMAR 2024" >}}
-[2] Schieber, H., Li, S., Corell, N., Beckerle, P., Kreimeier, J., & Roth, D. (2024). ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation. IEEE ISMAR 2024
+{{< spoiler text="[2] ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation @ IEEE ISMAR 2024" >}}
+Schieber, H., Li, S., Corell, N., Beckerle, P., Kreimeier, J., & Roth, D. (2024). ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation. IEEE ISMAR 2024
 {{< /spoiler >}}
 
-{{< spoiler text="HouseCat6D--A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios @ IEEE/CVF CVPR 2024, Highlight" >}}
-[3] Jung, H.,* Zhai, G.,* Wu, S. C.,* Ruhkamp, P.,* Schieber, H.,* Rizzoli, G., ... & Busam, B. (2024). HouseCat6D--A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios. CVPR 2024, Highlight, *shared first author
+{{< spoiler text="[3] HouseCat6D--A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios @ IEEE/CVF CVPR 2024, Highlight" >}}
+Jung, H.,* Zhai, G.,* Wu, S. C.,* Ruhkamp, P.,* Schieber, H.,* Rizzoli, G., ... & Busam, B. (2024). HouseCat6D--A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios. CVPR 2024, Highlight, *shared first author
 {{< /spoiler >}}
 
-{{< spoiler text="GBOT: Graph-Based 3D Object Tracking for Augmented Reality-Assisted Assembly Guidance @ IEEE VR 2024" >}}
-[4] Li, S., Schieber, H., Corell, N., Egger, B., Kreimeier, J., & Roth, D. (2024). GBOT: Graph-Based 3D Object Tracking for Augmented Reality-Assisted Assembly Guidance. IEEE VR 2024
+{{< spoiler text="[4] GBOT: Graph-Based 3D Object Tracking for Augmented Reality-Assisted Assembly Guidance @ IEEE VR 2024" >}}
+Li, S., Schieber, H., Corell, N., Egger, B., Kreimeier, J., & Roth, D. (2024). GBOT: Graph-Based 3D Object Tracking for Augmented Reality-Assisted Assembly Guidance. IEEE VR 2024
 {{< /spoiler >}}
 
-{{< spoiler text="Indoor synthetic data generation: A systematic review @ CVIU 2023" >}}
-[5] Schieber, H., Demir, K. C., Kleinbeck, C., Yang, S. H., & Roth, D. (2024). Indoor synthetic data generation: A systematic review. Computer Vision and Image Understanding, 103907.
+{{< spoiler text="[5] Indoor synthetic data generation: A systematic review @ CVIU 2023" >}}
+Schieber, H., Demir, K. C., Kleinbeck, C., Yang, S. H., & Roth, D. (2024). Indoor synthetic data generation: A systematic review. Computer Vision and Image Understanding, 103907.
 {{< /spoiler >}}
 
-{{< spoiler text="MR-Sense: A Mixed Reality Environment Search Assistant for Blind and Visually Impaired People @ IEEE AIxVR 2024" >}}
-[6] Schieber, H., Kleinbeck, C., Theelke, L., Kraft, M., Kreimeier, J., & Roth, D. (2024, January). MR-Sense: A Mixed Reality Environment Search Assistant for Blind and Visually Impaired People. In 2024 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR) (pp. 166-175). IEEE.
+{{< spoiler text="[6] MR-Sense: A Mixed Reality Environment Search Assistant for Blind and Visually Impaired People @ IEEE AIxVR 2024" >}}
+Schieber, H., Kleinbeck, C., Theelke, L., Kraft, M., Kreimeier, J., & Roth, D. (2024, January). MR-Sense: A Mixed Reality Environment Search Assistant for Blind and Visually Impaired People. In 2024 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR) (pp. 166-175). IEEE.
 {{< /spoiler >}}
 
-{{< spoiler text="A mixed reality guidance system for blind and visually impaired people @ IEEE VR Poster 2022" >}}
-[7] Schieber, H., Kleinbeck, C., Pradel, C., Theelke, L., & Roth, D. (2022, March). A mixed reality guidance system for blind and visually impaired people. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 726-727). IEEE.
+{{< spoiler text="[7] A mixed reality guidance system for blind and visually impaired people @ IEEE VR Poster 2022" >}}
+Schieber, H., Kleinbeck, C., Pradel, C., Theelke, L., & Roth, D. (2022, March). A mixed reality guidance system for blind and visually impaired people. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 726-727). IEEE.
 {{< /spoiler >}}
 
-{{< spoiler text="Deep learning in surgical workflow analysis: A review of phase and step recognition. @ IEEE JHBI" >}}
-[9] Demir, K. C., Schieber, H., Weise, T., Roth, D., May, M., Maier, A., & Yang, S. H. (2023). Deep learning in surgical workflow analysis: A review of phase and step recognition. IEEE Journal of Biomedical and Health Informatics.
+{{< spoiler text="[9] Deep learning in surgical workflow analysis: A review of phase and step recognition. @ IEEE JHBI" >}}
+Demir, K. C., Schieber, H., Weise, T., Roth, D., May, M., Maier, A., & Yang, S. H. (2023). Deep learning in surgical workflow analysis: A review of phase and step recognition. IEEE Journal of Biomedical and Health Informatics.
 {{< /spoiler >}}
 
-{{< spoiler text="DynaMoN: Motion-Aware Fast and Robust Camera Localization for Dynamic Neural Radiance Fields @ IEEE RA-L, 2024" >}}
-[10] Schischka, N.,* Schieber, H.,* Asim Karaoglu, M.,* Görgülü, M.,* Grötzner, F., Ladikos, A., ... & Busam, B. (2023). DynaMoN: Motion-Aware Fast and Robust Camera Localization for Dynamic Neural Radiance Fields. IEEE RA-L, 2024., *shared first author
+{{< spoiler text="[10] DynaMoN: Motion-Aware Fast and Robust Camera Localization for Dynamic Neural Radiance Fields @ IEEE RA-L, 2024" >}}
+Schischka, N.,* Schieber, H.,* Asim Karaoglu, M.,* Görgülü, M.,* Grötzner, F., Ladikos, A., ... & Busam, B. (2023). DynaMoN: Motion-Aware Fast and Robust Camera Localization for Dynamic Neural Radiance Fields. IEEE RA-L, 2024., *shared first author
 {{< /spoiler >}}
 
-{{< spoiler text="Nerftrinsic four: An end-to-end trainable nerf jointly optimizing diverse intrinsic and extrinsic camera parameters @ CVIU 2024" >}}
-[11] Schieber, H., Deuser, F., Egger, B., Oswald, N., & Roth, D. (2023). Nerftrinsic four: An end-to-end trainable nerf jointly optimizing diverse intrinsic and extrinsic camera parameters. CVIU, 2024.
+{{< spoiler text="[11] Nerftrinsic four: An end-to-end trainable nerf jointly optimizing diverse intrinsic and extrinsic camera parameters @ CVIU 2024" >}}
+Schieber, H., Deuser, F., Egger, B., Oswald, N., & Roth, D. (2023). Nerftrinsic four: An end-to-end trainable nerf jointly optimizing diverse intrinsic and extrinsic camera parameters. CVIU, 2024.
 {{< /spoiler >}}
 
-{{< spoiler text="A Modular Approach for 3D Reconstruction with Point Cloud Overlay @ IEEE ISMAR Poster 2023" >}}
-[12] Schieber, H., Schmid, F., Zollmann, S., & Roth, D. (2023, October). A Modular Approach for 3D Reconstruction with Point Cloud Overlay. In 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 609-610). IEEE.
+{{< spoiler text="[12] A Modular Approach for 3D Reconstruction with Point Cloud Overlay @ IEEE ISMAR Poster 2023" >}}
+Schieber, H., Schmid, F., Zollmann, S., & Roth, D. (2023, October). A Modular Approach for 3D Reconstruction with Point Cloud Overlay. In 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 609-610). IEEE.
 {{< /spoiler >}}
 
 
