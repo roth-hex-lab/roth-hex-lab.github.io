@@ -31,3 +31,9 @@ SABERGUIDE is a joined project together with Angela Schoellig (TUM) and Stefan L
 Together, we explore drone based reconstruction of accident scenes. This project focuses on sensor-fusion, multi-sensor reconstruction and interaction with novel reconstruction methods in XR. 
 
 The aim of our aerial XR teleguidance in emergency scenarios is to address accident rescue scenarios in an efficient and technical way.
+
+# Publications
+
+{{< spoiler text="LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting @ICRA SRRA Workshop 2026" >}}
+We are happy to present our IEEE ICRA SRRA workshop paper "[LiftNav](https://hex-lab.io/publication/2026/2026-ieee-icra-srra-hannah/): Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting" by Hannah Schieber, Dominik Frischmann, Victor Schaack, Angela P. Schoellig, and Daniel Roth at IEEE ICRA SRRA 2026 in Vienna.
+{{< /spoiler >}}
