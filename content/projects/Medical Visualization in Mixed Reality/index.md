@@ -41,14 +41,28 @@ Current works in this research focus on bringing such visualizations to a broade
 
 {{< figure src="ConstantinContent/volumeRendering.png">}}
 
+# Publications
 
-[1] C. Kleinbeck et al., "Adaptive Volumetric Anatomy Visualization in VR with Tangible Control", in 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Sydney, Australia: IEEE, Oct. 2023, S. 613–614. doi: 10.1109/ISMAR-Adjunct60411.2023.00131.
+{{< spoiler text="[1] Adaptive Volumetric Anatomy Visualization in VR with Tangible Control @ IEEE ISMAR Poster 2023" >}}
+C. Kleinbeck et al., "Adaptive Volumetric Anatomy Visualization in VR with Tangible Control", in 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Sydney, Australia: IEEE, Oct. 2023, S. 613–614. doi: 10.1109/ISMAR-Adjunct60411.2023.00131.
+{{< /spoiler >}}
 
-[2] C. Kleinbeck, H. Schieber, J. Kreimeier, A. Martin-Gomez, M. Unberath, and D. Roth, "Injured Avatars: The Impact of Embodied Anatomies and Virtual Injuries on Well-being and Performance", IEEE Trans. Visual. Comput. Graphics, S. 1–11, 2023, doi: 10.1109/TVCG.2023.3320224.
+{{< spoiler text="[2] Injured Avatars: The Impact of Embodied Anatomies and Virtual Injuries on Well-being and Performance @ IEEE ISMAR 2023" >}}
+C. Kleinbeck, H. Schieber, J. Kreimeier, A. Martin-Gomez, M. Unberath, and D. Roth, "Injured Avatars: The Impact of Embodied Anatomies and Virtual Injuries on Well-being and Performance", IEEE Trans. Visual. Comput. Graphics, S. 1–11, 2023, doi: 10.1109/TVCG.2023.3320224.
+{{< /spoiler >}}
 
-[3] C. Kleinbeck, H. Zhang, B. Killeen, D. Roth, M. Unberath, "Neural Digital Twins: Reconstructing Complex Medical Environments for Spatial Planning in Virtual Reality". IJCARS 2024
+{{< spoiler text="[3] Neural Digital Twins: Reconstructing Complex Medical Environments for Spatial Planning in Virtual Reality @ Spring IJCARS" >}}
+C. Kleinbeck, H. Zhang, B. Killeen, D. Roth, M. Unberath, "Neural Digital Twins: Reconstructing Complex Medical Environments for Spatial Planning in Virtual Reality". IJCARS 2024
+{{< /spoiler >}}
 
-[4] C. Kleinbeck, H. Schieber, K. Engel, R. Gutjahr and D. Roth, "Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2025.3549882
+{{< spoiler text="[4] Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization @ IEEE TVCG, IEEE VR 2025" >}}
+C. Kleinbeck, H. Schieber, K. Engel, R. Gutjahr and D. Roth, "Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2025.3549882
+{{< /spoiler >}}
+
+{{< spoiler text="[5] Hybrid Foveated Path Tracing with Peripheral Gaussians for Immersive Anatomy @ IEEE VR 2026" >}}
+C. Kleinbeck, L. Theelke, H. Schieber, U. Eck, R. von Eisenhart-Rothe, D. Roth, "Hybrid Foveated Path Tracing with Peripheral Gaussians for Immersive Anatomy," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2025.3549882
+{{< /spoiler >}}
+
 
 Constantin was supported by a scholarship from Siemens Healthineers and the Digital Health Innovation Platform (d.hip) for parts of these works. Thank you!
 
