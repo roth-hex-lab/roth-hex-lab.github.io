@@ -27,13 +27,17 @@ comments: false  # Show comments?
 
 ---
 
-SABERGUIDE is a joined project together with Angela Schoellig (TUM) and Stefan Leutenegger (ETH Zurich). 
-Together, we explore drone based reconstruction of accident scenes. This project focuses on sensor-fusion, multi-sensor reconstruction and interaction with novel reconstruction methods in XR. 
+SABERGUIDE is a joint project together with Prof. Angela Schoellig (TUM), [LSY Lab](https://www.dynsyslab.org/) and Prof. Stefan Leutenegger (ETH Zurich), [MRL](https://mrl.ethz.ch). Together, we explore drone-based reconstruction of accident scenes, with a focus on sensor fusion, multi-sensor 3D reconstruction, and the integration of novel reconstruction methods within XR environments.
 
-The aim of our aerial XR teleguidance in emergency scenarios is to address accident rescue scenarios in an efficient and technical way.
+The project brings together expertise from the LSY lab led by Prof. Angela Schoellig and the MRL led by Prof Stefan Leutenegger. From Angela Schoellig’s team, [Dr. Haoming Zhang](https://probablyinconsistent.de) contributes expertise in active sensor fusion and robotics. From Stefan Leutenegger’s team, [Simon Boche](https://scholar.google.com/citations?user=YxB2vHEAAAAJ&hl=de) supports the project with contributions in mobile robotics and spatial AI research.
 
+The aim of our aerial XR teleguidance framework for emergency scenarios is to enable efficient, technically robust accident-scene assessment and rescue support. By combining autonomous aerial sensing, advanced reconstruction pipelines, and immersive XR interaction, SABERGUIDE seeks to provide first responders and remote experts with accurate situational awareness and intuitive tools for collaborative decision-making in time-critical rescue operations.
+
+The project is supported by the MIRMI-X funding scheme.
 # Publications
 
 {{< spoiler text="LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting @ICRA SRRA Workshop 2026" >}}
 We are happy to present our IEEE ICRA SRRA workshop paper "[LiftNav](https://hex-lab.io/publication/2026/2026-ieee-icra-srra-hannah/): Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting" by Hannah Schieber, Dominik Frischmann, Victor Schaack, Angela P. Schoellig, and Daniel Roth at IEEE ICRA SRRA 2026 in Vienna.
 {{< /spoiler >}}
+
+{{< figure src="MIRMI_logo.png">}}
