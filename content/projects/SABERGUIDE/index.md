@@ -34,6 +34,7 @@ The project brings together expertise from the LSY lab led by Prof. Angela Schoe
 The aim of our aerial XR teleguidance framework for emergency scenarios is to enable efficient, technically robust accident-scene assessment and rescue support. By combining autonomous aerial sensing, advanced reconstruction pipelines, and immersive XR interaction, SABERGUIDE seeks to provide first responders and remote experts with accurate situational awareness and intuitive tools for collaborative decision-making in time-critical rescue operations.
 
 The project is supported by the MIRMI-X funding scheme.
+
 # Publications
 
 {{< spoiler text="LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting @ICRA SRRA Workshop 2026" >}}

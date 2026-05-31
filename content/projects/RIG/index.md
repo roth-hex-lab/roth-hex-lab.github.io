@@ -75,4 +75,9 @@ Link to project: https://robotics-institute-germany.de/
 
 We are developing responsible and innovative robotics and AI for the benefit of society and the environment, thereby providing important impetus for the economy. RIG is driven by the shared vision of positioning Germany as a global leader in embodied AI and robotics. By fostering a vibrant ecosystem, we enable cutting-edge research, cultivate world-class talent and ensure that innovation translates into real-world solutions. Together we are shaping a sustainable and innovative future that benefits society and drives economic growth.
 
+# Publications
+
+{{< spoiler text="LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting @ICRA SRRA Workshop 2026" >}}
+IEEE ICRA SRRA workshop "[LiftNav](https://hex-lab.io/publication/2026/2026-ieee-icra-srra-hannah/): Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting" authored by Hannah Schieber, Dominik Frischmann, Victor Schaack, Angela P. Schoellig, and Daniel Roth
+{{< /spoiler >}}
 
