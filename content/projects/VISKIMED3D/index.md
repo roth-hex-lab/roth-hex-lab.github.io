@@ -60,7 +60,7 @@ We are happy to present our demo "Visual Guidance for Assembly Processes" by Jul
 \
 **[Constantin Kleinbeck](https://hex-lab.io/author/constantin-kleinbeck/)** \
 \
-**[Abdelrahman Elskhawy](https://hex-lab.io/author/abdelrahman-elskhawy/)** \
+**[Abdelrahman Elskhawy](https://hex-lab.io/author/abdelrahman-elskhawy/)** 
 
 {{< /spoiler >}}
 
