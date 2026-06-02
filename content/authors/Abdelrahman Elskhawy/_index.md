@@ -25,9 +25,9 @@ organizations:
 bio: Abdelrahman's research interest span different topics in computer vision such as 3D scene understanding, Multi-view 3D reconstruction  6D pose estimation, and digital twins. Abdelrahman is currently involved in the ViskiMed 3D project.
 
 interests:
-  - Scene understanding
-  - 6D pose estimation
-  - Motion analysis
+  - Scene Understanding
+  - 6D Pose Estimation
+  - Motion Analysis
   - Neural Rendering
   - Extended Reality
 
