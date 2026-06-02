@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Researcher
+role: Senior Researcher, Research Manager
 
 # Organizations/Affiliations
 organizations:

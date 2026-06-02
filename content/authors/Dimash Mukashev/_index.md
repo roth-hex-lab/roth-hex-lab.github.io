@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting Researcher, University of Calgary
+role: Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -32,9 +32,12 @@ interests:
 
 education:
   courses:   
+    - course: PhD
+      institution: Technical Univeristy Munich (TUM)
+      year: 2026 - now
     - course: MSc in Biomedical Engineering
       institution: University of Calgary, Canada
-      year: 2023-now
+      year: 2023-2026
     - course: BSc in Robotics and Mechatronics
       institution: Nazarbayev University, Kazakhstan
       year: 2021
@@ -62,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Researchers
 
 ---
 
