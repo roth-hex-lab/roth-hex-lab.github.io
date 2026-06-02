@@ -22,7 +22,8 @@ organizations:
     url: ''
  
 # Short bio (displayed in user profile at end of posts)
-bio: Dimash is an interdisciplinary researcher specializing in haptics, physical human-robot interaction (pHRI), and immersive technologies, with a primary research focus on medical robotics. He has established a robust international trajectory across prominent institutions, including Nazarbayev University, the University of Calgary, and the Technical University of Munich. His foundational research across these labs has centered on developing advanced control systems, full-stack firmware architectures, custom hardware, and force feedback systems designed to bridge the gap between human users and robotic platforms. Currently, within the research group, mrX is leveraging this expertise to advance the healthcare domain, focusing specifically on the intersection of robotic control and surgical applications. His current work centers on developing intuitive teleoperation interfaces, virtual constraints for safer robotic guidance, and experimental validation frameworks within simulated clinical settings. By combining rigorous quantitative user studies with robust control paradigms, his research aims to enhance precision, safety, and sensory feedback in next-generation surgical robotics.
+bio: I am master's' student in Biomedical Engineering and interested in haptics in robotics, XR, and sensory substitution. 
+
 interests:
   - Robotics
   - Haptics
