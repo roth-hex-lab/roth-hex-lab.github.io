@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Candidate, Teaching Manager
+role: Doctoral Candidate, <br> Teaching Manager
 
 # Organizations/Affiliations
 organizations:

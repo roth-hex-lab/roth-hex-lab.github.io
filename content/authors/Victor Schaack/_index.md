@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Candidate, Lab Manager HEX@Lab-Campus
+role: Doctoral Candidate, <br> Lab Manager HEX@Lab-Campus
 
 # Organizations/Affiliations
 organizations:
