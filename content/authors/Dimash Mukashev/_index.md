@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Dimash Mukashev
+title: Dimash (Dinmukhammed) Mukashev
 
 # Full name (for SEO)
-first_name: Dimash  
+first_name: Dimash (Dinmukhammed)
 last_name: Mukashev
 
 # Username (this should match the folder name)
 authors:
-  - Dimash Mukashev
+  - Dinmukhammed Mukashev
 
 # Is this the primary user of the site?
 superuser: false
