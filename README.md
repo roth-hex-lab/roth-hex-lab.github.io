@@ -13,6 +13,26 @@ After you have made changes, commit them and push to the repository. An automate
 
 See below to achieve some common tasks. Also see the reference for the template and website builder used here: https://docs.hugoblox.com/
 
+**Preview locally**
+
+The website is deployed by GitHub Actions, but you can preview changes locally before pushing. The workflow currently uses Hugo `0.135.0`, so install the same version in a local conda environment.
+
+One-time setup with mamba, or replace `mamba` with `conda` if you do not use mamba:
+
+```sh
+mamba create -y -p ./.conda/hugo-0.135.0 -c conda-forge hugo=0.135.0 go
+```
+
+Start the local server:
+
+```sh
+mamba activate ./.conda/hugo-0.135.0
+hugo server --bind 127.0.0.1 --port 1313 --baseURL http://localhost:1313/ --disableFastRender
+```
+
+Open http://localhost:1313/ in your browser. The server watches `content`, `layouts`, `assets`, and `static`, so most edits appear after saving and refreshing.
+Stop the server with `Ctrl+C`.
+
 **Add a post**
 
 Go to `content/post`. Create a new folder, preferrably with the timestamp as name, and place an `index.md` file with content and a `featured.jpg` teaser image. The `index.md` file should contain the post, consisting of at least title, content and date. Feel free to add more metadata and shotcode elements to the posts, see https://docs.hugoblox.com/reference/markdown/ and https://docs.hugoblox.com/reference/page-features/.
