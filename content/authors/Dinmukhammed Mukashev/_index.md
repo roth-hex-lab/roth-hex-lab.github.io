@@ -22,13 +22,13 @@ organizations:
     url: ''
  
 # Short bio (displayed in user profile at end of posts)
-bio: I am master's' student in Biomedical Engineering and interested in haptics in robotics, XR, and sensory substitution. 
-
+bio: Dimash is a Doctoral Candidate at the Chair of Human-Centered Computing and Extended Reality Lab at TU Munich. 
+ 
 interests:
-  - Robotics
-  - Haptics
-  - Tactile Sensing
-  - Extended and Mixed Reality
+  - Haptics & Tactile Interfaces
+  - Teleoperation & Surgical Robotics
+  - Extended Reality
+  - Human-Centered Computing
 
 education:
   courses:   
@@ -37,7 +37,7 @@ education:
       year: 2026 - now
     - course: MSc in Biomedical Engineering
       institution: University of Calgary, Canada
-      year: 2023-2026
+      year: 2023-2025
     - course: BSc in Robotics and Mechatronics
       institution: Nazarbayev University, Kazakhstan
       year: 2021
@@ -69,10 +69,5 @@ user_groups:
 
 ---
 
-Dimash is an MSc student at the University of Calgary and a member of the iLab group. With the support of a Mitacs Globalink Research Award, his research explores haptics in robotics, XR, and sensory substitution. His current work focuses on developing tongue-based haptic feedback interfaces to improve control and precision in robot-assisted surgeries. At HEX Lab, Dimash continues to build on his interest in robotics and haptics, working to bring intuitive, responsive feedback systems into surgical settings.
+Dimash is a Doctoral Candidate at the Chair of Human-Centered Computing and Extended Reality Lab at TU Munich. He is an interdisciplinary researcher specializing in haptics, physical human-robot interaction, and immersive technologies, with a primary focus on medical robotics. His international research trajectory spans Nazarbayev University, the University of Calgary, and TU Munich, where he has developed advanced control systems, full-stack firmware architectures, and force feedback interfaces bridging human users and robotic platforms. At HEX Lab, his work centers on intuitive teleoperation interfaces, virtual constraints for safer robotic guidance, and experimental validation in simulated surgical settings. His doctoral research is funded by a DAAD scholarship; he previously visited HEX Lab as a Mitacs Globalink Research Award holder.
 
-{{< figure src="ilab_logo.png" >}}
-
-{{< figure src="mitacs_logo.png" >}}
-
-{{< figure src="ucalgary_logo.png" >}}
