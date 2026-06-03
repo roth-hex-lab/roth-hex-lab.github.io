@@ -41,4 +41,8 @@ The project is supported by the MIRMI-X funding scheme.
 We are happy to present our IEEE ICRA SRRA workshop paper "[LiftNav](https://hex-lab.io/publication/2026/2026-ieee-icra-srra-hannah/): Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting" by Hannah Schieber, Dominik Frischmann, Victor Schaack, Angela P. Schoellig, and Daniel Roth at IEEE ICRA SRRA 2026 in Vienna.
 {{< /spoiler >}}
 
+{{< spoiler text="SplatXtRact: Tractable Gaussian Splatting via Open World Region-of-Interest Extraction and Refinement @ IEEE RA-L" >}}
+We are happy to announce that SplatXtract was accepted in IEEE RA-L. The work is authored by Hannah Schieber, Constantin Kleinbeck, Angela P. Schoellig, Stefan Leutenegger and Daniel Roth
+{{< /spoiler >}}
+
 {{< figure src="MIRMI_logo.png" width="50%">}}
