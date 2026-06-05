@@ -4,7 +4,7 @@ date: 2025-04-30
 summary: >
     🚀 Exciting news! Our paper DynaMoN: Motion-Aware Fast and Robust Camera Localization for Dynamic Neural Radiance Fields has been accepted to IEEE RA-L and will also be presented at #ICRA2025! 🎉
 image:
-  focal_point: 'top'
+  preview_only: true
 ---
 
 🚀 Exciting news! Our paper DynaMoN: Motion-Aware Fast and Robust Camera Localization for Dynamic Neural Radiance Fields has been accepted to IEEE RA-L and will also be presented at #ICRA2025! 🎉
@@ -17,3 +17,4 @@ Check it out here: [https://hannahhaensen.github.io/DynaMoN/](https://hannahhaen
 
 Melih Görgülü, Florian Groetzner, Nassir Navab, Alexander Ladikos, Daniel Roth, and Benjamin Busam
 
+{{< figure src="featured.png" width="50%" >}}
