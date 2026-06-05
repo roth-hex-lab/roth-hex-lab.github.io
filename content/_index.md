@@ -46,7 +46,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: masonry
+      view: compact
       columns: '2'
   
 
