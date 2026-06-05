@@ -11,4 +11,4 @@ Despite the rainy weather, our HEX team joined the TUM Campus Run 2026 and took 
 
 With good mood, motivation, and plenty of team spirit, we made it to the finish line. A little rain could not dampen the HEX spirit!
 
-{{< figure src="feature.png" width="50%" >}}
+{{< figure src="featured.png" width="50%" >}}

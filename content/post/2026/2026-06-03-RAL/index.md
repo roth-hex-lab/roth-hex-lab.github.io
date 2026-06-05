@@ -14,4 +14,4 @@ Find the publication at https://ieeexplore.ieee.org/document/11543331
 Abstract:
 We present a task-conditioned refinement for 3D Gaussian Splatting (GS) that enables robots or human operators to selectively extract task-relevant regions of a learned scene. Given a pre-trained GS map, our approach supports local region-of-interest (ROI) refinement, preserving a global map consistency while meeting close to real-time constraints required for interactive robotic perception. The framework decouples semantic ROI selection from initial GS optimization, allowing flexible integration with external and novel perception models. We evaluate our approach on indoor and outdoor data (TUM RGB-D, MipNeRF360), demonstrating a higher novel view syn-thesis quality compared to the state-of-the-art, reduced artifacts, and bounded latency suitable for human-in-the-loop operation.
 
-{{< figure src="feature.png" width="50%" >}}
+{{< figure src="featured.png" width="50%" >}}

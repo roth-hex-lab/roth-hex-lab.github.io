@@ -24,4 +24,4 @@ On this paper Kristoffer Waldow worked with Arnulph Fuhrmann (TH Köln, HEX, TUM
 and Prof. Danny Schott presenting: The Influence of Environmental Fidelity on Virtual Presence, Intrinsic Motivation, Cognitive Load and Learning Outcomes in Medical VR, accepted as TVCG paper.
 On this paper Danny Schott (Magdeburg-Stendal University of Applied Sciences, Otto von Guericke University Magdeburg) worked with Matthias Kunz, Claudia Schrader, Elias Ringler, Alexander Schwadtke, Jonas Mandel, Patrick Müller, Constantin Kleinbeck (HEX, TUM), Daniel Roth (HEX, TUM), Anne Albrecht, Rüdiger C. Braun-Dullaeus, and Christian Hansen
 
-{{< figure src="feature.png" width="50%" >}}
+{{< figure src="featured.png" width="50%" >}}

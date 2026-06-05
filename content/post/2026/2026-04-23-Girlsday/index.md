@@ -19,4 +19,4 @@ Together, we explored how computer science is shaping the future of healthcare�
 💬 The energy, curiosity, and thoughtful questions from the participants made this day truly special. Seeing the next generation engage with XR, human-centered computing, and medical innovation is exactly why we do what we do.
 🚀 A big thank you to everyone who joined us, we hope this offered an inspiring glimpse into the world of research and technology.
 
-{{< figure src="feature.png" width="50%" >}}
+{{< figure src="featured.png" width="50%" >}}
