@@ -42,16 +42,16 @@ _Luisa Theelke, Diana Beksultanow, Lydia Marquardt, Philipp Gulde, Lisa Vallines
 
 Many thanks to our collaborators from all over the world! 
 
-{{< figure src="IEEE VR 2025/Luisa.jpg" caption="">}}
+{{< figure src="2025/IEEE-VR-2025/Luisa.jpg" caption="">}}
 
-{{< figure src="IEEE VR 2025/LuisaDemo.jpg" caption="">}}
+{{< figure src="2025/IEEE-VR-2025/LuisaDemo.jpg" caption="">}}
 
-{{< figure src="IEEE VR 2025/HannahPoster.jpg" caption="">}}
+{{< figure src="2025/IEEE-VR-2025/HannahPoster.jpg" caption="">}}
 
-{{< figure src="IEEE VR 2025/HannahWS.jpg" caption="">}}
+{{< figure src="2025/IEEE-VR-2025/HannahWS.jpg" caption="">}}
 
-{{< figure src="IEEE VR 2025/Kris.JPEG" caption="">}}
+{{< figure src="2025/IEEE-VR-2025/Kris.JPEG" caption="">}}
 
-{{< figure src="IEEE VR 2025/Hannah.jpg" caption="">}}
+{{< figure src="2025/IEEE-VR-2025/Hannah.jpg" caption="">}}
 
-{{< figure src="IEEE VR 2025/Constantin.jpg" caption="">}}
+{{< figure src="2025/IEEE-VR-2025/Constantin.jpg" caption="">}}
