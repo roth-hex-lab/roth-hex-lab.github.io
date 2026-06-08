@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dinmukhammed DimashMukashev
+title: Dinmukhammed "Dimash"  Mukashev
 
 # Full name (for SEO)
 first_name: Dinmukhammed "Dimash" 
