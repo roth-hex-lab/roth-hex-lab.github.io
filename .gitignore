@@ -9,3 +9,5 @@ assets/jsconfig.json
 
 # Local tool environments
 .conda/
+**/.DS_Store
+.DS_Store
