@@ -18,7 +18,7 @@ role: Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Calgary
+  - name: Technical University of Munich
     url: ''
  
 # Short bio (displayed in user profile at end of posts)
