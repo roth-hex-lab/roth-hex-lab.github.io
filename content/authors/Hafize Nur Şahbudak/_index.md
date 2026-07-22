@@ -22,7 +22,7 @@ organizations:
     url: ''
  
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer engineer and a master's student in the Informatics department at the Technical University of Munich. 
+bio: Hafize is a computer scientist and was a master student at CIT at the Technical University of Munich. She supported the chair as HiWi in various projects including Vipers.
 
 interests:
   - Computer Vision
@@ -62,7 +62,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Student Assistants
+  - Alumni
 
 ---
 
