@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:dimash.mukashev@ucalgary.ca'
+    link: 'mailto:dimash.mukashev@tum.de'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=rUEDTOsAAAAJ&hl=en

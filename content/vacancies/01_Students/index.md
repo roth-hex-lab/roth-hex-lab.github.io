@@ -42,13 +42,3 @@ hex-application.ortho[at]mh.tum.de. The email should include:
         
 Please note that incomplete applications will not be processed/responded to. You may ask for confirmation of completeness.
        
-##### Bachelor Thesis/Master Thesis, or IDP/Guided Research
-We usually post available theses or projects on the TUM bulletin board (Schwarzes Brett), but not all current topics make it to the board. If you can't find anything there and you see a strong overlap with our research interests, feel free to send an email to: 
-hex-thesis.ortho[at]mh.tum.de. The email should include:
-  - A short motivation letter explaining why you want to work with us and in which subject area.
-  - One-page academic CV
-  - Academic transcript of records 
-  - Please provide the documents in a single PDF in the order above 
-  - Please send all application-related mail to hex-thesis.ortho[at]mh.tum.de
-        
-Please note that incomplete applications will not be processed/responded to. You may ask for confirmation of completeness.
