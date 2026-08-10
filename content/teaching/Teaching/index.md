@@ -35,7 +35,7 @@ We usually post available theses or projects on the TUM bulletin board (Schwarze
 ### AI, Computer Vision, or Extended Reality
   - Machine learning for infection prediction and detection, foundation models for whole-slide image analysis, development of VR-based ICU simulation environments, integration and visualization of AI predictions in clinical scenarios, or user studies evaluating clinical decision support systems (**contact**: luisa.theelke[at]tum.de)
   - 3D/4D scene reconstruction with learnable representations (topics include efficient/streaming variants, semantic or ROI-aware editing, dynamic-scene extensions) and world models (e.g., learned scene/dynamics representations for prediction and simulation) (**contact**: hannah.schieber[at]tum.de)
-  - 3D scene understanding (semantics, scene graphs etc.), dynamic reconstruction and novel-view-synthesis (**contact**:)
+  - 3D scene understanding (semantics, scene graphs etc.), dynamic reconstruction and novel-view-synthesis (**contact**: a.elskhawy[at]tum.de)
   - Real-time, high-quality visualization, 3d/4d reconstruction and immersive rendering of clinical environments, anatomical scans, live operation and other medical scenarios (**contact**: constantin.kleinbeck[at]tum.de)
 
 ### Robotics / Computer Vision for Robotics
