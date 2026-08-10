@@ -33,13 +33,13 @@ We usually post available theses or projects on the TUM bulletin board (Schwarze
   - Sensor based motion tracking (from calibration to deep learning based biomechanical predictions), IMU, EMG, and Sensor insole based motion analysis, personalized biomechanical simulations (e.g. Multi-body Simulations and Finite-Elemente Analysis) (**contact**: daniel.homm[at]tum.de)
 
 ### AI, Computer Vision, and Virtual Reality
-  - Machine learning for infection prediction and detection, foundation models for whole-slide image analysis, development of VR-based ICU simulation environments, integration and visualization of AI predictions in clinical scenarios, or user studies evaluating clinical decision support systems (**contact** luisa.theelke[at]tum.de)
+  - Machine learning for infection prediction and detection, foundation models for whole-slide image analysis, development of VR-based ICU simulation environments, integration and visualization of AI predictions in clinical scenarios, or user studies evaluating clinical decision support systems (**contact**: luisa.theelke[at]tum.de)
 
 ### Robotics
   - Human-in-the-loop teleoperation and haptics (topics include embodiment in robot control, multimodal and sensory-substituted force feedback, wearable tactile displays and bimanual control studies) with applications in surgical robotics (e.g., teleoperated orthopedic tasks, mock-OR user studies, ROS-based testbed and haptic device development) — spanning experimental user studies, psychophysics, and hands-on system building. (**contact**: dimash.mukashev[at]tum.de)
 
 ### Reconstruction
-  - 3D/4D scene reconstruction with learnable representations (topics include efficient/streaming variants, semantic or ROI-aware editing, dynamic-scene extensions) and world models (e.g., learned scene/dynamics representations for prediction and simulation) (**contact** hannah.schieber[at]tum.de)
+  - 3D/4D scene reconstruction with learnable representations (topics include efficient/streaming variants, semantic or ROI-aware editing, dynamic-scene extensions) and world models (e.g., learned scene/dynamics representations for prediction and simulation) (**contact**: hannah.schieber[at]tum.de)
  
 feel free to send an email to the contact person and CC hex-thesis.ortho[at]mh.tum.de. The email should include:
   - A short motivation letter explaining why you want to work with us and in which subject area.
