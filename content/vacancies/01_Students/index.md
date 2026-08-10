@@ -1,5 +1,5 @@
 ---
-title: Students (Lab assistant/student assistant/teaching assistant)
+title: Students Assistant (Lab/student/teaching)
 date: 2025-10-01
 summary: "Check this out if you are interested in a assistant position or thesis with us."
 
