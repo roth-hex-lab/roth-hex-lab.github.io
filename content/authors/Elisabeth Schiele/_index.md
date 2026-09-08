@@ -58,9 +58,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Student Assistants
+  - Alumni
 
 ---
 
-Elisabeth studies Informatics at the Technical University of Munich (TUM) and is a student assistant for the Human-Centered Computing and Extended Reality Lab at the Professorship for Machine Intelligence in Orthopedics. At HEX Lab she focuses on Semantic Segmentation of Endoscopic Videos. During her studies she specialises in Deep Learning for Medical Applications.
+Elisabeth studies Informatics at the Technical University of Munich (TUM) and was a student assistant for the Human-Centered Computing and Extended Reality Lab at the Professorship for Machine Intelligence in Orthopedics. At HEX Lab she focused on Semantic Segmentation of Endoscopic Videos. During her studies she specialises in Deep Learning for Medical Applications.
+Currently she is at a research internship in the UK.
 
