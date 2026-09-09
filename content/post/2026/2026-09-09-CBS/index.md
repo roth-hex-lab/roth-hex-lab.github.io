@@ -3,6 +3,7 @@ title: HEX @ CBS 2026
 date: 2026-09-08
 summary: >
     We are extremely excited to present our initial results on exoskeletal research at IEEE CBS in Munich!
+image:
   preview_only: true
 ---
 

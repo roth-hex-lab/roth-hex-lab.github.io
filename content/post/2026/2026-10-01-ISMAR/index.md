@@ -3,6 +3,7 @@ title: HEX @ ISMAR 2026
 date: 2026-10-01
 summary: >
     HEX @ ISMAR 2026
+image:
   preview_only: true
 ---
 # Workshop News
