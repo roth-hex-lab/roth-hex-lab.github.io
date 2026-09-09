@@ -12,4 +12,5 @@ We’re looking forward to continuing to push the boundaries of exoskeletal tech
 
 #HEX #Exoskeleton #ExoskeletalResearch #IEEE #IEEECBS #Munich #Research #Innovation
 
-{{< figure src="featured.png" width="50%" >}}
+{{< figure src="IMG_0239.png" width="50%" >}}
+{{< figure src="IMG_0240.png" width="50%" >}}
