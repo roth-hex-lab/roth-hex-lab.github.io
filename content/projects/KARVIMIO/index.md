@@ -150,6 +150,11 @@ In the third and last year of the KARVIMIO project, we reviewed the current stat
 
 # Publications
 
+{{< spoiler text="Evaluation of Visual Guidance Techniques for Augmented Reality-Supported Assembly Tasks in the Medical Context @Springer VR Journal 2026" >}}
+We are happy to highlight our Springer Virtual Reality journal article on the evaluation of AR guidance techniques by Julian Kreimeier, Prathik Prasad, Shiyu Li, Niklas Corell, Luisa Theelke, Constantin Kleinbeck, Hannah Schieber, Simon Weidert, Sebastian Andress, Felix Merkl, Alejandro Martin-Gomez and Daniel Roth. 
+{{< figure src="KARVIMIO/VisualizationUserStudy.jpg" caption="" >}}
+{{< /spoiler >}}
+
 {{< spoiler text="Multi-Camera AR Guidance System for Surgical Instrument Handling and Assembly @MICCAI Conference 2026" >}}
 We are happy to present our MICCAI paper on by multi-camera augmented reality guidance by Shiyu Li, Julian Kreimeier, Hannah Schieber, Dirk Müller, Bernhard Kainz, Rüdiger von Eisenhart-Rothe and Daniel Roth at MICCAI 2026 in Straßbourg. 
 {{< figure src="KARVIMIO/MultiCameraARGuidance.jpg" caption="" >}}
