@@ -150,6 +150,11 @@ In the third and last year of the KARVIMIO project, we reviewed the current stat
 
 # Publications
 
+{{< spoiler text="Gaze-Based Augmented Reality Selection on the Magic Leap 2: Comparing Eye-Only and Foot-Pedal Confirmation for Scrub Nurses and Laypersons @EuroXR 2026" >}}
+We are happy to present our conference paper on gaze-based augmented reality selection by Julian Kreimeier, Prathik Prasad, Dirk Müller, Felix Merkl, Julia Högl, Sebastian Andreß, Rüdiger von Eisenhart-Rothe and Daniel Roth. 
+{{< figure src="KARVIMIO/KARVIMIOInteraction.png" caption="" >}}
+{{< /spoiler >}}
+
 {{< spoiler text="Evaluation of Visual Guidance Techniques for Augmented Reality-Supported Assembly Tasks in the Medical Context @Springer VR Journal 2026" >}}
 We are happy to highlight our Springer Virtual Reality journal article on the evaluation of AR guidance techniques by Julian Kreimeier, Prathik Prasad, Shiyu Li, Niklas Corell, Luisa Theelke, Constantin Kleinbeck, Hannah Schieber, Simon Weidert, Sebastian Andress, Felix Merkl, Alejandro Martin-Gomez and Daniel Roth. 
 {{< figure src="KARVIMIO/VisualizationUserStudy.png" caption="" >}}
