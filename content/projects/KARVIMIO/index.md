@@ -150,6 +150,11 @@ In the third and last year of the KARVIMIO project, we reviewed the current stat
 
 # Publications
 
+{{< spoiler text="Multi-Camera AR Guidance System for Surgical Instrument Handling and Assembly @MICCAI Conference 2026" >}}
+We are happy to present our MICCAI paper on by multi-camera augmented reality guidance by Shiyu Li, Julian Kreimeier, Hannah Schieber, Dirk Müller, Bernhard Kainz, Rüdiger von Eisenhart-Rothe and Daniel Roth at MICCAI 2026 in Straßbourg. 
+{{< figure src="KARVIMIO/MultiCameraARGuidance.jpg" caption="" >}}
+{{< /spoiler >}}
+
 {{< spoiler text="MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects @IEEE VR Conference 25.03.2026" >}}
 We are happy to present our IEEE TVCG paper "MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects" by Shiyu Li, Hannah Schieber, Kristoffer Waldow, Benjamin Busam, Julian Kreimeier, and Daniel Roth at IEEE VR 2026 in Daegu. 
 {{< figure src="KARVIMIO/Mutlicam.jpg" caption="" >}}
