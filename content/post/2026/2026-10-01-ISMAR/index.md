@@ -1,6 +1,6 @@
 ---
 title: HEX @ ISMAR 2026
-date: 2026-10-01
+date: 2026-09-28
 summary: >
     HEX @ ISMAR 2026
 image:
