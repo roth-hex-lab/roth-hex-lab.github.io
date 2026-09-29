@@ -2,7 +2,7 @@
 title: HEX @ ISMAR 2026
 date: 2026-09-28
 summary: >
-    HEX @ ISMAR 2026. Daniel Roth is part of the Organizing Committee of the 3rd International Workshop on Medical Extended Reality. HEX also contributed to a poster on XR guidance in collaboration with Haifa University.
+    HEX @ ISMAR 2026. Daniel Roth is part of the Organizing Committee of the 3rd International Workshop on Medical Extended Reality and contributed to the TVCG paper Grand Challenges in Cross Reality. HEX also contributed to a poster on XR guidance in collaboration with Haifa University.
 image:
   preview_only: true
 ---

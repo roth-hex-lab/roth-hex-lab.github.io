@@ -2,7 +2,7 @@
 title: HEX Publication @ Springer VR
 date: 2026-09-20
 summary: >
-    Journal paper alert! We are happy to announce our new Springer VR publication.
+    Journal paper alert! We are happy to announce our new Springer VR publication. The study was part of our BMFTR-funded project KARVIMIO.
 image:
   preview_only: true
 ---

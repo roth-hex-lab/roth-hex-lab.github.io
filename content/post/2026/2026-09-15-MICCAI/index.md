@@ -2,7 +2,7 @@
 title: HEX @ MICCAI 2026
 date: 2026-09-15
 summary: >
-    HEX @ MICCAI 2026. Shiyu Li will present our paper on multi-camera AR guidance for medical instruments. 
+    HEX @ MICCAI 2026. Shiyu Li will present our paper on multi-camera AR guidance for medical instruments. The study was part of our BMFTR-funded project KARVIMIO.
 image:
   preview_only: true
 ---
