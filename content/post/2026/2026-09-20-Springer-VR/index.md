@@ -1,5 +1,5 @@
 ---
-title: HEX publishes a new paper from the BMFTR-KARVIMIO project in Springer VR.
+title: HEX published in Springer VR.
 date: 2026-09-20
 summary: >
     Journal paper alert! We are happy to announce our new Springer VR publication.

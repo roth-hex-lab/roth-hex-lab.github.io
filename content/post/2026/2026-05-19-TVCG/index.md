@@ -1,5 +1,5 @@
 ---
-title: HEX Contributes to Cross Reality Grand Challenges @ IEEE TVCG
+title: HEX contributes new IEEE TVCG paper.
 date: 2026-05-19
 summary: >
     We are extremely happy to announce that we contribute to a Grand Challenges in Cross Reality manuscipt now published at IEEE TVCG.
