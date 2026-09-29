@@ -1,5 +1,5 @@
 ---
-title: HEX (TUM) x Photogrammetry and Remote Sensing (TUM) heading to ISPRS congress
+title: HEX (TUM) x PRS (TUM) @ ISPRS congress 2026
 date: 2026-06-22
 summary: >
     Our joint paper "Supercharging Thermal Gaussian Splatting with Depth Estimation" has been accepted to the ISPRS Archives and selected for an oral presentation at the ISPRS Congress 2026 in Toronto. Manoj Biswanath from Photogrammetry and Remote Sensing will take the stage. 
