@@ -77,20 +77,25 @@ We are developing responsible and innovative robotics and AI for the benefit of 
 
 # Publications
 
+Springer VR (Journal)
 {{< spoiler text="Evaluation of Visual Guidance Techniques for Augmented Reality-Supported Assembly Tasks in the Medical Context @Springer VR Journal 2026" >}}
 We are happy to highlight our Springer Virtual Reality journal article on the evaluation of AR guidance techniques by Julian Kreimeier, Prathik Prasad, Shiyu Li, Niklas Corell, Luisa Theelke, Constantin Kleinbeck, Hannah Schieber, Simon Weidert, Sebastian Andress, Felix Merkl, Alejandro Martin-Gomez and Daniel Roth. 
 {{< figure src="KARVIMIO/VisualizationUserStudy.png" caption="" >}}
 {{< /spoiler >}}
+
+MICCAI 2026
 
 {{< spoiler text="Multi-Camera AR Guidance System for Surgical Instrument Handling and Assembly @MICCAI Conference 2026" >}}
 We are happy to present our MICCAI paper on by multi-camera augmented reality guidance by Shiyu Li, Julian Kreimeier, Hannah Schieber, Dirk Müller, Bernhard Kainz, Rüdiger von Eisenhart-Rothe and Daniel Roth at MICCAI 2026 in Straßbourg. 
 {{< figure src="KARVIMIO/MultiCameraARGuidance.jpg" caption="" >}}
 {{< /spoiler >}}
 
+IEEE ICRA 2026 - SRRA Workshop
 {{< spoiler text="LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting @ICRA SRRA Workshop 2026" >}}
 IEEE ICRA SRRA workshop "[LiftNav](https://hex-lab.io/publication/2026/2026-ieee-icra-srra-hannah/): Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting" authored by Hannah Schieber, Dominik Frischmann, Victor Schaack, Angela P. Schoellig, and Daniel Roth
 {{< /spoiler >}}
 
+IEEE RA-L 2026
 {{< spoiler text="SplatXtRact: Tractable Gaussian Splatting via Open World Region-of-Interest Extraction and Refinement @ IEEE RA-L" >}}
 We are happy to announce that SplatXtract was accepted in IEEE RA-L. The work is authored by Hannah Schieber, Constantin Kleinbeck, Angela P. Schoellig, Stefan Leutenegger and Daniel Roth
 {{< /spoiler >}}
