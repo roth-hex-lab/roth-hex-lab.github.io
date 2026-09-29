@@ -73,3 +73,5 @@ We’re very happy to see this work now published and openly available, and we l
 
 [Read the full open-access article](https://doi.org/10.1007/s10055-026-01491-3)
 
+{{< figure src="featured.png" width="50%" >}}
+

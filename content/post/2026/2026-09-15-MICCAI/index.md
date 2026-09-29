@@ -15,3 +15,7 @@ In a user study with **29 scrub nurses**, the AR system reduced task completion 
 The work demonstrates the potential of **marker-free multi-camera AR** to improve efficiency and support clearer, less cognitively demanding workflows in surgical environments.
 
 Authors: Shiyu Li, Julian Kreimeier, Hannah Schieber, Dirk Müller, Bernhard Kainz, Rüdiger von Eisenhart-Rothe, Daniel Roth
+
+{{< figure src="featured.png" width="50%" >}}
+{{< figure src="IMG_9612.jpeg" width="50%" >}}
+{{< figure src="IMG_9616.jpeg" width="50%" >}}
