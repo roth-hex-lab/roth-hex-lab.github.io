@@ -1,5 +1,5 @@
 ---
-title: HEX Lab (TUM) x IMMERS Lab (Stanford).
+title: HEX Lab (TUM) x IMMERS Lab (Stanford)
 date: 2026-09-05
 summary: >
     Grateful for an inspiring stay at Stanford University, wonderfully hosted by the IMMERS Lab and Christoph Leuze, Bruce Daniel, and Brian Hargreaves kindly supported by BaCaTeC.

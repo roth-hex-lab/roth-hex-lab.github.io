@@ -1,5 +1,5 @@
 ---
-title: HEX Publication @ Springer VR.
+title: HEX Publication @ Springer VR
 date: 2026-09-20
 summary: >
     Journal paper alert! We are happy to announce our new Springer VR publication.
