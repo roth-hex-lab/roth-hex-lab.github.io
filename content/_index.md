@@ -226,9 +226,10 @@ sections:
         
 
         Interested in working or researching with us? Find out more below. Depending on your career level, we offer different options.
-        
         We welcome, embrace, and respect diversity of people, identities, and cultures. We therefore encourage all potential fitting candidates, regardless of their personal background, to apply for the opportunity.
         
+        For thesis, KAP, or guided research projects, please apply here: [HEX Thesis/KAP/Guided Research Application Form](https://collab.dvb.bayern/spaces/TUMhexlab/pages/2939765352/Hex+Application)
+        Please note that you need to be logged in to BayernCollab.
       # *Currently we offer the following positions:* 
 
       # Field to sort by, such as Date or Title

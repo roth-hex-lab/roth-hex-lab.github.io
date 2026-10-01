@@ -33,12 +33,7 @@ We welcome, embrace, and respect diversity of people, identities, and cultures. 
 #### Lab assistant/student assistant/teaching assistant
 We usually post available lab assistant/student assistant/teaching assistant positions here on our website. 
 If you can't find anything there and you see a strong overlap with our interests, feel free to send an email to: 
-hex-application.ortho[at]mh.tum.de. The email should include:
-  - One-page motivation letter, please describe why you want to work with us and what skills/experience you can bring to the group as well as what are your learning expectations
-  - One-page academic CV
-  - Academic transcripts 
-  - Please provide the documents in a single pdf in the order above 
-  - Please send all application related mail to hex-application.ortho[at]mh.tum.de
-        
-Please note that incomplete applications will not be processed/responded to. You may ask for confirmation of completeness.
-       
+
+For thesis, KAP, or guided research projects, please apply here: [HEX Thesis/KAP/Guided Research Application Form](https://collab.dvb.bayern/spaces/TUMhexlab/pages/2939765352/Hex+Application)
+Please note that you need to be logged in to BayernCollab.
+     

@@ -17,5 +17,6 @@ The work demonstrates the potential of **marker-free multi-camera AR** to improv
 Authors: Shiyu Li, Julian Kreimeier, Hannah Schieber, Dirk Müller, Bernhard Kainz, Rüdiger von Eisenhart-Rothe, Daniel Roth
 
 {{< figure src="featured.png" width="50%" >}}
+{{< figure src="IMG_9675.jpeg" width="50%" >}}
 {{< figure src="IMG_9612.jpeg" width="50%" >}}
 {{< figure src="IMG_9616.jpeg" width="50%" >}}
