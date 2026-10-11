@@ -31,5 +31,7 @@ The work is currently in progress and was recently summarized in a poster accept
 
 Authors: Rafael Damouni, Muhammad Haj Ali, Dr. Julian Kreimeier, Hannah Schieber, Prof. Dr. Daniel Roth, Sarit Szpiro, and Ilan Shimshoni.
 
+🏆We received an Honorable Mention Best Short Poster Award 🏆
 
+{{< figure src="honorable_mention.jpeg" width="50%" >}}
 {{< figure src="featured.png" width="50%" >}}
