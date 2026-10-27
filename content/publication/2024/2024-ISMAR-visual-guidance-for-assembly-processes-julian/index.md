@@ -40,7 +40,7 @@ links:
 - name: Paper
   url: 'https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00195'
 - name: PDF
-  url: '2024_ISMAR_KARVIMIO_Demo_HEX.pdf'
+  url: 'publications/2024/2024-ISMAR-visual-guidance-for-assembly-processes-julian/2024_ISMAR_KARVIMIO_Demo_HEX.pdf'
 
 url_pdf: ''
 url_code: ''
