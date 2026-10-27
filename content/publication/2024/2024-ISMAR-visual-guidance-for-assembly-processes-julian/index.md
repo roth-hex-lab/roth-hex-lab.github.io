@@ -41,7 +41,7 @@ links:
   url: 'https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00195'
 
 
-url_pdf: ''
+url_pdf: '2024_ISMAR_KARVIMIO_Demo_HEX.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
