@@ -39,9 +39,10 @@ featured: true
 links:
 - name: Paper
   url: 'https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00195'
+- name: PDF
+  url: '2024_ISMAR_KARVIMIO_Demo_HEX.pdf'
 
-
-url_pdf: '2024_ISMAR_KARVIMIO_Demo_HEX.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
