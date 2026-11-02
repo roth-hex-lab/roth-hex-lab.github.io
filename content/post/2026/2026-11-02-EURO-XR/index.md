@@ -14,3 +14,5 @@ _Authors:_ Kreimeier, J, Prasad, P., Müller, D., Merkl, F., Hoegl, J., Andress,
 _Authors:_ Kreimeier, J., Kirchner-Krath, J., Enders, F., Schuhmann, F., Lutz, D., Morschheuser, B., & Roth, D. (2026). 
 
 [Proceedings](https://link.springer.com/chapter/10.1007/978-3-032-42847-9_12)
+
+{{< figure src="featured.png" width="50%" >}}
