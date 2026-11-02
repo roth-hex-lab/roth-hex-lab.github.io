@@ -7,12 +7,10 @@ image:
   preview_only: true
 ---
 **Gaze-Based Augmented Reality Selection on the Magic Leap 2: Comparing Eye-Only and Foot-Pedal Confirmation for Scrub Nurses and Laypersons.**
-_Authors:_ In International Conference on Virtual Reality and Mixed Reality (to appear). Cham: Springer Nature Switzerland.
-Kreimeier, J, Prasad, P., Müller, D., Merkl, F., Hoegl, J., Andress, S., von Eisenhart-Rothe, R., & Roth, D. (2026). 
+_Authors:_ Kreimeier, J, Prasad, P., Müller, D., Merkl, F., Hoegl, J., Andress, S., von Eisenhart-Rothe, R., & Roth, D. (2026). 
 
 
 **From Virtual Actions to Real-World Impact: Exploring the Normative Effects of a Virtual Reality Simulation for Climate Change Education.**
 _Authors:_ Kreimeier, J., Kirchner-Krath, J., Enders, F., Schuhmann, F., Lutz, D., Morschheuser, B., & Roth, D. (2026). 
-In International Conference on Virtual Reality and Mixed Reality (to appear). Cham: Springer Nature Switzerland.
 
 [Proceedings](https://link.springer.com/chapter/10.1007/978-3-032-42847-9_12)
