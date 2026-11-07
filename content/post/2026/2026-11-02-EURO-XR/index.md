@@ -2,7 +2,7 @@
 title: HEX @ EUROXR 2026
 date: 2026-10-28
 summary: >
-    HEX @ EUROXR 2026.Julian is heading to EUROXR 2026 to present two papers showcasing recent research from HEX on immersive technologies and their real-world applications.
+    HEX @ EUROXR 2026. Julian is heading to EUROXR 2026 to present two papers showcasing recent research from HEX on immersive technologies and their real-world applications.
 image:
   preview_only: true
 ---
